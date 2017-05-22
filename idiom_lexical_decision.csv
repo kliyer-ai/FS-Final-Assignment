@@ -1,0 +1,2067 @@
+Condition	Freqs	Knowledge	log_RTs	Idiom	Subject	LP	Transparency
+Fig	2.49	6	6.2952660014	één lijn trekken	2	4.73	2.88
+Lit	2.43	6	6.280395839	één lijn trekken	2	4.73	2.88
+Fig	2.25	5	6.907755279	aan een zijden draadje hangen	2	3.73	3.14
+Lit	2.47	5	6.2480428745	aan een zijden draadje hangen	2	3.73	3.14
+Fig	3.45	5	6.3403593037	aan het roer staan	2	4.73	4.6
+Lit	3.7	5	6.3403593037	aan het roer staan	2	4.73	4.6
+Lit	2.96	7	6.1984787165	als paddenstoelen uit de grond schieten	2	2.27	3.29
+Fig	2.66	7	5.926926026	als paddenstoelen uit de grond schieten	2	2.27	3.29
+Fig	2.28	7	6.0330862218	de koe bij de hoorns vatten	2	4.05	3.17
+Lit	3.04	7	6.1092475828	de koe bij de hoorns vatten	2	4.05	3.17
+Fig	2.93	6	6.2633982626	ergens mee in de maag zitten	2	2.86	2.95
+Fig	2.13	2	6.3543700408	ergens zijn neus voor optrekken	2	4.23	3.33
+Lit	2.22	2	6.5147126909	ergens zijn neus voor optrekken	2	4.23	3.33
+Fig	3.58	7	6.280395839	het niet breed hebben	2	1.95	3.24
+Lit	2.42	7	6.4645883037	het niet breed hebben	2	1.95	3.24
+Fig	3.81	6	6.2952660014	iemand aan de tand voelen	2	4.45	2.83
+Fig	2.73	6	6.1984787165	iemand de wet voorschrijven	2	3.68	3.67
+Lit	2.75	6	6.4248690239	iemand de wet voorschrijven	2	3.68	3.67
+Fig	1.81	6	6.2480428745	iemand iets in de schoenen schuiven	2	4.05	3.09
+Fig	2.68	5	6.0520891689	iemand op de huid zitten	2	3.05	3.38
+Lit	2.6	5	6.0112671744	iemand op de huid zitten	2	3.05	3.38
+Lit	2.14	5	6.1092475828	iemand tegen de schenen schoppen	2	4.73	3.71
+Fig	2.7	5	6.280395839	iemand tegen de schenen schoppen	2	4.73	3.71
+Lit	2.7	5	6.4118182677	iemand wakker schudden	2	4.77	3.43
+Fig	3.81	5	6.4118182677	iemand wakker schudden	2	4.77	3.43
+Lit	2.1	5	6.1463292577	iemand/iets tot in de wolken verheffen	2	1.82	3.75
+Fig	2.68	5	6.1820849067	iemand/iets tot in de wolken verheffen	2	1.82	3.75
+Lit	1.93	6	6.7742238864	iets op poten zetten	2	4	3.38
+Fig	2.39	6	5.9914645471	iets op poten zetten	2	4	3.38
+Lit	2.55	5	6.0913098821	iets uit de losse pols doen	2	2.27	3.13
+Fig	2.53	5	6.0913098821	iets uit de losse pols doen	2	2.27	3.13
+Fig	2.81	7	6.0520891689	iets uit je duim zuigen	2	1.95	3.21
+Lit	2.4	7	6.1820849067	iets uit je duim zuigen	2	1.95	3.21
+Fig	2.26	4	6.1820849067	iets van tafel vegen	2	4.73	3.38
+Lit	2.15	4	6.1984787165	iets van tafel vegen	2	4.73	3.38
+Fig	3.28	7	6.1290502101	met de rug tegen de muur staan	2	4.81818	3.24
+Lit	2.65	7	6.163314804	met de rug tegen de muur staan	2	4.81818	3.24
+Lit	1.95	6	6.0913098821	op het puntje van de tong liggen	2	3.05	3.52
+Fig	3.51	6	6.3699009828	op het puntje van de tong liggen	2	3.05	3.52
+Lit	2.07	2	6.551080335	op zijn achterste benen staan	2	2.86	2.62
+Fig	2.55	2	6.0913098821	op zijn achterste benen staan	2	2.86	2.62
+Lit	3.05	7	6.0330862218	op zijn centen zitten	2	4.68	3.71
+Fig	2.23	7	6.1984787165	op zijn centen zitten	2	4.68	3.71
+Fig	3.36	7	5.926926026	voor aap staan	2	2.045454545	3.22
+Lit	2.76	7	6.2146080984	voor aap staan	2	2.045454545	3.22
+Fig	3.02	7	6.1984787165	voor iemand door het vuur gaan	2	3.91	4.18
+Lit	1.9	7	6.2480428745	voor iemand door het vuur gaan	2	3.91	4.18
+Fig	2.49	4	6.2146080984	één lijn trekken	3	4.73	2.88
+Lit	2.43	4	6.6528630294	één lijn trekken	3	4.73	2.88
+Fig	2.25	1	6.163314804	aan een zijden draadje hangen	3	3.73	3.14
+Lit	2.47	1	6.0112671744	aan een zijden draadje hangen	3	3.73	3.14
+Fig	3.45	6	6.163314804	aan het roer staan	3	4.73	4.6
+Lit	3.7	6	5.9712618398	aan het roer staan	3	4.73	4.6
+Lit	2.96	7	6.3835066349	als paddenstoelen uit de grond schieten	3	2.27	3.29
+Fig	2.66	7	6.0913098821	als paddenstoelen uit de grond schieten	3	2.27	3.29
+Fig	2.28	4	6.2146080984	de koe bij de hoorns vatten	3	4.05	3.17
+Lit	3.04	4	6.3403593037	de koe bij de hoorns vatten	3	4.05	3.17
+Fig	2.93	6	6.1290502101	ergens mee in de maag zitten	3	2.86	2.95
+Fig	2.13	7	6.2324480166	ergens zijn neus voor optrekken	3	4.23	3.33
+Lit	2.22	7	6.0730445341	ergens zijn neus voor optrekken	3	4.23	3.33
+Fig	3.58	7	6.1984787165	het niet breed hebben	3	1.95	3.24
+Lit	2.42	7	6.3835066349	het niet breed hebben	3	1.95	3.24
+Fig	3.81	6	6.0520891689	iemand aan de tand voelen	3	4.45	2.83
+Fig	2.73	6	6.1092475828	iemand de wet voorschrijven	3	3.68	3.67
+Lit	2.75	6	6.4520489544	iemand de wet voorschrijven	3	3.68	3.67
+Fig	1.81	6	6.2952660014	iemand iets in de schoenen schuiven	3	4.05	3.09
+Fig	2.68	5	6.3099182782	iemand op de huid zitten	3	3.05	3.38
+Lit	2.6	5	6.0330862218	iemand op de huid zitten	3	3.05	3.38
+Lit	2.14	6	6.7357800142	iemand tegen de schenen schoppen	3	4.73	3.71
+Fig	2.7	6	6.2480428745	iemand tegen de schenen schoppen	3	4.73	3.71
+Lit	2.7	5	6.2480428745	iemand wakker schudden	3	4.77	3.43
+Fig	3.81	5	6.2633982626	iemand wakker schudden	3	4.77	3.43
+Lit	2.1	7	6.1984787165	iemand/iets tot in de wolken verheffen	3	1.82	3.75
+Fig	2.68	7	6.1820849067	iemand/iets tot in de wolken verheffen	3	1.82	3.75
+Lit	1.93	7	6.6093492432	iets op poten zetten	3	4	3.38
+Fig	2.39	7	6.1092475828	iets op poten zetten	3	4	3.38
+Lit	2.55	5	5.9053618481	iets uit de losse pols doen	3	2.27	3.13
+Fig	2.53	5	6.2952660014	iets uit de losse pols doen	3	2.27	3.13
+Fig	2.81	7	6.0520891689	iets uit je duim zuigen	3	1.95	3.21
+Lit	2.4	7	6.2952660014	iets uit je duim zuigen	3	1.95	3.21
+Fig	2.26	5	6.3261494732	iets van tafel vegen	3	4.73	3.38
+Lit	2.15	5	6.1820849067	iets van tafel vegen	3	4.73	3.38
+Fig	3.28	7	6.0913098821	met de rug tegen de muur staan	3	4.81818	3.24
+Lit	2.65	7	6.1092475828	met de rug tegen de muur staan	3	4.81818	3.24
+Lit	1.95	4	6.1984787165	op het puntje van de tong liggen	3	3.05	3.52
+Fig	3.51	4	6.163314804	op het puntje van de tong liggen	3	3.05	3.52
+Lit	2.07	6	6.3261494732	op zijn achterste benen staan	3	2.86	2.62
+Fig	2.55	6	6.0913098821	op zijn achterste benen staan	3	2.86	2.62
+Lit	3.05	7	6.280395839	op zijn centen zitten	3	4.68	3.71
+Fig	2.23	7	5.9914645471	op zijn centen zitten	3	4.68	3.71
+Fig	3.36	7	6.0913098821	voor aap staan	3	2.045454545	3.22
+Lit	2.76	7	6.163314804	voor aap staan	3	2.045454545	3.22
+Fig	3.02	7	5.9506425526	voor iemand door het vuur gaan	3	3.91	4.18
+Lit	1.9	7	5.9053618481	voor iemand door het vuur gaan	3	3.91	4.18
+Fig	2.49	6	6.4118182677	één lijn trekken	4	4.73	2.88
+Lit	2.43	6	6.2146080984	één lijn trekken	4	4.73	2.88
+Fig	2.25	6	6.2324480166	aan een zijden draadje hangen	4	3.73	3.14
+Lit	2.47	6	6.1290502101	aan een zijden draadje hangen	4	3.73	3.14
+Fig	3.45	6	6.6093492432	aan het roer staan	4	4.73	4.6
+Lit	3.7	6	6.0913098821	aan het roer staan	4	4.73	4.6
+Lit	2.96	5	6.2146080984	als paddenstoelen uit de grond schieten	4	2.27	3.29
+Fig	2.66	5	6.013715156	als paddenstoelen uit de grond schieten	4	2.27	3.29
+Fig	2.28	5	6.2146080984	de koe bij de hoorns vatten	4	4.05	3.17
+Lit	3.04	5	5.9053618481	de koe bij de hoorns vatten	4	4.05	3.17
+Fig	2.93	6	6.1820849067	ergens mee in de maag zitten	4	2.86	2.95
+Fig	2.13	6	6.1820849067	ergens zijn neus voor optrekken	4	4.23	3.33
+Lit	2.22	6	6.2324480166	ergens zijn neus voor optrekken	4	4.23	3.33
+Fig	3.58	7	6.7452363495	het niet breed hebben	4	1.95	3.24
+Lit	2.42	7	6.551080335	het niet breed hebben	4	1.95	3.24
+Fig	3.81	6	6.4769723629	iemand aan de tand voelen	4	4.45	2.83
+Fig	2.73	6	6.2480428745	iemand de wet voorschrijven	4	3.68	3.67
+Lit	2.75	6	6.1463292577	iemand de wet voorschrijven	4	3.68	3.67
+Fig	1.81	6	6.4248690239	iemand iets in de schoenen schuiven	4	4.05	3.09
+Fig	2.68	6	6.1092475828	iemand op de huid zitten	4	3.05	3.38
+Lit	2.6	6	6.6200732065	iemand op de huid zitten	4	3.05	3.38
+Lit	2.14	7	6.1290502101	iemand tegen de schenen schoppen	4	4.73	3.71
+Fig	2.7	7	6.4520489544	iemand tegen de schenen schoppen	4	4.73	3.71
+Lit	2.7	3	6.5147126909	iemand wakker schudden	4	4.77	3.43
+Fig	3.81	3	6.280395839	iemand wakker schudden	4	4.77	3.43
+Lit	2.1	6	6.1463292577	iemand/iets tot in de wolken verheffen	4	1.82	3.75
+Fig	2.68	6	6.1290502101	iemand/iets tot in de wolken verheffen	4	1.82	3.75
+Lit	1.93	6	6.5279579176	iets op poten zetten	4	4	3.38
+Fig	2.39	6	6.2633982626	iets op poten zetten	4	4	3.38
+Lit	2.55	7	6.3543700408	iets uit de losse pols doen	4	2.27	3.13
+Fig	2.53	7	6.5395859556	iets uit de losse pols doen	4	2.27	3.13
+Fig	2.81	7	6.4769723629	iets uit je duim zuigen	4	1.95	3.21
+Lit	2.4	7	6.4645883037	iets uit je duim zuigen	4	1.95	3.21
+Fig	2.26	5	6.2952660014	iets van tafel vegen	4	4.73	3.38
+Lit	2.15	5	6.0913098821	iets van tafel vegen	4	4.73	3.38
+Fig	3.28	7	6.1820849067	met de rug tegen de muur staan	4	4.81818	3.24
+Lit	2.65	7	6.2324480166	met de rug tegen de muur staan	4	4.81818	3.24
+Lit	1.95	7	6.3543700408	op het puntje van de tong liggen	4	3.05	3.52
+Fig	3.51	7	6.5027900459	op het puntje van de tong liggen	4	3.05	3.52
+Lit	2.07	6	6.3835066349	op zijn achterste benen staan	4	2.86	2.62
+Fig	2.55	6	5.9712618398	op zijn achterste benen staan	4	2.86	2.62
+Lit	3.05	7	6.2952660014	op zijn centen zitten	4	4.68	3.71
+Fig	2.23	7	6.4769723629	op zijn centen zitten	4	4.68	3.71
+Fig	3.36	7	6.3261494732	voor aap staan	4	2.045454545	3.22
+Lit	2.76	7	6.4645883037	voor aap staan	4	2.045454545	3.22
+Fig	3.02	7	6.1092475828	voor iemand door het vuur gaan	4	3.91	4.18
+Lit	1.9	7	6.2633982626	voor iemand door het vuur gaan	4	3.91	4.18
+Fig	2.49	4	6.907755279	één lijn trekken	5	4.73	2.88
+Lit	2.43	4	6.3403593037	één lijn trekken	5	4.73	2.88
+Fig	2.25	6	6.5147126909	aan een zijden draadje hangen	5	3.73	3.14
+Lit	2.47	6	6.3099182782	aan een zijden draadje hangen	5	3.73	3.14
+Fig	3.45	6	6.907755279	aan het roer staan	5	4.73	4.6
+Lit	3.7	6	6.0520891689	aan het roer staan	5	4.73	4.6
+Lit	2.96	7	6.6528630294	als paddenstoelen uit de grond schieten	5	2.27	3.29
+Fig	2.66	7	6.2952660014	als paddenstoelen uit de grond schieten	5	2.27	3.29
+Fig	2.28	1	6.1820849067	de koe bij de hoorns vatten	5	4.05	3.17
+Lit	3.04	1	6.4645883037	de koe bij de hoorns vatten	5	4.05	3.17
+Fig	2.93	6	6.2633982626	ergens mee in de maag zitten	5	2.86	2.95
+Fig	2.13	7	6.7742238864	ergens zijn neus voor optrekken	5	4.23	3.33
+Lit	2.22	7	6.1984787165	ergens zijn neus voor optrekken	5	4.23	3.33
+Fig	3.58	7	6.4645883037	het niet breed hebben	5	1.95	3.24
+Lit	2.42	7	6.7153833863	het niet breed hebben	5	1.95	3.24
+Fig	3.81	3	6.4118182677	iemand aan de tand voelen	5	4.45	2.83
+Fig	2.73	6	6.4118182677	iemand de wet voorschrijven	5	3.68	3.67
+Lit	2.75	6	6.5750758406	iemand de wet voorschrijven	5	3.68	3.67
+Fig	1.81	5	6.3099182782	iemand iets in de schoenen schuiven	5	4.05	3.09
+Fig	2.68	6	6.4645883037	iemand op de huid zitten	5	3.05	3.38
+Lit	2.6	6	6.907755279	iemand op de huid zitten	5	3.05	3.38
+Lit	2.14	7	6.7357800142	iemand tegen de schenen schoppen	5	4.73	3.71
+Fig	2.7	7	6.6093492432	iemand tegen de schenen schoppen	5	4.73	3.71
+Lit	2.7	5	6.8023947633	iemand wakker schudden	5	4.77	3.43
+Fig	3.81	5	6.4769723629	iemand wakker schudden	5	4.77	3.43
+Lit	2.1	6	6.1984787165	iemand/iets tot in de wolken verheffen	5	1.82	3.75
+Fig	2.68	6	6.1290502101	iemand/iets tot in de wolken verheffen	5	1.82	3.75
+Lit	1.93	6	6.6424868014	iets op poten zetten	5	4	3.38
+Fig	2.39	6	6.280395839	iets op poten zetten	5	4	3.38
+Lit	2.55	4	6.907755279	iets uit de losse pols doen	5	2.27	3.13
+Fig	2.53	4	6.7844570626	iets uit de losse pols doen	5	2.27	3.13
+Fig	2.81	7	6.6200732065	iets uit je duim zuigen	5	1.95	3.21
+Lit	2.4	7	6.4520489544	iets uit je duim zuigen	5	1.95	3.21
+Fig	2.26	4	6.6320017774	iets van tafel vegen	5	4.73	3.38
+Lit	2.15	4	6.551080335	iets van tafel vegen	5	4.73	3.38
+Fig	3.28	7	6.9411900551	met de rug tegen de muur staan	5	4.81818	3.24
+Lit	2.65	7	6.163314804	met de rug tegen de muur staan	5	4.81818	3.24
+Lit	1.95	7	6.3699009828	op het puntje van de tong liggen	5	3.05	3.52
+Fig	3.51	7	6.013715156	op het puntje van de tong liggen	5	3.05	3.52
+Lit	2.07	4	6.7650389768	op zijn achterste benen staan	5	2.86	2.62
+Fig	2.55	4	6.4248690239	op zijn achterste benen staan	5	2.86	2.62
+Lit	3.05	7	6.5985090286	op zijn centen zitten	5	4.68	3.71
+Fig	2.23	7	6.8480052746	op zijn centen zitten	5	4.68	3.71
+Fig	3.36	7	6.4645883037	voor aap staan	5	2.045454545	3.22
+Lit	2.76	7	6.5147126909	voor aap staan	5	2.045454545	3.22
+Fig	3.02	7	6.280395839	voor iemand door het vuur gaan	5	3.91	4.18
+Lit	1.9	7	6.7452363495	voor iemand door het vuur gaan	5	3.91	4.18
+Fig	2.49	4	6.1092475828	één lijn trekken	6	4.73	2.88
+Lit	2.43	4	6.5861716549	één lijn trekken	6	4.73	2.88
+Fig	2.25	7	6.3699009828	aan een zijden draadje hangen	6	3.73	3.14
+Lit	2.47	7	6.3543700408	aan een zijden draadje hangen	6	3.73	3.14
+Fig	3.45	7	5.926926026	aan het roer staan	6	4.73	4.6
+Lit	3.7	7	5.811140993	aan het roer staan	6	4.73	4.6
+Lit	2.96	7	6.280395839	als paddenstoelen uit de grond schieten	6	2.27	3.29
+Fig	2.66	7	5.9053618481	als paddenstoelen uit de grond schieten	6	2.27	3.29
+Fig	2.28	6	5.9914645471	de koe bij de hoorns vatten	6	4.05	3.17
+Lit	3.04	6	5.9914645471	de koe bij de hoorns vatten	6	4.05	3.17
+Fig	2.93	6	6.0520891689	ergens mee in de maag zitten	6	2.86	2.95
+Fig	2.13	4	6.280395839	ergens zijn neus voor optrekken	6	4.23	3.33
+Lit	2.22	4	5.926926026	ergens zijn neus voor optrekken	6	4.23	3.33
+Fig	3.58	7	6.2324480166	het niet breed hebben	6	1.95	3.24
+Lit	2.42	7	6.2480428745	het niet breed hebben	6	1.95	3.24
+Fig	3.81	6	5.730099783	iemand aan de tand voelen	6	4.45	2.83
+Fig	2.73	6	6.1820849067	iemand de wet voorschrijven	6	3.68	3.67
+Lit	2.75	6	6.1820849067	iemand de wet voorschrijven	6	3.68	3.67
+Fig	1.81	6	5.9506425526	iemand iets in de schoenen schuiven	6	4.05	3.09
+Fig	2.68	5	5.926926026	iemand op de huid zitten	6	3.05	3.38
+Lit	2.6	5	6.280395839	iemand op de huid zitten	6	3.05	3.38
+Lit	2.14	7	6.3835066349	iemand tegen de schenen schoppen	6	4.73	3.71
+Fig	2.7	7	6.4248690239	iemand tegen de schenen schoppen	6	4.73	3.71
+Lit	2.7	3	6.0330862218	iemand wakker schudden	6	4.77	3.43
+Fig	3.81	3	5.9506425526	iemand wakker schudden	6	4.77	3.43
+Lit	2.1	6	6.1290502101	iemand/iets tot in de wolken verheffen	6	1.82	3.75
+Fig	2.68	6	6.1984787165	iemand/iets tot in de wolken verheffen	6	1.82	3.75
+Lit	1.93	6	6.3261494732	iets op poten zetten	6	4	3.38
+Fig	2.39	6	5.9712618398	iets op poten zetten	6	4	3.38
+Lit	2.55	4	6.3099182782	iets uit de losse pols doen	6	2.27	3.13
+Fig	2.53	4	6.1290502101	iets uit de losse pols doen	6	2.27	3.13
+Fig	2.81	7	5.926926026	iets uit je duim zuigen	6	1.95	3.21
+Lit	2.4	7	5.926926026	iets uit je duim zuigen	6	1.95	3.21
+Fig	2.26	4	6.280395839	iets van tafel vegen	6	4.73	3.38
+Lit	2.15	4	5.926926026	iets van tafel vegen	6	4.73	3.38
+Fig	3.28	7	5.9914645471	met de rug tegen de muur staan	6	4.81818	3.24
+Lit	2.65	7	6.3261494732	met de rug tegen de muur staan	6	4.81818	3.24
+Lit	1.95	7	5.8805329864	op het puntje van de tong liggen	6	3.05	3.52
+Fig	3.51	7	5.9914645471	op het puntje van de tong liggen	6	3.05	3.52
+Lit	2.07	5	6.1463292577	op zijn achterste benen staan	6	2.86	2.62
+Fig	2.55	5	5.9914645471	op zijn achterste benen staan	6	2.86	2.62
+Lit	3.05	7	6.2480428745	op zijn centen zitten	6	4.68	3.71
+Fig	2.23	7	6.0730445341	op zijn centen zitten	6	4.68	3.71
+Fig	3.36	7	5.9914645471	voor aap staan	6	2.045454545	3.22
+Lit	2.76	7	5.9914645471	voor aap staan	6	2.045454545	3.22
+Fig	3.02	6	6.0520891689	voor iemand door het vuur gaan	6	3.91	4.18
+Lit	1.9	6	5.9712618398	voor iemand door het vuur gaan	6	3.91	4.18
+Fig	2.49	1	6.0520891689	één lijn trekken	7	4.73	2.88
+Lit	2.43	1	6.070737728	één lijn trekken	7	4.73	2.88
+Fig	2.25	5	6.0330862218	aan een zijden draadje hangen	7	3.73	3.14
+Lit	2.47	5	6.1984787165	aan een zijden draadje hangen	7	3.73	3.14
+Fig	3.45	6	6.0730445341	aan het roer staan	7	4.73	4.6
+Lit	3.7	6	5.9053618481	aan het roer staan	7	4.73	4.6
+Lit	2.96	5	6.2633982626	als paddenstoelen uit de grond schieten	7	2.27	3.29
+Fig	2.66	5	6.1984787165	als paddenstoelen uit de grond schieten	7	2.27	3.29
+Fig	2.28	6	5.8579331545	de koe bij de hoorns vatten	7	4.05	3.17
+Lit	3.04	6	6.0330862218	de koe bij de hoorns vatten	7	4.05	3.17
+Fig	2.93	6	5.9712618398	ergens mee in de maag zitten	7	2.86	2.95
+Fig	2.13	7	5.8348107371	ergens zijn neus voor optrekken	7	4.23	3.33
+Lit	2.22	7	6.1463292577	ergens zijn neus voor optrekken	7	4.23	3.33
+Fig	3.58	7	6.1984787165	het niet breed hebben	7	1.95	3.24
+Lit	2.42	7	6.1984787165	het niet breed hebben	7	1.95	3.24
+Fig	3.81	6	5.8579331545	iemand aan de tand voelen	7	4.45	2.83
+Fig	2.73	6	6.0330862218	iemand de wet voorschrijven	7	3.68	3.67
+Lit	2.75	6	5.9712618398	iemand de wet voorschrijven	7	3.68	3.67
+Fig	1.81	4	6.0520891689	iemand iets in de schoenen schuiven	7	4.05	3.09
+Fig	2.68	6	6.163314804	iemand op de huid zitten	7	3.05	3.38
+Lit	2.6	6	5.8579331545	iemand op de huid zitten	7	3.05	3.38
+Lit	2.14	7	5.9914645471	iemand tegen de schenen schoppen	7	4.73	3.71
+Fig	2.7	7	6.1820849067	iemand tegen de schenen schoppen	7	4.73	3.71
+Lit	2.7	3	6.0330862218	iemand wakker schudden	7	4.77	3.43
+Fig	3.81	3	6.2633982626	iemand wakker schudden	7	4.77	3.43
+Lit	2.1	7	6.3835066349	iemand/iets tot in de wolken verheffen	7	1.82	3.75
+Fig	2.68	7	6.0520891689	iemand/iets tot in de wolken verheffen	7	1.82	3.75
+Lit	1.93	7	6.0112671744	iets op poten zetten	7	4	3.38
+Fig	2.39	7	5.8833223885	iets op poten zetten	7	4	3.38
+Lit	2.55	4	6.013715156	iets uit de losse pols doen	7	2.27	3.13
+Fig	2.53	4	6.0913098821	iets uit de losse pols doen	7	2.27	3.13
+Fig	2.81	7	6.163314804	iets uit je duim zuigen	7	1.95	3.21
+Lit	2.4	7	5.9914645471	iets uit je duim zuigen	7	1.95	3.21
+Fig	2.26	5	6.1092475828	iets van tafel vegen	7	4.73	3.38
+Lit	2.15	5	5.9712618398	iets van tafel vegen	7	4.73	3.38
+Fig	3.28	7	5.811140993	met de rug tegen de muur staan	7	4.81818	3.24
+Lit	2.65	7	5.9914645471	met de rug tegen de muur staan	7	4.81818	3.24
+Lit	1.95	7	6.0730445341	op het puntje van de tong liggen	7	3.05	3.52
+Fig	3.51	7	6.0730445341	op het puntje van de tong liggen	7	3.05	3.52
+Lit	2.07	2	6.1820849067	op zijn achterste benen staan	7	2.86	2.62
+Fig	2.55	2	6.2146080984	op zijn achterste benen staan	7	2.86	2.62
+Lit	3.05	7	6.0330862218	op zijn centen zitten	7	4.68	3.71
+Fig	2.23	7	6.163314804	op zijn centen zitten	7	4.68	3.71
+Fig	3.36	7	6.3543700408	voor aap staan	7	2.045454545	3.22
+Lit	2.76	7	6.0913098821	voor aap staan	7	2.045454545	3.22
+Fig	3.02	7	6.1092475828	voor iemand door het vuur gaan	7	3.91	4.18
+Lit	1.9	7	6.0913098821	voor iemand door het vuur gaan	7	3.91	4.18
+Fig	2.49	6	6.3543700408	één lijn trekken	8	4.73	2.88
+Lit	2.43	6	6.5750758406	één lijn trekken	8	4.73	2.88
+Fig	2.25	6	6.3099182782	aan een zijden draadje hangen	8	3.73	3.14
+Lit	2.47	6	6.3261494732	aan een zijden draadje hangen	8	3.73	3.14
+Fig	3.45	7	6.2324480166	aan het roer staan	8	4.73	4.6
+Lit	3.7	7	6.3969296552	aan het roer staan	8	4.73	4.6
+Lit	2.96	1	6.4248690239	als paddenstoelen uit de grond schieten	8	2.27	3.29
+Fig	2.66	1	6.5027900459	als paddenstoelen uit de grond schieten	8	2.27	3.29
+Fig	2.28	6	6.280395839	de koe bij de hoorns vatten	8	4.05	3.17
+Lit	3.04	6	6.280395839	de koe bij de hoorns vatten	8	4.05	3.17
+Fig	2.93	5	6.2633982626	ergens mee in de maag zitten	8	2.86	2.95
+Fig	2.13	5	6.6846117277	ergens zijn neus voor optrekken	8	4.23	3.33
+Lit	2.22	5	6.3099182782	ergens zijn neus voor optrekken	8	4.23	3.33
+Fig	3.58	7	6.3543700408	het niet breed hebben	8	1.95	3.24
+Lit	2.42	7	6.6200732065	het niet breed hebben	8	1.95	3.24
+Fig	3.81	6	6.1290502101	iemand aan de tand voelen	8	4.45	2.83
+Fig	2.73	6	6.3969296552	iemand de wet voorschrijven	8	3.68	3.67
+Lit	2.75	6	6.3261494732	iemand de wet voorschrijven	8	3.68	3.67
+Fig	1.81	6	6.6846117277	iemand iets in de schoenen schuiven	8	4.05	3.09
+Fig	2.68	5	6.7934661326	iemand op de huid zitten	8	3.05	3.38
+Lit	2.6	5	6.2324480166	iemand op de huid zitten	8	3.05	3.38
+Lit	2.14	7	6.3099182782	iemand tegen de schenen schoppen	8	4.73	3.71
+Fig	2.7	7	6.4645883037	iemand tegen de schenen schoppen	8	4.73	3.71
+Lit	2.7	1	6.5750758406	iemand wakker schudden	8	4.77	3.43
+Fig	3.81	1	6.4377516497	iemand wakker schudden	8	4.77	3.43
+Lit	2.1	7	6.4769723629	iemand/iets tot in de wolken verheffen	8	1.82	3.75
+Fig	2.68	7	6.1984787165	iemand/iets tot in de wolken verheffen	8	1.82	3.75
+Lit	1.93	1	6.5279579176	iets op poten zetten	8	4	3.38
+Fig	2.39	1	6.3261494732	iets op poten zetten	8	4	3.38
+Lit	2.55	6	6.5750758406	iets uit de losse pols doen	8	2.27	3.13
+Fig	2.53	6	6.4645883037	iets uit de losse pols doen	8	2.27	3.13
+Fig	2.81	7	6.5279579176	iets uit je duim zuigen	8	1.95	3.21
+Lit	2.4	7	6.4248690239	iets uit je duim zuigen	8	1.95	3.21
+Fig	2.26	5	6.4377516497	iets van tafel vegen	8	4.73	3.38
+Lit	2.15	5	6.3261494732	iets van tafel vegen	8	4.73	3.38
+Fig	3.28	7	6.280395839	met de rug tegen de muur staan	8	4.81818	3.24
+Lit	2.65	7	6.5027900459	met de rug tegen de muur staan	8	4.81818	3.24
+Lit	1.95	6	6.2633982626	op het puntje van de tong liggen	8	3.05	3.52
+Fig	3.51	6	6.2324480166	op het puntje van de tong liggen	8	3.05	3.52
+Lit	2.07	1	6.4377516497	op zijn achterste benen staan	8	2.86	2.62
+Fig	2.55	1	6.5395859556	op zijn achterste benen staan	8	2.86	2.62
+Lit	3.05	1	6.4377516497	op zijn centen zitten	8	4.68	3.71
+Fig	2.23	1	6.6846117277	op zijn centen zitten	8	4.68	3.71
+Fig	3.36	7	6.5279579176	voor aap staan	8	2.045454545	3.22
+Lit	2.76	7	6.4118182677	voor aap staan	8	2.045454545	3.22
+Fig	3.02	7	6.4377516497	voor iemand door het vuur gaan	8	3.91	4.18
+Lit	1.9	7	6.7056390949	voor iemand door het vuur gaan	8	3.91	4.18
+Fig	2.49	4	6.2146080984	één lijn trekken	9	4.73	2.88
+Lit	2.43	4	6.2146080984	één lijn trekken	9	4.73	2.88
+Fig	2.25	6	6.5147126909	aan een zijden draadje hangen	9	3.73	3.14
+Lit	2.47	6	6.2146080984	aan een zijden draadje hangen	9	3.73	3.14
+Fig	3.45	7	5.9914645471	aan het roer staan	9	4.73	4.6
+Lit	3.7	7	6.907755279	aan het roer staan	9	4.73	4.6
+Lit	2.96	4	6.280395839	als paddenstoelen uit de grond schieten	9	2.27	3.29
+Fig	2.66	4	6.5395859556	als paddenstoelen uit de grond schieten	9	2.27	3.29
+Fig	2.28	6	6.2633982626	de koe bij de hoorns vatten	9	4.05	3.17
+Lit	3.04	6	6.1092475828	de koe bij de hoorns vatten	9	4.05	3.17
+Fig	2.93	6	6.1820849067	ergens mee in de maag zitten	9	2.86	2.95
+Fig	2.13	4	6.3099182782	ergens zijn neus voor optrekken	9	4.23	3.33
+Lit	2.22	4	6.280395839	ergens zijn neus voor optrekken	9	4.23	3.33
+Fig	3.58	7	6.0913098821	het niet breed hebben	9	1.95	3.24
+Lit	2.42	7	6.8211074723	het niet breed hebben	9	1.95	3.24
+Fig	3.81	7	6.0520891689	iemand aan de tand voelen	9	4.45	2.83
+Fig	2.73	6	6.0520891689	iemand de wet voorschrijven	9	3.68	3.67
+Lit	2.75	6	6.013715156	iemand de wet voorschrijven	9	3.68	3.67
+Fig	1.81	6	6.3969296552	iemand iets in de schoenen schuiven	9	4.05	3.09
+Fig	2.68	6	6.2324480166	iemand op de huid zitten	9	3.05	3.38
+Lit	2.6	6	6.1092475828	iemand op de huid zitten	9	3.05	3.38
+Lit	2.14	7	5.9914645471	iemand tegen de schenen schoppen	9	4.73	3.71
+Fig	2.7	7	6.2304814476	iemand tegen de schenen schoppen	9	4.73	3.71
+Lit	2.7	5	6.1463292577	iemand wakker schudden	9	4.77	3.43
+Fig	3.81	5	6.5861716549	iemand wakker schudden	9	4.77	3.43
+Lit	2.1	7	6.1463292577	iemand/iets tot in de wolken verheffen	9	1.82	3.75
+Fig	2.68	7	6.0913098821	iemand/iets tot in de wolken verheffen	9	1.82	3.75
+Lit	1.93	7	6.1463292577	iets op poten zetten	9	4	3.38
+Fig	2.39	7	6.1463292577	iets op poten zetten	9	4	3.38
+Lit	2.55	5	6.163314804	iets uit de losse pols doen	9	2.27	3.13
+Fig	2.53	5	6.1820849067	iets uit de losse pols doen	9	2.27	3.13
+Fig	2.81	7	6.0730445341	iets uit je duim zuigen	9	1.95	3.21
+Lit	2.4	7	6.0330862218	iets uit je duim zuigen	9	1.95	3.21
+Fig	2.26	6	6.3699009828	iets van tafel vegen	9	4.73	3.38
+Lit	2.15	6	6.2952660014	iets van tafel vegen	9	4.73	3.38
+Fig	3.28	7	6.0730445341	met de rug tegen de muur staan	9	4.81818	3.24
+Lit	2.65	7	6.0913098821	met de rug tegen de muur staan	9	4.81818	3.24
+Lit	1.95	7	6.1092475828	op het puntje van de tong liggen	9	3.05	3.52
+Fig	3.51	7	6.2633982626	op het puntje van de tong liggen	9	3.05	3.52
+Lit	2.07	1	6.2146080984	op zijn achterste benen staan	9	2.86	2.62
+Fig	2.55	1	6.2146080984	op zijn achterste benen staan	9	2.86	2.62
+Lit	3.05	7	6.2324480166	op zijn centen zitten	9	4.68	3.71
+Fig	2.23	7	5.9914645471	op zijn centen zitten	9	4.68	3.71
+Fig	3.36	7	6.280395839	voor aap staan	9	2.045454545	3.22
+Lit	2.76	7	6.3099182782	voor aap staan	9	2.045454545	3.22
+Fig	3.02	7	6.2146080984	voor iemand door het vuur gaan	9	3.91	4.18
+Lit	1.9	7	6.1820849067	voor iemand door het vuur gaan	9	3.91	4.18
+Fig	2.49	6	6.1820849067	één lijn trekken	10	4.73	2.88
+Lit	2.43	6	6.4118182677	één lijn trekken	10	4.73	2.88
+Fig	2.25	6	6.2146080984	aan een zijden draadje hangen	10	3.73	3.14
+Lit	2.47	6	6.2633982626	aan een zijden draadje hangen	10	3.73	3.14
+Fig	3.45	7	6.907755279	aan het roer staan	10	4.73	4.6
+Lit	3.7	7	6.3261494732	aan het roer staan	10	4.73	4.6
+Lit	2.96	5	6.6200732065	als paddenstoelen uit de grond schieten	10	2.27	3.29
+Fig	2.66	5	6.1290502101	als paddenstoelen uit de grond schieten	10	2.27	3.29
+Fig	2.28	7	6.1290502101	de koe bij de hoorns vatten	10	4.05	3.17
+Lit	3.04	7	6.163314804	de koe bij de hoorns vatten	10	4.05	3.17
+Fig	2.93	6	6.1092475828	ergens mee in de maag zitten	10	2.86	2.95
+Fig	2.13	2	6.2952660014	ergens zijn neus voor optrekken	10	4.23	3.33
+Lit	2.22	2	6.3403593037	ergens zijn neus voor optrekken	10	4.23	3.33
+Fig	3.58	7	6.2324480166	het niet breed hebben	10	1.95	3.24
+Lit	2.42	7	6.4248690239	het niet breed hebben	10	1.95	3.24
+Fig	3.81	6	6.1290502101	iemand aan de tand voelen	10	4.45	2.83
+Fig	2.73	6	6.2146080984	iemand de wet voorschrijven	10	3.68	3.67
+Lit	2.75	6	6.1290502101	iemand de wet voorschrijven	10	3.68	3.67
+Fig	1.81	6	6.0330862218	iemand iets in de schoenen schuiven	10	4.05	3.09
+Fig	2.68	6	6.6957989171	iemand op de huid zitten	10	3.05	3.38
+Lit	2.6	6	6.0913098821	iemand op de huid zitten	10	3.05	3.38
+Lit	2.14	6	6.163314804	iemand tegen de schenen schoppen	10	4.73	3.71
+Fig	2.7	6	6.2480428745	iemand tegen de schenen schoppen	10	4.73	3.71
+Lit	2.7	3	6.280395839	iemand wakker schudden	10	4.77	3.43
+Fig	3.81	3	6.4118182677	iemand wakker schudden	10	4.77	3.43
+Lit	2.1	5	6.3403593037	iemand/iets tot in de wolken verheffen	10	1.82	3.75
+Fig	2.68	5	6.1984787165	iemand/iets tot in de wolken verheffen	10	1.82	3.75
+Lit	1.93	6	6.4377516497	iets op poten zetten	10	4	3.38
+Fig	2.39	6	6.3699009828	iets op poten zetten	10	4	3.38
+Lit	2.55	6	6.1463292577	iets uit de losse pols doen	10	2.27	3.13
+Fig	2.53	6	6.2480428745	iets uit de losse pols doen	10	2.27	3.13
+Fig	2.81	7	6.3261494732	iets uit je duim zuigen	10	1.95	3.21
+Lit	2.4	7	6.1463292577	iets uit je duim zuigen	10	1.95	3.21
+Fig	2.26	5	6.2324480166	iets van tafel vegen	10	4.73	3.38
+Lit	2.15	5	6.1463292577	iets van tafel vegen	10	4.73	3.38
+Fig	3.28	7	6.163314804	met de rug tegen de muur staan	10	4.81818	3.24
+Lit	2.65	7	6.1290502101	met de rug tegen de muur staan	10	4.81818	3.24
+Lit	1.95	7	6.3261494732	op het puntje van de tong liggen	10	3.05	3.52
+Fig	3.51	7	6.2952660014	op het puntje van de tong liggen	10	3.05	3.52
+Lit	2.07	6	6.3835066349	op zijn achterste benen staan	10	2.86	2.62
+Fig	2.55	6	6.6745613918	op zijn achterste benen staan	10	2.86	2.62
+Lit	3.05	7	6.0330862218	op zijn centen zitten	10	4.68	3.71
+Fig	2.23	7	6.1092475828	op zijn centen zitten	10	4.68	3.71
+Fig	3.36	7	6.4520489544	voor aap staan	10	2.045454545	3.22
+Lit	2.76	7	6.4248690239	voor aap staan	10	2.045454545	3.22
+Fig	3.02	7	6.3681871864	voor iemand door het vuur gaan	10	3.91	4.18
+Lit	1.9	7	6.4377516497	voor iemand door het vuur gaan	10	3.91	4.18
+Fig	2.49	4	6.2324480166	één lijn trekken	11	4.73	2.88
+Lit	2.43	4	6.2480428745	één lijn trekken	11	4.73	2.88
+Fig	2.25	1	6.6644090204	aan een zijden draadje hangen	11	3.73	3.14
+Lit	2.47	1	6.5861716549	aan een zijden draadje hangen	11	3.73	3.14
+Fig	3.45	6	6.280395839	aan het roer staan	11	4.73	4.6
+Lit	3.7	6	6.3099182782	aan het roer staan	11	4.73	4.6
+Lit	2.96	1	6.3969296552	als paddenstoelen uit de grond schieten	11	2.27	3.29
+Fig	2.66	1	6.1820849067	als paddenstoelen uit de grond schieten	11	2.27	3.29
+Fig	2.28	5	6.4520489544	de koe bij de hoorns vatten	11	4.05	3.17
+Lit	3.04	5	6.3543700408	de koe bij de hoorns vatten	11	4.05	3.17
+Fig	2.93	6	6.280395839	ergens mee in de maag zitten	11	2.86	2.95
+Fig	2.13	6	6.7056390949	ergens zijn neus voor optrekken	11	4.23	3.33
+Lit	2.22	6	6.907755279	ergens zijn neus voor optrekken	11	4.23	3.33
+Fig	3.58	7	7.6009024595	het niet breed hebben	11	1.95	3.24
+Lit	2.42	7	6.4118182677	het niet breed hebben	11	1.95	3.24
+Fig	3.81	6	6.0520891689	iemand aan de tand voelen	11	4.45	2.83
+Fig	2.73	6	6.3403593037	iemand de wet voorschrijven	11	3.68	3.67
+Lit	2.75	6	6.5395859556	iemand de wet voorschrijven	11	3.68	3.67
+Fig	1.81	6	6.2633982626	iemand iets in de schoenen schuiven	11	4.05	3.09
+Fig	2.68	1	6.4118182677	iemand op de huid zitten	11	3.05	3.38
+Lit	2.6	1	6.0913098821	iemand op de huid zitten	11	3.05	3.38
+Lit	2.14	1	6.3099182782	iemand tegen de schenen schoppen	11	4.73	3.71
+Fig	2.7	1	6.2952660014	iemand tegen de schenen schoppen	11	4.73	3.71
+Lit	2.7	1	6.3835066349	iemand wakker schudden	11	4.77	3.43
+Fig	3.81	1	6.5279579176	iemand wakker schudden	11	4.77	3.43
+Lit	2.1	7	6.2952660014	iemand/iets tot in de wolken verheffen	11	1.82	3.75
+Fig	2.68	7	6.4118182677	iemand/iets tot in de wolken verheffen	11	1.82	3.75
+Lit	1.93	6	6.4769723629	iets op poten zetten	11	4	3.38
+Fig	2.39	6	6.7262334024	iets op poten zetten	11	4	3.38
+Lit	2.55	3	6.3403593037	iets uit de losse pols doen	11	2.27	3.13
+Fig	2.53	3	7.6009024595	iets uit de losse pols doen	11	2.27	3.13
+Fig	2.81	7	6.280395839	iets uit je duim zuigen	11	1.95	3.21
+Lit	2.4	7	6.0913098821	iets uit je duim zuigen	11	1.95	3.21
+Fig	2.26	1	6.907755279	iets van tafel vegen	11	4.73	3.38
+Lit	2.15	1	6.1984787165	iets van tafel vegen	11	4.73	3.38
+Fig	3.28	7	6.1820849067	met de rug tegen de muur staan	11	4.81818	3.24
+Lit	2.65	7	6.3261494732	met de rug tegen de muur staan	11	4.81818	3.24
+Lit	1.95	7	6.2952660014	op het puntje van de tong liggen	11	3.05	3.52
+Fig	3.51	7	6.0112671744	op het puntje van de tong liggen	11	3.05	3.52
+Lit	2.07	6	6.3835066349	op zijn achterste benen staan	11	2.86	2.62
+Fig	2.55	6	6.4907235345	op zijn achterste benen staan	11	2.86	2.62
+Lit	3.05	7	6.4907235345	op zijn centen zitten	11	4.68	3.71
+Fig	2.23	7	6.4520489544	op zijn centen zitten	11	4.68	3.71
+Fig	3.36	7	6.2633982626	voor aap staan	11	2.045454545	3.22
+Lit	2.76	7	6.3969296552	voor aap staan	11	2.045454545	3.22
+Fig	3.02	7	6.2324480166	voor iemand door het vuur gaan	11	3.91	4.18
+Lit	1.9	7	6.4520489544	voor iemand door het vuur gaan	11	3.91	4.18
+Fig	2.49	4	6.8564619846	één lijn trekken	12	4.73	2.88
+Lit	2.43	4	6.5395859556	één lijn trekken	12	4.73	2.88
+Fig	2.25	5	6.5147126909	aan een zijden draadje hangen	12	3.73	3.14
+Lit	2.47	5	6.5279579176	aan een zijden draadje hangen	12	3.73	3.14
+Fig	3.45	7	6.5279579176	aan het roer staan	12	4.73	4.6
+Lit	3.7	7	6.6424868014	aan het roer staan	12	4.73	4.6
+Lit	2.96	6	6.6424868014	als paddenstoelen uit de grond schieten	12	2.27	3.29
+Fig	2.66	6	6.3243589624	als paddenstoelen uit de grond schieten	12	2.27	3.29
+Fig	2.28	7	6.3699009828	de koe bij de hoorns vatten	12	4.05	3.17
+Lit	3.04	7	6.5147126909	de koe bij de hoorns vatten	12	4.05	3.17
+Fig	2.93	5	6.2952660014	ergens mee in de maag zitten	12	2.86	2.95
+Fig	2.13	6	6.4377516497	ergens zijn neus voor optrekken	12	4.23	3.33
+Lit	2.22	6	6.3543700408	ergens zijn neus voor optrekken	12	4.23	3.33
+Fig	3.58	7	6.3099182782	het niet breed hebben	12	1.95	3.24
+Lit	2.42	7	6.755768922	het niet breed hebben	12	1.95	3.24
+Fig	3.81	6	6.907755279	iemand aan de tand voelen	12	4.45	2.83
+Fig	2.73	6	6.4769723629	iemand de wet voorschrijven	12	3.68	3.67
+Lit	2.75	6	6.551080335	iemand de wet voorschrijven	12	3.68	3.67
+Fig	1.81	6	6.6200732065	iemand iets in de schoenen schuiven	12	4.05	3.09
+Fig	2.68	5	6.3543700408	iemand op de huid zitten	12	3.05	3.38
+Lit	2.6	5	6.551080335	iemand op de huid zitten	12	3.05	3.38
+Lit	2.14	7	6.3543700408	iemand tegen de schenen schoppen	12	4.73	3.71
+Fig	2.7	7	6.5279579176	iemand tegen de schenen schoppen	12	4.73	3.71
+Lit	2.7	6	6.6093492432	iemand wakker schudden	12	4.77	3.43
+Fig	3.81	6	6.5861716549	iemand wakker schudden	12	4.77	3.43
+Lit	2.1	6	6.1463292577	iemand/iets tot in de wolken verheffen	12	1.82	3.75
+Fig	2.68	6	6.1463292577	iemand/iets tot in de wolken verheffen	12	1.82	3.75
+Lit	1.93	6	6.5638555265	iets op poten zetten	12	4	3.38
+Fig	2.39	6	6.6320017774	iets op poten zetten	12	4	3.38
+Lit	2.55	6	6.3403593037	iets uit de losse pols doen	12	2.27	3.13
+Fig	2.53	6	6.4118182677	iets uit de losse pols doen	12	2.27	3.13
+Fig	2.81	7	6.5750758406	iets uit je duim zuigen	12	1.95	3.21
+Lit	2.4	7	6.4645883037	iets uit je duim zuigen	12	1.95	3.21
+Fig	2.26	3	6.4248690239	iets van tafel vegen	12	4.73	3.38
+Lit	2.15	3	6.2324480166	iets van tafel vegen	12	4.73	3.38
+Fig	3.28	7	6.1984787165	met de rug tegen de muur staan	12	4.81818	3.24
+Lit	2.65	7	6.3403593037	met de rug tegen de muur staan	12	4.81818	3.24
+Lit	1.95	6	6.3835066349	op het puntje van de tong liggen	12	3.05	3.52
+Fig	3.51	6	6.3403593037	op het puntje van de tong liggen	12	3.05	3.52
+Lit	2.07	6	6.2952660014	op zijn achterste benen staan	12	2.86	2.62
+Fig	2.55	6	6.3099182782	op zijn achterste benen staan	12	2.86	2.62
+Lit	3.05	7	6.6424868014	op zijn centen zitten	12	4.68	3.71
+Fig	2.23	7	6.3969296552	op zijn centen zitten	12	4.68	3.71
+Fig	3.36	7	6.5027900459	voor aap staan	12	2.045454545	3.22
+Lit	2.76	7	7.6009024595	voor aap staan	12	2.045454545	3.22
+Fig	3.02	7	6.4907235345	voor iemand door het vuur gaan	12	3.91	4.18
+Lit	1.9	7	6.8297937375	voor iemand door het vuur gaan	12	3.91	4.18
+Fig	2.49	1	6.3261494732	één lijn trekken	13	4.73	2.88
+Lit	2.43	1	6.551080335	één lijn trekken	13	4.73	2.88
+Fig	2.25	7	6.551080335	aan een zijden draadje hangen	13	3.73	3.14
+Lit	2.47	7	6.6957989171	aan een zijden draadje hangen	13	3.73	3.14
+Fig	3.45	7	6.3699009828	aan het roer staan	13	4.73	4.6
+Lit	3.7	7	6.0730445341	aan het roer staan	13	4.73	4.6
+Lit	2.96	6	6.3099182782	als paddenstoelen uit de grond schieten	13	2.27	3.29
+Fig	2.66	6	6.280395839	als paddenstoelen uit de grond schieten	13	2.27	3.29
+Fig	2.28	6	6.5027900459	de koe bij de hoorns vatten	13	4.05	3.17
+Lit	3.04	6	6.2324480166	de koe bij de hoorns vatten	13	4.05	3.17
+Fig	2.93	5	6.0913098821	ergens mee in de maag zitten	13	2.86	2.95
+Fig	2.13	7	6.070737728	ergens zijn neus voor optrekken	13	4.23	3.33
+Fig	3.58	7	6.3099182782	het niet breed hebben	13	1.95	3.24
+Lit	2.42	7	6.3835066349	het niet breed hebben	13	1.95	3.24
+Fig	3.81	6	6.1290502101	iemand aan de tand voelen	13	4.45	2.83
+Fig	2.73	6	6.2633982626	iemand de wet voorschrijven	13	3.68	3.67
+Lit	2.75	6	6.1820849067	iemand de wet voorschrijven	13	3.68	3.67
+Fig	1.81	5	6.4769723629	iemand iets in de schoenen schuiven	13	4.05	3.09
+Fig	2.68	6	6.2633982626	iemand op de huid zitten	13	3.05	3.38
+Lit	2.6	6	6.2146080984	iemand op de huid zitten	13	3.05	3.38
+Lit	2.14	7	6.2146080984	iemand tegen de schenen schoppen	13	4.73	3.71
+Fig	2.7	7	6.2480428745	iemand tegen de schenen schoppen	13	4.73	3.71
+Lit	2.7	6	6.2633982626	iemand wakker schudden	13	4.77	3.43
+Fig	3.81	6	6.1463292577	iemand wakker schudden	13	4.77	3.43
+Lit	2.1	7	6.6846117277	iemand/iets tot in de wolken verheffen	13	1.82	3.75
+Fig	2.68	7	6.4118182677	iemand/iets tot in de wolken verheffen	13	1.82	3.75
+Lit	1.93	7	6.5750758406	iets op poten zetten	13	4	3.38
+Fig	2.39	7	6.2952660014	iets op poten zetten	13	4	3.38
+Lit	2.55	5	6.882437471	iets uit de losse pols doen	13	2.27	3.13
+Fig	2.53	5	6.4907235345	iets uit de losse pols doen	13	2.27	3.13
+Fig	2.81	7	6.3261494732	iets uit je duim zuigen	13	1.95	3.21
+Lit	2.4	7	6.1820849067	iets uit je duim zuigen	13	1.95	3.21
+Fig	2.26	5	6.3835066349	iets van tafel vegen	13	4.73	3.38
+Lit	2.15	5	6.3699009828	iets van tafel vegen	13	4.73	3.38
+Fig	3.28	7	6.0913098821	met de rug tegen de muur staan	13	4.81818	3.24
+Lit	2.65	7	6.3835066349	met de rug tegen de muur staan	13	4.81818	3.24
+Lit	1.95	6	6.1463292577	op het puntje van de tong liggen	13	3.05	3.52
+Fig	3.51	6	6.2146080984	op het puntje van de tong liggen	13	3.05	3.52
+Lit	2.07	6	6.3403593037	op zijn achterste benen staan	13	2.86	2.62
+Fig	2.55	6	6.4377516497	op zijn achterste benen staan	13	2.86	2.62
+Lit	3.05	7	6.3099182782	op zijn centen zitten	13	4.68	3.71
+Fig	2.23	7	6.4645883037	op zijn centen zitten	13	4.68	3.71
+Fig	3.36	7	6.3403593037	voor aap staan	13	2.045454545	3.22
+Lit	2.76	7	6.3261494732	voor aap staan	13	2.045454545	3.22
+Fig	3.02	7	6.3099182782	voor iemand door het vuur gaan	13	3.91	4.18
+Lit	1.9	7	6.6424868014	voor iemand door het vuur gaan	13	3.91	4.18
+Fig	2.49	1	6.5147126909	één lijn trekken	14	4.73	2.88
+Lit	2.43	1	6.5985090286	één lijn trekken	14	4.73	2.88
+Fig	2.25	5	6.7844570626	aan een zijden draadje hangen	14	3.73	3.14
+Lit	2.47	5	6.2633982626	aan een zijden draadje hangen	14	3.73	3.14
+Fig	3.45	7	6.1268691841	aan het roer staan	14	4.73	4.6
+Lit	3.7	7	6.1092475828	aan het roer staan	14	4.73	4.6
+Lit	2.96	7	6.4248690239	als paddenstoelen uit de grond schieten	14	2.27	3.29
+Fig	2.66	7	6.551080335	als paddenstoelen uit de grond schieten	14	2.27	3.29
+Fig	2.28	6	6.5985090286	de koe bij de hoorns vatten	14	4.05	3.17
+Lit	3.04	6	6.5027900459	de koe bij de hoorns vatten	14	4.05	3.17
+Fig	2.93	5	6.280395839	ergens mee in de maag zitten	14	2.86	2.95
+Fig	2.13	1	6.3543700408	ergens zijn neus voor optrekken	14	4.23	3.33
+Lit	2.22	1	6.907755279	ergens zijn neus voor optrekken	14	4.23	3.33
+Fig	3.58	7	6.3403593037	het niet breed hebben	14	1.95	3.24
+Lit	2.42	7	6.3969296552	het niet breed hebben	14	1.95	3.24
+Fig	3.81	5	6.2146080984	iemand aan de tand voelen	14	4.45	2.83
+Fig	2.73	6	6.3261494732	iemand de wet voorschrijven	14	3.68	3.67
+Lit	2.75	6	6.907755279	iemand de wet voorschrijven	14	3.68	3.67
+Fig	1.81	5	6.4520489544	iemand iets in de schoenen schuiven	14	4.05	3.09
+Fig	2.68	4	6.3261494732	iemand op de huid zitten	14	3.05	3.38
+Lit	2.6	4	6.3969296552	iemand op de huid zitten	14	3.05	3.38
+Lit	2.14	7	6.1984787165	iemand tegen de schenen schoppen	14	4.73	3.71
+Fig	2.7	7	6.5027900459	iemand tegen de schenen schoppen	14	4.73	3.71
+Lit	2.7	5	6.2633982626	iemand wakker schudden	14	4.77	3.43
+Fig	3.81	5	6.2952660014	iemand wakker schudden	14	4.77	3.43
+Lit	2.1	6	6.3261494732	iemand/iets tot in de wolken verheffen	14	1.82	3.75
+Fig	2.68	6	6.280395839	iemand/iets tot in de wolken verheffen	14	1.82	3.75
+Lit	1.93	7	6.7262334024	iets op poten zetten	14	4	3.38
+Fig	2.39	7	6.2146080984	iets op poten zetten	14	4	3.38
+Lit	2.55	5	6.0520891689	iets uit de losse pols doen	14	2.27	3.13
+Fig	2.53	5	6.4769723629	iets uit de losse pols doen	14	2.27	3.13
+Fig	2.81	7	6.1984787165	iets uit je duim zuigen	14	1.95	3.21
+Lit	2.4	7	6.4645883037	iets uit je duim zuigen	14	1.95	3.21
+Fig	2.26	5	6.3969296552	iets van tafel vegen	14	4.73	3.38
+Lit	2.15	5	6.2324480166	iets van tafel vegen	14	4.73	3.38
+Fig	3.28	7	6.4118182677	met de rug tegen de muur staan	14	4.81818	3.24
+Lit	2.65	7	6.5147126909	met de rug tegen de muur staan	14	4.81818	3.24
+Lit	1.95	7	6.4377516497	op het puntje van de tong liggen	14	3.05	3.52
+Fig	3.51	7	6.4907235345	op het puntje van de tong liggen	14	3.05	3.52
+Lit	2.07	5	6.5027900459	op zijn achterste benen staan	14	2.86	2.62
+Fig	2.55	5	6.2633982626	op zijn achterste benen staan	14	2.86	2.62
+Lit	3.05	7	6.3403593037	op zijn centen zitten	14	4.68	3.71
+Fig	2.23	7	6.5750758406	op zijn centen zitten	14	4.68	3.71
+Fig	3.36	7	6.013715156	voor aap staan	14	2.045454545	3.22
+Lit	2.76	7	6.3261494732	voor aap staan	14	2.045454545	3.22
+Fig	3.02	7	6.1290502101	voor iemand door het vuur gaan	14	3.91	4.18
+Lit	1.9	7	6.3403593037	voor iemand door het vuur gaan	14	3.91	4.18
+Fig	2.49	4	6.1463292577	één lijn trekken	15	4.73	2.88
+Lit	2.43	4	6.3699009828	één lijn trekken	15	4.73	2.88
+Fig	2.25	4	6.2952660014	aan een zijden draadje hangen	15	3.73	3.14
+Lit	2.47	4	6.1268691841	aan een zijden draadje hangen	15	3.73	3.14
+Fig	3.45	7	6.2480428745	aan het roer staan	15	4.73	4.6
+Lit	3.7	7	6.3543700408	aan het roer staan	15	4.73	4.6
+Lit	2.96	7	6.5147126909	als paddenstoelen uit de grond schieten	15	2.27	3.29
+Fig	2.66	7	6.1463292577	als paddenstoelen uit de grond schieten	15	2.27	3.29
+Fig	2.28	6	6.280395839	de koe bij de hoorns vatten	15	4.05	3.17
+Lit	3.04	6	6.5750758406	de koe bij de hoorns vatten	15	4.05	3.17
+Fig	2.93	6	6.013715156	ergens mee in de maag zitten	15	2.86	2.95
+Fig	2.13	4	6.2324480166	ergens zijn neus voor optrekken	15	4.23	3.33
+Lit	2.22	4	6.5279579176	ergens zijn neus voor optrekken	15	4.23	3.33
+Fig	3.58	7	6.5985090286	het niet breed hebben	15	1.95	3.24
+Lit	2.42	7	6.907755279	het niet breed hebben	15	1.95	3.24
+Fig	3.81	6	6.5861716549	iemand aan de tand voelen	15	4.45	2.83
+Fig	2.73	6	6.2146080984	iemand de wet voorschrijven	15	3.68	3.67
+Lit	2.75	6	6.5395859556	iemand de wet voorschrijven	15	3.68	3.67
+Fig	1.81	5	6.8123450942	iemand iets in de schoenen schuiven	15	4.05	3.09
+Fig	2.68	5	6.2146080984	iemand op de huid zitten	15	3.05	3.38
+Lit	2.6	5	6.1092475828	iemand op de huid zitten	15	3.05	3.38
+Lit	2.14	7	6.0730445341	iemand tegen de schenen schoppen	15	4.73	3.71
+Fig	2.7	7	6.7357800142	iemand tegen de schenen schoppen	15	4.73	3.71
+Lit	2.7	3	6.3099182782	iemand wakker schudden	15	4.77	3.43
+Fig	3.81	3	6.2324480166	iemand wakker schudden	15	4.77	3.43
+Lit	2.1	6	6.5638555265	iemand/iets tot in de wolken verheffen	15	1.82	3.75
+Fig	2.68	6	6.6424868014	iemand/iets tot in de wolken verheffen	15	1.82	3.75
+Lit	1.93	6	6.907755279	iets op poten zetten	15	4	3.38
+Fig	2.39	6	6.1463292577	iets op poten zetten	15	4	3.38
+Lit	2.55	4	6.4645883037	iets uit de losse pols doen	15	2.27	3.13
+Fig	2.53	4	6.6424868014	iets uit de losse pols doen	15	2.27	3.13
+Fig	2.81	7	6.755768922	iets uit je duim zuigen	15	1.95	3.21
+Lit	2.4	7	6.3261494732	iets uit je duim zuigen	15	1.95	3.21
+Fig	2.26	6	6.4907235345	iets van tafel vegen	15	4.73	3.38
+Lit	2.15	6	6.4118182677	iets van tafel vegen	15	4.73	3.38
+Fig	3.28	7	6.2146080984	met de rug tegen de muur staan	15	4.81818	3.24
+Lit	2.65	7	6.1984787165	met de rug tegen de muur staan	15	4.81818	3.24
+Lit	1.95	6	6.4248690239	op het puntje van de tong liggen	15	3.05	3.52
+Fig	3.51	6	6.0913098821	op het puntje van de tong liggen	15	3.05	3.52
+Lit	2.07	1	6.4769723629	op zijn achterste benen staan	15	2.86	2.62
+Fig	2.55	1	6.6644090204	op zijn achterste benen staan	15	2.86	2.62
+Lit	3.05	7	6.5147126909	op zijn centen zitten	15	4.68	3.71
+Fig	2.23	7	6.6528630294	op zijn centen zitten	15	4.68	3.71
+Fig	3.36	7	6.2480428745	voor aap staan	15	2.045454545	3.22
+Lit	2.76	7	6.7650389768	voor aap staan	15	2.045454545	3.22
+Fig	3.02	7	6.7056390949	voor iemand door het vuur gaan	15	3.91	4.18
+Lit	1.9	7	6.3835066349	voor iemand door het vuur gaan	15	3.91	4.18
+Fig	2.49	3	6.2480428745	één lijn trekken	16	4.73	2.88
+Lit	2.43	3	6.1820849067	één lijn trekken	16	4.73	2.88
+Fig	2.25	7	6.0913098821	aan een zijden draadje hangen	16	3.73	3.14
+Lit	2.47	7	6.1820849067	aan een zijden draadje hangen	16	3.73	3.14
+Fig	3.45	6	6.3403593037	aan het roer staan	16	4.73	4.6
+Lit	3.7	6	6.163314804	aan het roer staan	16	4.73	4.6
+Lit	2.96	4	6.2480428745	als paddenstoelen uit de grond schieten	16	2.27	3.29
+Fig	2.66	4	6.0520891689	als paddenstoelen uit de grond schieten	16	2.27	3.29
+Fig	2.28	6	6.2633982626	de koe bij de hoorns vatten	16	4.05	3.17
+Lit	3.04	6	6.2146080984	de koe bij de hoorns vatten	16	4.05	3.17
+Fig	2.93	6	6.2952660014	ergens mee in de maag zitten	16	2.86	2.95
+Fig	2.13	5	5.9914645471	ergens zijn neus voor optrekken	16	4.23	3.33
+Lit	2.22	5	6.0330862218	ergens zijn neus voor optrekken	16	4.23	3.33
+Fig	3.58	7	6.280395839	het niet breed hebben	16	1.95	3.24
+Lit	2.42	7	6.2324480166	het niet breed hebben	16	1.95	3.24
+Fig	3.81	6	5.80814249	iemand aan de tand voelen	16	4.45	2.83
+Fig	2.73	5	6.013715156	iemand de wet voorschrijven	16	3.68	3.67
+Lit	2.75	5	6.1820849067	iemand de wet voorschrijven	16	3.68	3.67
+Fig	1.81	6	5.9506425526	iemand iets in de schoenen schuiven	16	4.05	3.09
+Fig	2.68	3	6.1290502101	iemand op de huid zitten	16	3.05	3.38
+Lit	2.6	3	5.9712618398	iemand op de huid zitten	16	3.05	3.38
+Lit	2.14	6	6.1820849067	iemand tegen de schenen schoppen	16	4.73	3.71
+Fig	2.7	6	6.1984787165	iemand tegen de schenen schoppen	16	4.73	3.71
+Lit	2.7	3	6.163314804	iemand wakker schudden	16	4.77	3.43
+Fig	3.81	3	6.0520891689	iemand wakker schudden	16	4.77	3.43
+Lit	2.1	6	6.0330862218	iemand/iets tot in de wolken verheffen	16	1.82	3.75
+Fig	2.68	6	5.9053618481	iemand/iets tot in de wolken verheffen	16	1.82	3.75
+Lit	1.93	6	6.2952660014	iets op poten zetten	16	4	3.38
+Fig	2.39	6	6.3099182782	iets op poten zetten	16	4	3.38
+Lit	2.55	6	6.013715156	iets uit de losse pols doen	16	2.27	3.13
+Fig	2.53	6	6.1290502101	iets uit de losse pols doen	16	2.27	3.13
+Fig	2.81	7	6.0520891689	iets uit je duim zuigen	16	1.95	3.21
+Lit	2.4	7	5.9712618398	iets uit je duim zuigen	16	1.95	3.21
+Fig	2.26	5	5.926926026	iets van tafel vegen	16	4.73	3.38
+Lit	2.15	5	6.1984787165	iets van tafel vegen	16	4.73	3.38
+Fig	3.28	5	5.926926026	met de rug tegen de muur staan	16	4.81818	3.24
+Lit	2.65	5	6.0330862218	met de rug tegen de muur staan	16	4.81818	3.24
+Lit	1.95	7	6.2324480166	op het puntje van de tong liggen	16	3.05	3.52
+Fig	3.51	7	5.9914645471	op het puntje van de tong liggen	16	3.05	3.52
+Lit	2.07	6	5.9480349892	op zijn achterste benen staan	16	2.86	2.62
+Fig	2.55	6	6.0520891689	op zijn achterste benen staan	16	2.86	2.62
+Lit	3.05	7	6.0913098821	op zijn centen zitten	16	4.68	3.71
+Fig	2.23	7	6.1463292577	op zijn centen zitten	16	4.68	3.71
+Fig	3.36	7	6.1268691841	voor aap staan	16	2.045454545	3.22
+Lit	2.76	7	6.2324480166	voor aap staan	16	2.045454545	3.22
+Fig	3.02	7	6.0330862218	voor iemand door het vuur gaan	16	3.91	4.18
+Lit	1.9	7	6.4377516497	voor iemand door het vuur gaan	16	3.91	4.18
+Fig	2.49	1	6.0330862218	één lijn trekken	17	4.73	2.88
+Lit	2.43	1	6.2146080984	één lijn trekken	17	4.73	2.88
+Fig	2.25	7	6.3969296552	aan een zijden draadje hangen	17	3.73	3.14
+Lit	2.47	7	6.4118182677	aan een zijden draadje hangen	17	3.73	3.14
+Fig	3.45	7	5.9506425526	aan het roer staan	17	4.73	4.6
+Lit	3.7	7	6.7056390949	aan het roer staan	17	4.73	4.6
+Lit	2.96	7	6.2480428745	als paddenstoelen uit de grond schieten	17	2.27	3.29
+Fig	2.66	7	6.2633982626	als paddenstoelen uit de grond schieten	17	2.27	3.29
+Fig	2.28	7	6.3835066349	de koe bij de hoorns vatten	17	4.05	3.17
+Lit	3.04	7	6.5395859556	de koe bij de hoorns vatten	17	4.05	3.17
+Fig	2.93	6	6.2146080984	ergens mee in de maag zitten	17	2.86	2.95
+Fig	2.13	2	6.4248690239	ergens zijn neus voor optrekken	17	4.23	3.33
+Lit	2.22	2	6.280395839	ergens zijn neus voor optrekken	17	4.23	3.33
+Fig	3.58	7	6.3699009828	het niet breed hebben	17	1.95	3.24
+Lit	2.42	7	6.4118182677	het niet breed hebben	17	1.95	3.24
+Fig	3.81	5	5.8805329864	iemand aan de tand voelen	17	4.45	2.83
+Fig	2.73	6	6.6846117277	iemand de wet voorschrijven	17	3.68	3.67
+Lit	2.75	6	5.7037824747	iemand de wet voorschrijven	17	3.68	3.67
+Fig	1.81	6	6.280395839	iemand iets in de schoenen schuiven	17	4.05	3.09
+Fig	2.68	4	6.2952660014	iemand op de huid zitten	17	3.05	3.38
+Lit	2.6	4	5.7037824747	iemand op de huid zitten	17	3.05	3.38
+Fig	2.7	7	6.3835066349	iemand tegen de schenen schoppen	17	4.73	3.71
+Lit	2.7	3	6.280395839	iemand wakker schudden	17	4.77	3.43
+Fig	3.81	3	6.0730445341	iemand wakker schudden	17	4.77	3.43
+Lit	2.1	7	6.4907235345	iemand/iets tot in de wolken verheffen	17	1.82	3.75
+Fig	2.68	7	6.3543700408	iemand/iets tot in de wolken verheffen	17	1.82	3.75
+Lit	1.93	6	6.5147126909	iets op poten zetten	17	4	3.38
+Fig	2.39	6	6.4520489544	iets op poten zetten	17	4	3.38
+Lit	2.55	6	6.1820849067	iets uit de losse pols doen	17	2.27	3.13
+Fig	2.53	6	6.2952660014	iets uit de losse pols doen	17	2.27	3.13
+Fig	2.81	7	6.6320017774	iets uit je duim zuigen	17	1.95	3.21
+Lit	2.4	7	6.5027900459	iets uit je duim zuigen	17	1.95	3.21
+Fig	2.26	5	5.9914645471	iets van tafel vegen	17	4.73	3.38
+Lit	2.15	5	6.4377516497	iets van tafel vegen	17	4.73	3.38
+Fig	3.28	7	5.7838251823	met de rug tegen de muur staan	17	4.81818	3.24
+Lit	2.65	7	6.3543700408	met de rug tegen de muur staan	17	4.81818	3.24
+Lit	1.95	5	6.3261494732	op het puntje van de tong liggen	17	3.05	3.52
+Fig	3.51	5	6.3543700408	op het puntje van de tong liggen	17	3.05	3.52
+Lit	2.07	2	6.0913098821	op zijn achterste benen staan	17	2.86	2.62
+Fig	2.55	2	6.3699009828	op zijn achterste benen staan	17	2.86	2.62
+Lit	3.05	7	6.3969296552	op zijn centen zitten	17	4.68	3.71
+Fig	2.23	7	6.1984787165	op zijn centen zitten	17	4.68	3.71
+Fig	3.36	7	6.3403593037	voor aap staan	17	2.045454545	3.22
+Lit	2.76	7	6.3543700408	voor aap staan	17	2.045454545	3.22
+Fig	3.02	6	6.2952660014	voor iemand door het vuur gaan	17	3.91	4.18
+Lit	1.9	6	6.907755279	voor iemand door het vuur gaan	17	3.91	4.18
+Fig	2.49	6	6.5395859556	één lijn trekken	18	4.73	2.88
+Lit	2.43	6	6.5985090286	één lijn trekken	18	4.73	2.88
+Fig	2.25	3	6.907755279	aan een zijden draadje hangen	18	3.73	3.14
+Lit	2.47	3	6.6200732065	aan een zijden draadje hangen	18	3.73	3.14
+Fig	3.45	6	6.2146080984	aan het roer staan	18	4.73	4.6
+Lit	3.7	6	6.5638555265	aan het roer staan	18	4.73	4.6
+Lit	2.96	7	6.5985090286	als paddenstoelen uit de grond schieten	18	2.27	3.29
+Fig	2.66	7	6.3261494732	als paddenstoelen uit de grond schieten	18	2.27	3.29
+Fig	2.28	4	6.6745613918	de koe bij de hoorns vatten	18	4.05	3.17
+Lit	3.04	4	6.4769723629	de koe bij de hoorns vatten	18	4.05	3.17
+Fig	2.93	4	6.6528630294	ergens mee in de maag zitten	18	2.86	2.95
+Fig	2.13	7	6.7056390949	ergens zijn neus voor optrekken	18	4.23	3.33
+Lit	2.22	7	6.4645883037	ergens zijn neus voor optrekken	18	4.23	3.33
+Fig	3.58	7	6.4520489544	het niet breed hebben	18	1.95	3.24
+Lit	2.42	7	6.4118182677	het niet breed hebben	18	1.95	3.24
+Fig	3.81	3	6.2146080984	iemand aan de tand voelen	18	4.45	2.83
+Fig	2.73	6	6.4248690239	iemand de wet voorschrijven	18	3.68	3.67
+Lit	2.75	6	6.7357800142	iemand de wet voorschrijven	18	3.68	3.67
+Fig	1.81	7	6.5861716549	iemand iets in de schoenen schuiven	18	4.05	3.09
+Fig	2.68	5	6.907755279	iemand op de huid zitten	18	3.05	3.38
+Lit	2.6	5	6.4520489544	iemand op de huid zitten	18	3.05	3.38
+Lit	2.14	5	6.3403593037	iemand tegen de schenen schoppen	18	4.73	3.71
+Fig	2.7	5	6.4907235345	iemand tegen de schenen schoppen	18	4.73	3.71
+Lit	2.7	4	6.4377516497	iemand wakker schudden	18	4.77	3.43
+Fig	3.81	4	6.4118182677	iemand wakker schudden	18	4.77	3.43
+Lit	2.1	5	6.6957989171	iemand/iets tot in de wolken verheffen	18	1.82	3.75
+Fig	2.68	5	6.4907235345	iemand/iets tot in de wolken verheffen	18	1.82	3.75
+Lit	1.93	6	6.7650389768	iets op poten zetten	18	4	3.38
+Fig	2.39	6	6.6528630294	iets op poten zetten	18	4	3.38
+Lit	2.55	6	6.2633982626	iets uit de losse pols doen	18	2.27	3.13
+Fig	2.53	6	6.7056390949	iets uit de losse pols doen	18	2.27	3.13
+Fig	2.81	7	6.5985090286	iets uit je duim zuigen	18	1.95	3.21
+Lit	2.4	7	6.4118182677	iets uit je duim zuigen	18	1.95	3.21
+Fig	2.26	3	6.5985090286	iets van tafel vegen	18	4.73	3.38
+Lit	2.15	3	6.5985090286	iets van tafel vegen	18	4.73	3.38
+Fig	3.28	7	6.280395839	met de rug tegen de muur staan	18	4.81818	3.24
+Lit	2.65	7	6.3699009828	met de rug tegen de muur staan	18	4.81818	3.24
+Lit	1.95	7	6.4520489544	op het puntje van de tong liggen	18	3.05	3.52
+Fig	3.51	7	6.280395839	op het puntje van de tong liggen	18	3.05	3.52
+Lit	2.07	5	6.4377516497	op zijn achterste benen staan	18	2.86	2.62
+Fig	2.55	5	6.8564619846	op zijn achterste benen staan	18	2.86	2.62
+Lit	3.05	7	6.3699009828	op zijn centen zitten	18	4.68	3.71
+Fig	2.23	7	6.5027900459	op zijn centen zitten	18	4.68	3.71
+Fig	3.36	7	6.4645883037	voor aap staan	18	2.045454545	3.22
+Lit	2.76	7	6.4248690239	voor aap staan	18	2.045454545	3.22
+Fig	3.02	7	6.3261494732	voor iemand door het vuur gaan	18	3.91	4.18
+Lit	1.9	7	6.5861716549	voor iemand door het vuur gaan	18	3.91	4.18
+Fig	2.49	6	6.2324480166	één lijn trekken	19	4.73	2.88
+Lit	2.43	6	5.9914645471	één lijn trekken	19	4.73	2.88
+Fig	2.25	6	5.811140993	aan een zijden draadje hangen	19	3.73	3.14
+Lit	2.47	6	6.2633982626	aan een zijden draadje hangen	19	3.73	3.14
+Fig	3.45	7	6.2146080984	aan het roer staan	19	4.73	4.6
+Lit	3.7	7	5.9914645471	aan het roer staan	19	4.73	4.6
+Lit	2.96	7	6.1092475828	als paddenstoelen uit de grond schieten	19	2.27	3.29
+Fig	2.66	7	5.8348107371	als paddenstoelen uit de grond schieten	19	2.27	3.29
+Fig	2.28	7	5.9914645471	de koe bij de hoorns vatten	19	4.05	3.17
+Lit	3.04	7	6.280395839	de koe bij de hoorns vatten	19	4.05	3.17
+Fig	2.93	6	5.9506425526	ergens mee in de maag zitten	19	2.86	2.95
+Fig	2.13	7	6.5027900459	ergens zijn neus voor optrekken	19	4.23	3.33
+Lit	2.22	7	5.8348107371	ergens zijn neus voor optrekken	19	4.23	3.33
+Fig	3.58	7	6.163314804	het niet breed hebben	19	1.95	3.24
+Lit	2.42	7	6.0330862218	het niet breed hebben	19	1.95	3.24
+Fig	3.81	6	6.1820849067	iemand aan de tand voelen	19	4.45	2.83
+Fig	2.73	7	6.3099182782	iemand de wet voorschrijven	19	3.68	3.67
+Lit	2.75	7	5.8579331545	iemand de wet voorschrijven	19	3.68	3.67
+Fig	1.81	3	6.1820849067	iemand iets in de schoenen schuiven	19	4.05	3.09
+Fig	2.68	5	6.1820849067	iemand op de huid zitten	19	3.05	3.38
+Lit	2.6	5	6.5395859556	iemand op de huid zitten	19	3.05	3.38
+Lit	2.14	1	5.6167710977	iemand tegen de schenen schoppen	19	4.73	3.71
+Fig	2.7	1	6.2480428745	iemand tegen de schenen schoppen	19	4.73	3.71
+Lit	2.7	6	6.1092475828	iemand wakker schudden	19	4.77	3.43
+Fig	3.81	6	5.9712618398	iemand wakker schudden	19	4.77	3.43
+Lit	2.1	7	6.5395859556	iemand/iets tot in de wolken verheffen	19	1.82	3.75
+Fig	2.68	7	5.7333412769	iemand/iets tot in de wolken verheffen	19	1.82	3.75
+Lit	1.93	7	6.3699009828	iets op poten zetten	19	4	3.38
+Fig	2.39	7	5.6767538023	iets op poten zetten	19	4	3.38
+Lit	2.55	5	6.0520891689	iets uit de losse pols doen	19	2.27	3.13
+Fig	2.53	5	6.1984787165	iets uit de losse pols doen	19	2.27	3.13
+Fig	2.81	7	6.3403593037	iets uit je duim zuigen	19	1.95	3.21
+Lit	2.4	7	5.9712618398	iets uit je duim zuigen	19	1.95	3.21
+Fig	2.26	5	6.2952660014	iets van tafel vegen	19	4.73	3.38
+Lit	2.15	5	5.7037824747	iets van tafel vegen	19	4.73	3.38
+Fig	3.28	3	6.0913098821	met de rug tegen de muur staan	19	4.81818	3.24
+Lit	2.65	3	5.80814249	met de rug tegen de muur staan	19	4.81818	3.24
+Lit	1.95	7	6.6528630294	op het puntje van de tong liggen	19	3.05	3.52
+Fig	3.51	7	6.1290502101	op het puntje van de tong liggen	19	3.05	3.52
+Lit	2.07	1	6.3261494732	op zijn achterste benen staan	19	2.86	2.62
+Fig	2.55	1	6.3699009828	op zijn achterste benen staan	19	2.86	2.62
+Lit	3.05	7	6.2146080984	op zijn centen zitten	19	4.68	3.71
+Fig	2.23	7	6.280395839	op zijn centen zitten	19	4.68	3.71
+Fig	3.36	7	6.1820849067	voor aap staan	19	2.045454545	3.22
+Lit	2.76	7	6.5750758406	voor aap staan	19	2.045454545	3.22
+Fig	3.02	7	6.0913098821	voor iemand door het vuur gaan	19	3.91	4.18
+Lit	1.9	7	6.4645883037	voor iemand door het vuur gaan	19	3.91	4.18
+Fig	2.49	6	6.2633982626	één lijn trekken	20	4.73	2.88
+Lit	2.43	6	6.3835066349	één lijn trekken	20	4.73	2.88
+Fig	2.25	6	6.3543700408	aan een zijden draadje hangen	20	3.73	3.14
+Lit	2.47	6	6.907755279	aan een zijden draadje hangen	20	3.73	3.14
+Fig	3.45	6	6.4377516497	aan het roer staan	20	4.73	4.6
+Lit	3.7	6	6.5861716549	aan het roer staan	20	4.73	4.6
+Lit	2.96	7	6.4769723629	als paddenstoelen uit de grond schieten	20	2.27	3.29
+Fig	2.66	7	6.4248690239	als paddenstoelen uit de grond schieten	20	2.27	3.29
+Fig	2.28	7	6.4645883037	de koe bij de hoorns vatten	20	4.05	3.17
+Lit	3.04	7	6.3543700408	de koe bij de hoorns vatten	20	4.05	3.17
+Fig	2.93	5	5.4889377262	ergens mee in de maag zitten	20	2.86	2.95
+Fig	2.13	7	6.3403593037	ergens zijn neus voor optrekken	20	4.23	3.33
+Lit	2.22	7	6.3835066349	ergens zijn neus voor optrekken	20	4.23	3.33
+Fig	3.58	7	6.2324480166	het niet breed hebben	20	1.95	3.24
+Lit	2.42	7	6.5638555265	het niet breed hebben	20	1.95	3.24
+Fig	3.81	6	6.5027900459	iemand aan de tand voelen	20	4.45	2.83
+Fig	2.73	6	6.6200732065	iemand de wet voorschrijven	20	3.68	3.67
+Lit	2.75	6	6.4377516497	iemand de wet voorschrijven	20	3.68	3.67
+Fig	1.81	6	6.3543700408	iemand iets in de schoenen schuiven	20	4.05	3.09
+Fig	2.68	6	6.3835066349	iemand op de huid zitten	20	3.05	3.38
+Lit	2.6	6	6.5750758406	iemand op de huid zitten	20	3.05	3.38
+Lit	2.14	1	6.3969296552	iemand tegen de schenen schoppen	20	4.73	3.71
+Fig	2.7	1	6.7056390949	iemand tegen de schenen schoppen	20	4.73	3.71
+Lit	2.7	2	6.5279579176	iemand wakker schudden	20	4.77	3.43
+Fig	3.81	2	6.4118182677	iemand wakker schudden	20	4.77	3.43
+Lit	2.1	7	6.3835066349	iemand/iets tot in de wolken verheffen	20	1.82	3.75
+Fig	2.68	7	6.3099182782	iemand/iets tot in de wolken verheffen	20	1.82	3.75
+Lit	1.93	6	6.7056390949	iets op poten zetten	20	4	3.38
+Fig	2.39	6	6.3543700408	iets op poten zetten	20	4	3.38
+Lit	2.55	5	6.4377516497	iets uit de losse pols doen	20	2.27	3.13
+Fig	2.53	5	6.3403593037	iets uit de losse pols doen	20	2.27	3.13
+Fig	2.81	7	6.5279579176	iets uit je duim zuigen	20	1.95	3.21
+Lit	2.4	7	6.2633982626	iets uit je duim zuigen	20	1.95	3.21
+Fig	2.26	3	6.4377516497	iets van tafel vegen	20	4.73	3.38
+Lit	2.15	3	6.2146080984	iets van tafel vegen	20	4.73	3.38
+Fig	3.28	6	6.3099182782	met de rug tegen de muur staan	20	4.81818	3.24
+Lit	2.65	6	6.1820849067	met de rug tegen de muur staan	20	4.81818	3.24
+Lit	1.95	7	6.0112671744	op het puntje van de tong liggen	20	3.05	3.52
+Fig	3.51	7	6.280395839	op het puntje van de tong liggen	20	3.05	3.52
+Lit	2.07	5	6.6528630294	op zijn achterste benen staan	20	2.86	2.62
+Fig	2.55	5	6.1984787165	op zijn achterste benen staan	20	2.86	2.62
+Lit	3.05	7	6.7056390949	op zijn centen zitten	20	4.68	3.71
+Fig	2.23	7	6.3261494732	op zijn centen zitten	20	4.68	3.71
+Fig	3.36	7	6.2146080984	voor aap staan	20	2.045454545	3.22
+Lit	2.76	7	6.3543700408	voor aap staan	20	2.045454545	3.22
+Fig	3.02	7	6.2952660014	voor iemand door het vuur gaan	20	3.91	4.18
+Lit	1.9	7	6.4248690239	voor iemand door het vuur gaan	20	3.91	4.18
+Fig	2.49	3	6.0330862218	één lijn trekken	21	4.73	2.88
+Lit	2.43	3	6.5750758406	één lijn trekken	21	4.73	2.88
+Fig	2.25	5	6.5750758406	aan een zijden draadje hangen	21	3.73	3.14
+Lit	2.47	5	6.1463292577	aan een zijden draadje hangen	21	3.73	3.14
+Fig	3.45	6	6.0520891689	aan het roer staan	21	4.73	4.6
+Lit	3.7	6	6.1820849067	aan het roer staan	21	4.73	4.6
+Lit	2.96	5	6.2324480166	als paddenstoelen uit de grond schieten	21	2.27	3.29
+Fig	2.66	5	6.1984787165	als paddenstoelen uit de grond schieten	21	2.27	3.29
+Fig	2.28	5	6.3261494732	de koe bij de hoorns vatten	21	4.05	3.17
+Lit	3.04	5	6.0913098821	de koe bij de hoorns vatten	21	4.05	3.17
+Fig	2.93	6	6.2480428745	ergens mee in de maag zitten	21	2.86	2.95
+Fig	2.13	6	6.2324480166	ergens zijn neus voor optrekken	21	4.23	3.33
+Lit	2.22	6	6.4248690239	ergens zijn neus voor optrekken	21	4.23	3.33
+Fig	3.58	7	6.2146080984	het niet breed hebben	21	1.95	3.24
+Lit	2.42	7	6.3403593037	het niet breed hebben	21	1.95	3.24
+Fig	3.81	3	6.1290502101	iemand aan de tand voelen	21	4.45	2.83
+Fig	2.73	6	6.2480428745	iemand de wet voorschrijven	21	3.68	3.67
+Lit	2.75	6	6.5027900459	iemand de wet voorschrijven	21	3.68	3.67
+Fig	1.81	4	6.5638555265	iemand iets in de schoenen schuiven	21	4.05	3.09
+Fig	2.68	6	5.8833223885	iemand op de huid zitten	21	3.05	3.38
+Lit	2.6	6	6.0913098821	iemand op de huid zitten	21	3.05	3.38
+Lit	2.14	7	6.2633982626	iemand tegen de schenen schoppen	21	4.73	3.71
+Fig	2.7	7	6.4907235345	iemand tegen de schenen schoppen	21	4.73	3.71
+Lit	2.7	3	6.0730445341	iemand wakker schudden	21	4.77	3.43
+Fig	3.81	3	6.1984787165	iemand wakker schudden	21	4.77	3.43
+Lit	2.1	7	6.0520891689	iemand/iets tot in de wolken verheffen	21	1.82	3.75
+Fig	2.68	7	6.163314804	iemand/iets tot in de wolken verheffen	21	1.82	3.75
+Lit	1.93	7	6.2146080984	iets op poten zetten	21	4	3.38
+Fig	2.39	7	6.3969296552	iets op poten zetten	21	4	3.38
+Lit	2.55	5	6.0913098821	iets uit de losse pols doen	21	2.27	3.13
+Fig	2.53	5	6.013715156	iets uit de losse pols doen	21	2.27	3.13
+Fig	2.81	7	6.0520891689	iets uit je duim zuigen	21	1.95	3.21
+Lit	2.4	7	6.0520891689	iets uit je duim zuigen	21	1.95	3.21
+Fig	2.26	3	6.3543700408	iets van tafel vegen	21	4.73	3.38
+Lit	2.15	3	6.3099182782	iets van tafel vegen	21	4.73	3.38
+Fig	3.28	6	5.9506425526	met de rug tegen de muur staan	21	4.81818	3.24
+Lit	2.65	6	6.0730445341	met de rug tegen de muur staan	21	4.81818	3.24
+Lit	1.95	7	6.2146080984	op het puntje van de tong liggen	21	3.05	3.52
+Fig	3.51	7	6.013715156	op het puntje van de tong liggen	21	3.05	3.52
+Lit	2.07	4	6.4118182677	op zijn achterste benen staan	21	2.86	2.62
+Fig	2.55	4	6.1290502101	op zijn achterste benen staan	21	2.86	2.62
+Lit	3.05	7	6.1463292577	op zijn centen zitten	21	4.68	3.71
+Fig	2.23	7	6.1290502101	op zijn centen zitten	21	4.68	3.71
+Fig	3.36	7	5.9712618398	voor aap staan	21	2.045454545	3.22
+Lit	2.76	7	6.2633982626	voor aap staan	21	2.045454545	3.22
+Fig	3.02	6	6.1290502101	voor iemand door het vuur gaan	21	3.91	4.18
+Lit	1.9	6	6.0730445341	voor iemand door het vuur gaan	21	3.91	4.18
+Fig	2.49	5	6.2633982626	één lijn trekken	22	4.73	2.88
+Lit	2.43	5	6.3699009828	één lijn trekken	22	4.73	2.88
+Fig	2.25	5	6.2324480166	aan een zijden draadje hangen	22	3.73	3.14
+Lit	2.47	5	6.4118182677	aan een zijden draadje hangen	22	3.73	3.14
+Fig	3.45	7	6.3403593037	aan het roer staan	22	4.73	4.6
+Lit	3.7	7	6.3099182782	aan het roer staan	22	4.73	4.6
+Lit	2.96	5	6.5985090286	als paddenstoelen uit de grond schieten	22	2.27	3.29
+Fig	2.66	5	6.3543700408	als paddenstoelen uit de grond schieten	22	2.27	3.29
+Fig	2.28	7	6.163314804	de koe bij de hoorns vatten	22	4.05	3.17
+Lit	3.04	7	6.1092475828	de koe bij de hoorns vatten	22	4.05	3.17
+Fig	2.93	6	6.1092475828	ergens mee in de maag zitten	22	2.86	2.95
+Fig	2.13	5	6.3969296552	ergens zijn neus voor optrekken	22	4.23	3.33
+Lit	2.22	5	6.2633982626	ergens zijn neus voor optrekken	22	4.23	3.33
+Fig	3.58	7	6.1820849067	het niet breed hebben	22	1.95	3.24
+Lit	2.42	7	6.4907235345	het niet breed hebben	22	1.95	3.24
+Fig	3.81	6	6.0730445341	iemand aan de tand voelen	22	4.45	2.83
+Fig	2.73	6	6.3835066349	iemand de wet voorschrijven	22	3.68	3.67
+Lit	2.75	6	6.3969296552	iemand de wet voorschrijven	22	3.68	3.67
+Fig	1.81	4	6.2952660014	iemand iets in de schoenen schuiven	22	4.05	3.09
+Fig	2.68	4	6.280395839	iemand op de huid zitten	22	3.05	3.38
+Lit	2.6	4	6.2324480166	iemand op de huid zitten	22	3.05	3.38
+Lit	2.14	7	6.5750758406	iemand tegen de schenen schoppen	22	4.73	3.71
+Fig	2.7	7	6.4377516497	iemand tegen de schenen schoppen	22	4.73	3.71
+Lit	2.7	6	6.6093492432	iemand wakker schudden	22	4.77	3.43
+Fig	3.81	6	6.7934661326	iemand wakker schudden	22	4.77	3.43
+Lit	2.1	5	6.4645883037	iemand/iets tot in de wolken verheffen	22	1.82	3.75
+Fig	2.68	5	6.4248690239	iemand/iets tot in de wolken verheffen	22	1.82	3.75
+Lit	1.93	6	6.907755279	iets op poten zetten	22	4	3.38
+Fig	2.39	6	6.1290502101	iets op poten zetten	22	4	3.38
+Lit	2.55	6	6.2480428745	iets uit de losse pols doen	22	2.27	3.13
+Fig	2.53	6	6.907755279	iets uit de losse pols doen	22	2.27	3.13
+Fig	2.81	7	6.1463292577	iets uit je duim zuigen	22	1.95	3.21
+Lit	2.4	7	6.907755279	iets uit je duim zuigen	22	1.95	3.21
+Fig	2.26	3	6.2146080984	iets van tafel vegen	22	4.73	3.38
+Lit	2.15	3	6.2146080984	iets van tafel vegen	22	4.73	3.38
+Fig	3.28	7	6.1268691841	met de rug tegen de muur staan	22	4.81818	3.24
+Lit	2.65	7	6.3543700408	met de rug tegen de muur staan	22	4.81818	3.24
+Lit	1.95	7	6.2480428745	op het puntje van de tong liggen	22	3.05	3.52
+Fig	3.51	7	6.1463292577	op het puntje van de tong liggen	22	3.05	3.52
+Lit	2.07	4	6.4377516497	op zijn achterste benen staan	22	2.86	2.62
+Fig	2.55	4	6.3261494732	op zijn achterste benen staan	22	2.86	2.62
+Lit	3.05	7	6.163314804	op zijn centen zitten	22	4.68	3.71
+Fig	2.23	7	6.3835066349	op zijn centen zitten	22	4.68	3.71
+Fig	3.36	7	6.551080335	voor aap staan	22	2.045454545	3.22
+Lit	2.76	7	6.3099182782	voor aap staan	22	2.045454545	3.22
+Fig	3.02	7	6.280395839	voor iemand door het vuur gaan	22	3.91	4.18
+Lit	1.9	7	6.3699009828	voor iemand door het vuur gaan	22	3.91	4.18
+Fig	2.49	6	6.3969296552	één lijn trekken	23	4.73	2.88
+Lit	2.43	6	6.2952660014	één lijn trekken	23	4.73	2.88
+Fig	2.25	6	6.3099182782	aan een zijden draadje hangen	23	3.73	3.14
+Lit	2.47	6	6.4118182677	aan een zijden draadje hangen	23	3.73	3.14
+Fig	3.45	7	6.2146080984	aan het roer staan	23	4.73	4.6
+Lit	3.7	7	6.3403593037	aan het roer staan	23	4.73	4.6
+Lit	2.96	7	6.4248690239	als paddenstoelen uit de grond schieten	23	2.27	3.29
+Fig	2.66	7	6.6093492432	als paddenstoelen uit de grond schieten	23	2.27	3.29
+Fig	2.28	4	6.2633982626	de koe bij de hoorns vatten	23	4.05	3.17
+Lit	3.04	4	6.4118182677	de koe bij de hoorns vatten	23	4.05	3.17
+Fig	2.93	5	6.3099182782	ergens mee in de maag zitten	23	2.86	2.95
+Fig	2.13	7	6.5147126909	ergens zijn neus voor optrekken	23	4.23	3.33
+Lit	2.22	7	6.163314804	ergens zijn neus voor optrekken	23	4.23	3.33
+Fig	3.58	7	6.3969296552	het niet breed hebben	23	1.95	3.24
+Lit	2.42	7	6.7742238864	het niet breed hebben	23	1.95	3.24
+Fig	3.81	6	6.2324480166	iemand aan de tand voelen	23	4.45	2.83
+Fig	2.73	7	6.3543700408	iemand de wet voorschrijven	23	3.68	3.67
+Lit	2.75	7	6.2633982626	iemand de wet voorschrijven	23	3.68	3.67
+Fig	1.81	6	6.5027900459	iemand iets in de schoenen schuiven	23	4.05	3.09
+Fig	2.68	4	6.3261494732	iemand op de huid zitten	23	3.05	3.38
+Lit	2.6	4	6.1984787165	iemand op de huid zitten	23	3.05	3.38
+Lit	2.14	6	6.280395839	iemand tegen de schenen schoppen	23	4.73	3.71
+Fig	2.7	6	6.4248690239	iemand tegen de schenen schoppen	23	4.73	3.71
+Lit	2.7	6	6.4645883037	iemand wakker schudden	23	4.77	3.43
+Fig	3.81	6	6.4118182677	iemand wakker schudden	23	4.77	3.43
+Lit	2.1	7	6.3099182782	iemand/iets tot in de wolken verheffen	23	1.82	3.75
+Fig	2.68	7	6.1984787165	iemand/iets tot in de wolken verheffen	23	1.82	3.75
+Lit	1.93	7	6.3403593037	iets op poten zetten	23	4	3.38
+Fig	2.39	7	6.2324480166	iets op poten zetten	23	4	3.38
+Lit	2.55	7	6.4248690239	iets uit de losse pols doen	23	2.27	3.13
+Fig	2.53	7	6.4118182677	iets uit de losse pols doen	23	2.27	3.13
+Fig	2.81	7	6.3699009828	iets uit je duim zuigen	23	1.95	3.21
+Lit	2.4	7	6.1290502101	iets uit je duim zuigen	23	1.95	3.21
+Fig	2.26	5	6.3403593037	iets van tafel vegen	23	4.73	3.38
+Lit	2.15	5	6.3699009828	iets van tafel vegen	23	4.73	3.38
+Fig	3.28	7	6.1820849067	met de rug tegen de muur staan	23	4.81818	3.24
+Lit	2.65	7	6.2480428745	met de rug tegen de muur staan	23	4.81818	3.24
+Lit	1.95	7	6.3543700408	op het puntje van de tong liggen	23	3.05	3.52
+Fig	3.51	7	6.2952660014	op het puntje van de tong liggen	23	3.05	3.52
+Lit	2.07	6	6.4248690239	op zijn achterste benen staan	23	2.86	2.62
+Fig	2.55	6	6.3835066349	op zijn achterste benen staan	23	2.86	2.62
+Lit	3.05	7	6.1984787165	op zijn centen zitten	23	4.68	3.71
+Fig	2.23	7	6.3969296552	op zijn centen zitten	23	4.68	3.71
+Fig	3.36	7	6.3835066349	voor aap staan	23	2.045454545	3.22
+Lit	2.76	7	6.4907235345	voor aap staan	23	2.045454545	3.22
+Fig	3.02	7	6.3969296552	voor iemand door het vuur gaan	23	3.91	4.18
+Lit	1.9	7	6.3543700408	voor iemand door het vuur gaan	23	3.91	4.18
+Fig	2.49	6	6.3099182782	één lijn trekken	24	4.73	2.88
+Lit	2.43	6	6.2633982626	één lijn trekken	24	4.73	2.88
+Fig	2.25	6	6.3699009828	aan een zijden draadje hangen	24	3.73	3.14
+Lit	2.47	6	6.3969296552	aan een zijden draadje hangen	24	3.73	3.14
+Fig	3.45	7	6.3403593037	aan het roer staan	24	4.73	4.6
+Lit	3.7	7	6.3835066349	aan het roer staan	24	4.73	4.6
+Lit	2.96	6	6.2480428745	als paddenstoelen uit de grond schieten	24	2.27	3.29
+Fig	2.66	6	6.5638555265	als paddenstoelen uit de grond schieten	24	2.27	3.29
+Fig	2.28	7	6.0730445341	de koe bij de hoorns vatten	24	4.05	3.17
+Lit	3.04	7	6.2146080984	de koe bij de hoorns vatten	24	4.05	3.17
+Fig	2.93	4	6.5750758406	ergens mee in de maag zitten	24	2.86	2.95
+Fig	2.13	7	6.5638555265	ergens zijn neus voor optrekken	24	4.23	3.33
+Lit	2.22	7	6.7153833863	ergens zijn neus voor optrekken	24	4.23	3.33
+Fig	3.58	7	6.2633982626	het niet breed hebben	24	1.95	3.24
+Lit	2.42	7	6.0913098821	het niet breed hebben	24	1.95	3.24
+Fig	3.81	6	6.2633982626	iemand aan de tand voelen	24	4.45	2.83
+Fig	2.73	6	6.4520489544	iemand de wet voorschrijven	24	3.68	3.67
+Lit	2.75	6	6.5985090286	iemand de wet voorschrijven	24	3.68	3.67
+Fig	1.81	6	6.3969296552	iemand iets in de schoenen schuiven	24	4.05	3.09
+Fig	2.68	6	6.4769723629	iemand op de huid zitten	24	3.05	3.38
+Lit	2.6	6	6.5638555265	iemand op de huid zitten	24	3.05	3.38
+Lit	2.14	7	6.3099182782	iemand tegen de schenen schoppen	24	4.73	3.71
+Fig	2.7	7	6.4248690239	iemand tegen de schenen schoppen	24	4.73	3.71
+Lit	2.7	3	6.4377516497	iemand wakker schudden	24	4.77	3.43
+Fig	3.81	3	6.2146080984	iemand wakker schudden	24	4.77	3.43
+Lit	2.1	7	6.2324480166	iemand/iets tot in de wolken verheffen	24	1.82	3.75
+Fig	2.68	7	6.2480428745	iemand/iets tot in de wolken verheffen	24	1.82	3.75
+Lit	1.93	6	6.4520489544	iets op poten zetten	24	4	3.38
+Fig	2.39	6	6.3403593037	iets op poten zetten	24	4	3.38
+Lit	2.55	7	6.2480428745	iets uit de losse pols doen	24	2.27	3.13
+Fig	2.53	7	6.3699009828	iets uit de losse pols doen	24	2.27	3.13
+Fig	2.81	7	6.1290502101	iets uit je duim zuigen	24	1.95	3.21
+Lit	2.4	7	6.3261494732	iets uit je duim zuigen	24	1.95	3.21
+Fig	2.26	6	6.755768922	iets van tafel vegen	24	4.73	3.38
+Lit	2.15	6	6.2146080984	iets van tafel vegen	24	4.73	3.38
+Fig	3.28	7	6.5750758406	met de rug tegen de muur staan	24	4.81818	3.24
+Lit	2.65	7	6.5985090286	met de rug tegen de muur staan	24	4.81818	3.24
+Lit	1.95	7	6.163314804	op het puntje van de tong liggen	24	3.05	3.52
+Fig	3.51	7	6.1820849067	op het puntje van de tong liggen	24	3.05	3.52
+Lit	2.07	6	6.2952660014	op zijn achterste benen staan	24	2.86	2.62
+Fig	2.55	6	6.0520891689	op zijn achterste benen staan	24	2.86	2.62
+Lit	3.05	7	6.0520891689	op zijn centen zitten	24	4.68	3.71
+Fig	2.23	7	6.3099182782	op zijn centen zitten	24	4.68	3.71
+Fig	3.36	7	6.4248690239	voor aap staan	24	2.045454545	3.22
+Lit	2.76	7	6.6745613918	voor aap staan	24	2.045454545	3.22
+Fig	3.02	7	6.0330862218	voor iemand door het vuur gaan	24	3.91	4.18
+Lit	1.9	7	6.4769723629	voor iemand door het vuur gaan	24	3.91	4.18
+Fig	2.49	2	6.4769723629	één lijn trekken	25	4.73	2.88
+Lit	2.43	2	6.1463292577	één lijn trekken	25	4.73	2.88
+Fig	2.25	3	6.1092475828	aan een zijden draadje hangen	25	3.73	3.14
+Lit	2.47	3	6.4907235345	aan een zijden draadje hangen	25	3.73	3.14
+Fig	3.45	7	6.2480428745	aan het roer staan	25	4.73	4.6
+Lit	3.7	7	6.5395859556	aan het roer staan	25	4.73	4.6
+Lit	2.96	5	6.1820849067	als paddenstoelen uit de grond schieten	25	2.27	3.29
+Fig	2.66	5	6.0730445341	als paddenstoelen uit de grond schieten	25	2.27	3.29
+Fig	2.28	4	6.2324480166	de koe bij de hoorns vatten	25	4.05	3.17
+Lit	3.04	4	6.6200732065	de koe bij de hoorns vatten	25	4.05	3.17
+Fig	2.93	6	6.1984787165	ergens mee in de maag zitten	25	2.86	2.95
+Fig	2.13	7	6.2324480166	ergens zijn neus voor optrekken	25	4.23	3.33
+Lit	2.22	7	6.4377516497	ergens zijn neus voor optrekken	25	4.23	3.33
+Fig	3.58	7	6.3835066349	het niet breed hebben	25	1.95	3.24
+Lit	2.42	7	6.3543700408	het niet breed hebben	25	1.95	3.24
+Fig	3.81	3	6.3543700408	iemand aan de tand voelen	25	4.45	2.83
+Fig	2.73	7	6.3403593037	iemand de wet voorschrijven	25	3.68	3.67
+Lit	2.75	7	6.1820849067	iemand de wet voorschrijven	25	3.68	3.67
+Fig	1.81	6	6.5395859556	iemand iets in de schoenen schuiven	25	4.05	3.09
+Fig	2.68	4	6.2952660014	iemand op de huid zitten	25	3.05	3.38
+Lit	2.6	4	6.3543700408	iemand op de huid zitten	25	3.05	3.38
+Lit	2.14	7	6.1463292577	iemand tegen de schenen schoppen	25	4.73	3.71
+Fig	2.7	7	6.2952660014	iemand tegen de schenen schoppen	25	4.73	3.71
+Lit	2.7	6	6.4118182677	iemand wakker schudden	25	4.77	3.43
+Fig	3.81	6	6.4377516497	iemand wakker schudden	25	4.77	3.43
+Lit	2.1	7	6.8023947633	iemand/iets tot in de wolken verheffen	25	1.82	3.75
+Fig	2.68	7	6.0330862218	iemand/iets tot in de wolken verheffen	25	1.82	3.75
+Lit	1.93	7	6.4118182677	iets op poten zetten	25	4	3.38
+Fig	2.39	7	6.2146080984	iets op poten zetten	25	4	3.38
+Lit	2.55	6	6.4769723629	iets uit de losse pols doen	25	2.27	3.13
+Fig	2.53	6	6.6644090204	iets uit de losse pols doen	25	2.27	3.13
+Fig	2.81	7	6.5861716549	iets uit je duim zuigen	25	1.95	3.21
+Lit	2.4	7	6.3969296552	iets uit je duim zuigen	25	1.95	3.21
+Fig	2.26	5	6.2480428745	iets van tafel vegen	25	4.73	3.38
+Lit	2.15	5	6.3699009828	iets van tafel vegen	25	4.73	3.38
+Fig	3.28	3	6.2633982626	met de rug tegen de muur staan	25	4.81818	3.24
+Lit	2.65	3	6.2146080984	met de rug tegen de muur staan	25	4.81818	3.24
+Lit	1.95	7	6.4118182677	op het puntje van de tong liggen	25	3.05	3.52
+Fig	3.51	7	6.2952660014	op het puntje van de tong liggen	25	3.05	3.52
+Lit	2.07	4	6.4769723629	op zijn achterste benen staan	25	2.86	2.62
+Fig	2.55	4	6.5027900459	op zijn achterste benen staan	25	2.86	2.62
+Lit	3.05	5	6.2952660014	op zijn centen zitten	25	4.68	3.71
+Fig	2.23	5	6.2146080984	op zijn centen zitten	25	4.68	3.71
+Fig	3.36	7	6.3969296552	voor aap staan	25	2.045454545	3.22
+Lit	2.76	7	6.3835066349	voor aap staan	25	2.045454545	3.22
+Fig	3.02	7	6.2480428745	voor iemand door het vuur gaan	25	3.91	4.18
+Lit	1.9	7	6.3699009828	voor iemand door het vuur gaan	25	3.91	4.18
+Fig	2.49	1	6.3699009828	één lijn trekken	26	4.73	2.88
+Lit	2.43	1	6.6093492432	één lijn trekken	26	4.73	2.88
+Fig	2.25	1	6.4118182677	aan een zijden draadje hangen	26	3.73	3.14
+Lit	2.47	1	6.7934661326	aan een zijden draadje hangen	26	3.73	3.14
+Fig	3.45	1	6.5027900459	aan het roer staan	26	4.73	4.6
+Lit	3.7	1	6.6200732065	aan het roer staan	26	4.73	4.6
+Lit	2.96	1	6.5279579176	als paddenstoelen uit de grond schieten	26	2.27	3.29
+Fig	2.66	1	6.2633982626	als paddenstoelen uit de grond schieten	26	2.27	3.29
+Fig	2.28	1	6.3403593037	de koe bij de hoorns vatten	26	4.05	3.17
+Lit	3.04	1	6.5985090286	de koe bij de hoorns vatten	26	4.05	3.17
+Fig	2.93	1	6.2324480166	ergens mee in de maag zitten	26	2.86	2.95
+Fig	2.13	1	6.2324480166	ergens zijn neus voor optrekken	26	4.23	3.33
+Lit	2.22	1	6.5395859556	ergens zijn neus voor optrekken	26	4.23	3.33
+Fig	3.58	1	6.6644090204	het niet breed hebben	26	1.95	3.24
+Lit	2.42	1	6.5750758406	het niet breed hebben	26	1.95	3.24
+Fig	3.81	6	6.3261494732	iemand aan de tand voelen	26	4.45	2.83
+Fig	2.73	1	6.3699009828	iemand de wet voorschrijven	26	3.68	3.67
+Lit	2.75	1	6.1092475828	iemand de wet voorschrijven	26	3.68	3.67
+Fig	1.81	1	6.6200732065	iemand iets in de schoenen schuiven	26	4.05	3.09
+Fig	2.68	4	6.2146080984	iemand op de huid zitten	26	3.05	3.38
+Lit	2.6	4	6.1463292577	iemand op de huid zitten	26	3.05	3.38
+Lit	2.14	1	6.4118182677	iemand tegen de schenen schoppen	26	4.73	3.71
+Fig	2.7	1	6.3969296552	iemand tegen de schenen schoppen	26	4.73	3.71
+Lit	2.7	1	6.6846117277	iemand wakker schudden	26	4.77	3.43
+Fig	3.81	1	6.6846117277	iemand wakker schudden	26	4.77	3.43
+Lit	2.1	1	6.3261494732	iemand/iets tot in de wolken verheffen	26	1.82	3.75
+Fig	2.68	1	6.6200732065	iemand/iets tot in de wolken verheffen	26	1.82	3.75
+Lit	1.93	6	6.5985090286	iets op poten zetten	26	4	3.38
+Fig	2.39	6	6.5279579176	iets op poten zetten	26	4	3.38
+Lit	2.55	1	6.5279579176	iets uit de losse pols doen	26	2.27	3.13
+Fig	2.53	1	6.5395859556	iets uit de losse pols doen	26	2.27	3.13
+Fig	2.81	1	6.3699009828	iets uit je duim zuigen	26	1.95	3.21
+Lit	2.4	1	6.6093492432	iets uit je duim zuigen	26	1.95	3.21
+Fig	2.26	1	6.7452363495	iets van tafel vegen	26	4.73	3.38
+Lit	2.15	1	6.4769723629	iets van tafel vegen	26	4.73	3.38
+Fig	3.28	1	6.4769723629	met de rug tegen de muur staan	26	4.81818	3.24
+Lit	2.65	1	6.3403593037	met de rug tegen de muur staan	26	4.81818	3.24
+Lit	1.95	1	6.1984787165	op het puntje van de tong liggen	26	3.05	3.52
+Fig	3.51	1	6.5638555265	op het puntje van de tong liggen	26	3.05	3.52
+Lit	2.07	1	6.4769723629	op zijn achterste benen staan	26	2.86	2.62
+Fig	2.55	1	6.3403593037	op zijn achterste benen staan	26	2.86	2.62
+Lit	3.05	1	6.2633982626	op zijn centen zitten	26	4.68	3.71
+Fig	2.23	1	6.4907235345	op zijn centen zitten	26	4.68	3.71
+Fig	3.36	1	6.6200732065	voor aap staan	26	2.045454545	3.22
+Lit	2.76	1	6.6528630294	voor aap staan	26	2.045454545	3.22
+Fig	3.02	1	6.4769723629	voor iemand door het vuur gaan	26	3.91	4.18
+Lit	1.9	1	6.6200732065	voor iemand door het vuur gaan	26	3.91	4.18
+Fig	2.49	4	6.1268691841	één lijn trekken	27	4.73	2.88
+Lit	2.43	4	6.4907235345	één lijn trekken	27	4.73	2.88
+Fig	2.25	3	6.1820849067	aan een zijden draadje hangen	27	3.73	3.14
+Lit	2.47	3	6.2952660014	aan een zijden draadje hangen	27	3.73	3.14
+Fig	3.45	6	6.0730445341	aan het roer staan	27	4.73	4.6
+Lit	3.7	6	5.9712618398	aan het roer staan	27	4.73	4.6
+Lit	2.96	7	6.4248690239	als paddenstoelen uit de grond schieten	27	2.27	3.29
+Fig	2.66	7	6.2324480166	als paddenstoelen uit de grond schieten	27	2.27	3.29
+Fig	2.28	7	6.1463292577	de koe bij de hoorns vatten	27	4.05	3.17
+Lit	3.04	7	6.3261494732	de koe bij de hoorns vatten	27	4.05	3.17
+Fig	2.93	6	6.3099182782	ergens mee in de maag zitten	27	2.86	2.95
+Fig	2.13	5	6.3699009828	ergens zijn neus voor optrekken	27	4.23	3.33
+Lit	2.22	5	6.3261494732	ergens zijn neus voor optrekken	27	4.23	3.33
+Fig	3.58	7	6.6093492432	het niet breed hebben	27	1.95	3.24
+Lit	2.42	7	6.4645883037	het niet breed hebben	27	1.95	3.24
+Fig	3.81	1	6.3099182782	iemand aan de tand voelen	27	4.45	2.83
+Fig	2.73	6	6.0913098821	iemand de wet voorschrijven	27	3.68	3.67
+Lit	2.75	6	6.0520891689	iemand de wet voorschrijven	27	3.68	3.67
+Fig	1.81	7	6.3543700408	iemand iets in de schoenen schuiven	27	4.05	3.09
+Fig	2.68	4	6.1290502101	iemand op de huid zitten	27	3.05	3.38
+Lit	2.6	4	6.0520891689	iemand op de huid zitten	27	3.05	3.38
+Lit	2.14	7	6.2146080984	iemand tegen de schenen schoppen	27	4.73	3.71
+Fig	2.7	7	6.3099182782	iemand tegen de schenen schoppen	27	4.73	3.71
+Lit	2.7	3	6.1984787165	iemand wakker schudden	27	4.77	3.43
+Fig	3.81	3	6.1290502101	iemand wakker schudden	27	4.77	3.43
+Lit	2.1	7	6.1984787165	iemand/iets tot in de wolken verheffen	27	1.82	3.75
+Fig	2.68	7	6.1290502101	iemand/iets tot in de wolken verheffen	27	1.82	3.75
+Lit	1.93	7	6.907755279	iets op poten zetten	27	4	3.38
+Fig	2.39	7	6.163314804	iets op poten zetten	27	4	3.38
+Lit	2.55	6	6.3969296552	iets uit de losse pols doen	27	2.27	3.13
+Fig	2.53	6	6.3969296552	iets uit de losse pols doen	27	2.27	3.13
+Fig	2.81	7	6.7650389768	iets uit je duim zuigen	27	1.95	3.21
+Lit	2.4	7	6.163314804	iets uit je duim zuigen	27	1.95	3.21
+Fig	2.26	5	6.1463292577	iets van tafel vegen	27	4.73	3.38
+Lit	2.15	5	6.3403593037	iets van tafel vegen	27	4.73	3.38
+Fig	3.28	7	6.0730445341	met de rug tegen de muur staan	27	4.81818	3.24
+Lit	2.65	7	6.3261494732	met de rug tegen de muur staan	27	4.81818	3.24
+Lit	1.95	7	6.1820849067	op het puntje van de tong liggen	27	3.05	3.52
+Fig	3.51	7	6.2633982626	op het puntje van de tong liggen	27	3.05	3.52
+Lit	2.07	6	6.2952660014	op zijn achterste benen staan	27	2.86	2.62
+Fig	2.55	6	6.2952660014	op zijn achterste benen staan	27	2.86	2.62
+Lit	3.05	7	6.2480428745	op zijn centen zitten	27	4.68	3.71
+Fig	2.23	7	6.2633982626	op zijn centen zitten	27	4.68	3.71
+Fig	3.36	7	6.3543700408	voor aap staan	27	2.045454545	3.22
+Lit	2.76	7	6.4248690239	voor aap staan	27	2.045454545	3.22
+Fig	3.02	7	6.2324480166	voor iemand door het vuur gaan	27	3.91	4.18
+Lit	1.9	7	6.0730445341	voor iemand door het vuur gaan	27	3.91	4.18
+Fig	2.49	2	6.1290502101	één lijn trekken	28	4.73	2.88
+Lit	2.43	2	6.2324480166	één lijn trekken	28	4.73	2.88
+Fig	2.25	6	6.1092475828	aan een zijden draadje hangen	28	3.73	3.14
+Lit	2.47	6	6.1092475828	aan een zijden draadje hangen	28	3.73	3.14
+Fig	3.45	6	6.013715156	aan het roer staan	28	4.73	4.6
+Lit	3.7	6	6.1463292577	aan het roer staan	28	4.73	4.6
+Lit	2.96	5	6.163314804	als paddenstoelen uit de grond schieten	28	2.27	3.29
+Fig	2.66	5	6.163314804	als paddenstoelen uit de grond schieten	28	2.27	3.29
+Fig	2.28	4	5.9712618398	de koe bij de hoorns vatten	28	4.05	3.17
+Lit	3.04	4	6.2480428745	de koe bij de hoorns vatten	28	4.05	3.17
+Fig	2.93	5	6.0330862218	ergens mee in de maag zitten	28	2.86	2.95
+Fig	2.13	5	6.0330862218	ergens zijn neus voor optrekken	28	4.23	3.33
+Lit	2.22	5	6.2324480166	ergens zijn neus voor optrekken	28	4.23	3.33
+Fig	3.58	7	6.0730445341	het niet breed hebben	28	1.95	3.24
+Lit	2.42	7	6.280395839	het niet breed hebben	28	1.95	3.24
+Fig	3.81	6	6.0730445341	iemand aan de tand voelen	28	4.45	2.83
+Fig	2.73	6	6.2324480166	iemand de wet voorschrijven	28	3.68	3.67
+Lit	2.75	6	6.2480428745	iemand de wet voorschrijven	28	3.68	3.67
+Fig	1.81	5	6.2146080984	iemand iets in de schoenen schuiven	28	4.05	3.09
+Fig	2.68	4	6.1984787165	iemand op de huid zitten	28	3.05	3.38
+Lit	2.6	4	6.0330862218	iemand op de huid zitten	28	3.05	3.38
+Lit	2.14	6	6.013715156	iemand tegen de schenen schoppen	28	4.73	3.71
+Fig	2.7	6	6.1984787165	iemand tegen de schenen schoppen	28	4.73	3.71
+Lit	2.7	5	6.1290502101	iemand wakker schudden	28	4.77	3.43
+Fig	3.81	5	6.1092475828	iemand wakker schudden	28	4.77	3.43
+Lit	2.1	7	6.0330862218	iemand/iets tot in de wolken verheffen	28	1.82	3.75
+Fig	2.68	7	5.9712618398	iemand/iets tot in de wolken verheffen	28	1.82	3.75
+Lit	1.93	5	6.3543700408	iets op poten zetten	28	4	3.38
+Fig	2.39	5	6.1463292577	iets op poten zetten	28	4	3.38
+Lit	2.55	5	6.2146080984	iets uit de losse pols doen	28	2.27	3.13
+Fig	2.53	5	5.9712618398	iets uit de losse pols doen	28	2.27	3.13
+Fig	2.81	7	6.1463292577	iets uit je duim zuigen	28	1.95	3.21
+Lit	2.4	7	6.0330862218	iets uit je duim zuigen	28	1.95	3.21
+Fig	2.26	4	6.2324480166	iets van tafel vegen	28	4.73	3.38
+Lit	2.15	4	6.1092475828	iets van tafel vegen	28	4.73	3.38
+Fig	3.28	7	6.0913098821	met de rug tegen de muur staan	28	4.81818	3.24
+Lit	2.65	7	6.013715156	met de rug tegen de muur staan	28	4.81818	3.24
+Lit	1.95	7	6.1463292577	op het puntje van de tong liggen	28	3.05	3.52
+Fig	3.51	7	6.2324480166	op het puntje van de tong liggen	28	3.05	3.52
+Lit	2.07	2	6.2952660014	op zijn achterste benen staan	28	2.86	2.62
+Fig	2.55	2	6.2146080984	op zijn achterste benen staan	28	2.86	2.62
+Lit	3.05	7	5.8805329864	op zijn centen zitten	28	4.68	3.71
+Fig	2.23	7	6.0520891689	op zijn centen zitten	28	4.68	3.71
+Fig	3.36	7	6.1820849067	voor aap staan	28	2.045454545	3.22
+Lit	2.76	7	6.013715156	voor aap staan	28	2.045454545	3.22
+Fig	3.02	6	6.0913098821	voor iemand door het vuur gaan	28	3.91	4.18
+Lit	1.9	6	6.3403593037	voor iemand door het vuur gaan	28	3.91	4.18
+Fig	2.49	2	6.551080335	één lijn trekken	29	4.73	2.88
+Lit	2.43	2	6.2952660014	één lijn trekken	29	4.73	2.88
+Fig	2.25	6	6.4769723629	aan een zijden draadje hangen	29	3.73	3.14
+Lit	2.47	6	6.7056390949	aan een zijden draadje hangen	29	3.73	3.14
+Fig	3.45	6	6.4907235345	aan het roer staan	29	4.73	4.6
+Lit	3.7	6	6.3403593037	aan het roer staan	29	4.73	4.6
+Lit	2.96	5	6.4907235345	als paddenstoelen uit de grond schieten	29	2.27	3.29
+Fig	2.66	5	6.3969296552	als paddenstoelen uit de grond schieten	29	2.27	3.29
+Fig	2.28	6	6.6320017774	de koe bij de hoorns vatten	29	4.05	3.17
+Lit	3.04	6	6.3099182782	de koe bij de hoorns vatten	29	4.05	3.17
+Fig	2.93	4	6.3099182782	ergens mee in de maag zitten	29	2.86	2.95
+Fig	2.13	7	6.5395859556	ergens zijn neus voor optrekken	29	4.23	3.33
+Lit	2.22	7	6.3699009828	ergens zijn neus voor optrekken	29	4.23	3.33
+Fig	3.58	7	6.3969296552	het niet breed hebben	29	1.95	3.24
+Lit	2.42	7	6.7650389768	het niet breed hebben	29	1.95	3.24
+Fig	3.81	6	6.3699009828	iemand aan de tand voelen	29	4.45	2.83
+Fig	2.73	5	6.7153833863	iemand de wet voorschrijven	29	3.68	3.67
+Lit	2.75	5	6.3543700408	iemand de wet voorschrijven	29	3.68	3.67
+Fig	1.81	5	6.5027900459	iemand iets in de schoenen schuiven	29	4.05	3.09
+Fig	2.68	4	6.8297937375	iemand op de huid zitten	29	3.05	3.38
+Lit	2.6	4	6.4645883037	iemand op de huid zitten	29	3.05	3.38
+Lit	2.14	4	6.1984787165	iemand tegen de schenen schoppen	29	4.73	3.71
+Fig	2.7	4	6.4520489544	iemand tegen de schenen schoppen	29	4.73	3.71
+Lit	2.7	3	6.5985090286	iemand wakker schudden	29	4.77	3.43
+Fig	3.81	3	6.4907235345	iemand wakker schudden	29	4.77	3.43
+Lit	2.1	7	6.907755279	iemand/iets tot in de wolken verheffen	29	1.82	3.75
+Fig	2.68	7	6.3261494732	iemand/iets tot in de wolken verheffen	29	1.82	3.75
+Lit	1.93	6	6.8123450942	iets op poten zetten	29	4	3.38
+Fig	2.39	6	6.4769723629	iets op poten zetten	29	4	3.38
+Lit	2.55	4	6.4892049313	iets uit de losse pols doen	29	2.27	3.13
+Fig	2.53	4	6.5027900459	iets uit de losse pols doen	29	2.27	3.13
+Fig	2.81	7	6.8211074723	iets uit je duim zuigen	29	1.95	3.21
+Lit	2.4	7	6.5027900459	iets uit je duim zuigen	29	1.95	3.21
+Fig	2.26	4	6.4248690239	iets van tafel vegen	29	4.73	3.38
+Lit	2.15	4	6.6320017774	iets van tafel vegen	29	4.73	3.38
+Fig	3.28	7	6.2146080984	met de rug tegen de muur staan	29	4.81818	3.24
+Lit	2.65	7	6.4377516497	met de rug tegen de muur staan	29	4.81818	3.24
+Lit	1.95	5	6.7650389768	op het puntje van de tong liggen	29	3.05	3.52
+Fig	3.51	5	6.2480428745	op het puntje van de tong liggen	29	3.05	3.52
+Lit	2.07	2	6.8480052746	op zijn achterste benen staan	29	2.86	2.62
+Fig	2.55	2	6.7844570626	op zijn achterste benen staan	29	2.86	2.62
+Lit	3.05	7	6.280395839	op zijn centen zitten	29	4.68	3.71
+Fig	2.23	7	6.6093492432	op zijn centen zitten	29	4.68	3.71
+Fig	3.36	7	6.5395859556	voor aap staan	29	2.045454545	3.22
+Lit	2.76	7	6.5638555265	voor aap staan	29	2.045454545	3.22
+Fig	3.02	7	6.7262334024	voor iemand door het vuur gaan	29	3.91	4.18
+Lit	1.9	7	6.7056390949	voor iemand door het vuur gaan	29	3.91	4.18
+Fig	2.49	2	6.7056390949	één lijn trekken	30	4.73	2.88
+Lit	2.43	2	6.3403593037	één lijn trekken	30	4.73	2.88
+Fig	2.25	6	6.163314804	aan een zijden draadje hangen	30	3.73	3.14
+Lit	2.47	6	6.6644090204	aan een zijden draadje hangen	30	3.73	3.14
+Fig	3.45	7	6.3699009828	aan het roer staan	30	4.73	4.6
+Lit	3.7	7	6.3403593037	aan het roer staan	30	4.73	4.6
+Lit	2.96	7	6.1092475828	als paddenstoelen uit de grond schieten	30	2.27	3.29
+Fig	2.66	7	5.9506425526	als paddenstoelen uit de grond schieten	30	2.27	3.29
+Fig	2.28	2	6.4645883037	de koe bij de hoorns vatten	30	4.05	3.17
+Lit	3.04	2	6.1820849067	de koe bij de hoorns vatten	30	4.05	3.17
+Fig	2.93	5	6.163314804	ergens mee in de maag zitten	30	2.86	2.95
+Fig	2.13	7	6.1463292577	ergens zijn neus voor optrekken	30	4.23	3.33
+Lit	2.22	7	6.4907235345	ergens zijn neus voor optrekken	30	4.23	3.33
+Fig	3.58	7	6.0730445341	het niet breed hebben	30	1.95	3.24
+Lit	2.42	7	6.5750758406	het niet breed hebben	30	1.95	3.24
+Fig	3.81	6	5.9712618398	iemand aan de tand voelen	30	4.45	2.83
+Fig	2.73	6	6.3099182782	iemand de wet voorschrijven	30	3.68	3.67
+Lit	2.75	6	6.1092475828	iemand de wet voorschrijven	30	3.68	3.67
+Fig	1.81	6	6.3835066349	iemand iets in de schoenen schuiven	30	4.05	3.09
+Fig	2.68	1	6.3099182782	iemand op de huid zitten	30	3.05	3.38
+Lit	2.6	1	6.5279579176	iemand op de huid zitten	30	3.05	3.38
+Lit	2.14	7	6.1463292577	iemand tegen de schenen schoppen	30	4.73	3.71
+Fig	2.7	7	6.4520489544	iemand tegen de schenen schoppen	30	4.73	3.71
+Lit	2.7	2	6.013715156	iemand wakker schudden	30	4.77	3.43
+Fig	3.81	2	6.2324480166	iemand wakker schudden	30	4.77	3.43
+Lit	2.1	7	6.2146080984	iemand/iets tot in de wolken verheffen	30	1.82	3.75
+Fig	2.68	7	6.4907235345	iemand/iets tot in de wolken verheffen	30	1.82	3.75
+Lit	1.93	6	6.2304814476	iets op poten zetten	30	4	3.38
+Fig	2.39	6	6.1268691841	iets op poten zetten	30	4	3.38
+Lit	2.55	5	6.2324480166	iets uit de losse pols doen	30	2.27	3.13
+Fig	2.53	5	6.2952660014	iets uit de losse pols doen	30	2.27	3.13
+Fig	2.81	7	6.4118182677	iets uit je duim zuigen	30	1.95	3.21
+Lit	2.4	7	6.2146080984	iets uit je duim zuigen	30	1.95	3.21
+Fig	2.26	6	6.6093492432	iets van tafel vegen	30	4.73	3.38
+Lit	2.15	6	6.1290502101	iets van tafel vegen	30	4.73	3.38
+Fig	3.28	3	6.5027900459	met de rug tegen de muur staan	30	4.81818	3.24
+Lit	2.65	3	6.2633982626	met de rug tegen de muur staan	30	4.81818	3.24
+Lit	1.95	5	6.3099182782	op het puntje van de tong liggen	30	3.05	3.52
+Fig	3.51	5	6.013715156	op het puntje van de tong liggen	30	3.05	3.52
+Lit	2.07	5	6.2324480166	op zijn achterste benen staan	30	2.86	2.62
+Fig	2.55	5	6.6644090204	op zijn achterste benen staan	30	2.86	2.62
+Lit	3.05	7	5.926926026	op zijn centen zitten	30	4.68	3.71
+Fig	2.23	7	6.4118182677	op zijn centen zitten	30	4.68	3.71
+Fig	3.36	7	6.163314804	voor aap staan	30	2.045454545	3.22
+Lit	2.76	7	6.3699009828	voor aap staan	30	2.045454545	3.22
+Fig	3.02	5	6.4769723629	voor iemand door het vuur gaan	30	3.91	4.18
+Lit	1.9	5	6.4520489544	voor iemand door het vuur gaan	30	3.91	4.18
+Fig	2.49	4	6.2952660014	één lijn trekken	31	4.73	2.88
+Lit	2.43	4	6.5147126909	één lijn trekken	31	4.73	2.88
+Fig	2.25	4	6.4769723629	aan een zijden draadje hangen	31	3.73	3.14
+Lit	2.47	4	6.280395839	aan een zijden draadje hangen	31	3.73	3.14
+Fig	3.45	6	6.5861716549	aan het roer staan	31	4.73	4.6
+Lit	3.7	6	6.2324480166	aan het roer staan	31	4.73	4.6
+Lit	2.96	5	6.4248690239	als paddenstoelen uit de grond schieten	31	2.27	3.29
+Fig	2.66	5	6.3969296552	als paddenstoelen uit de grond schieten	31	2.27	3.29
+Fig	2.28	2	6.3403593037	de koe bij de hoorns vatten	31	4.05	3.17
+Lit	3.04	2	6.3699009828	de koe bij de hoorns vatten	31	4.05	3.17
+Fig	2.93	6	6.4769723629	ergens mee in de maag zitten	31	2.86	2.95
+Fig	2.13	3	6.2146080984	ergens zijn neus voor optrekken	31	4.23	3.33
+Lit	2.22	3	6.1820849067	ergens zijn neus voor optrekken	31	4.23	3.33
+Fig	3.58	7	6.280395839	het niet breed hebben	31	1.95	3.24
+Lit	2.42	7	6.5750758406	het niet breed hebben	31	1.95	3.24
+Fig	3.81	3	6.163314804	iemand aan de tand voelen	31	4.45	2.83
+Fig	2.73	6	6.3969296552	iemand de wet voorschrijven	31	3.68	3.67
+Lit	2.75	6	6.4769723629	iemand de wet voorschrijven	31	3.68	3.67
+Fig	1.81	6	6.4645883037	iemand iets in de schoenen schuiven	31	4.05	3.09
+Fig	2.68	5	6.4520489544	iemand op de huid zitten	31	3.05	3.38
+Lit	2.6	5	6.2785214242	iemand op de huid zitten	31	3.05	3.38
+Lit	2.14	7	6.2952660014	iemand tegen de schenen schoppen	31	4.73	3.71
+Fig	2.7	7	6.7153833863	iemand tegen de schenen schoppen	31	4.73	3.71
+Lit	2.7	3	6.5147126909	iemand wakker schudden	31	4.77	3.43
+Fig	3.81	3	6.3699009828	iemand wakker schudden	31	4.77	3.43
+Lit	2.1	6	6.2480428745	iemand/iets tot in de wolken verheffen	31	1.82	3.75
+Fig	2.68	6	6.2146080984	iemand/iets tot in de wolken verheffen	31	1.82	3.75
+Lit	1.93	7	6.5395859556	iets op poten zetten	31	4	3.38
+Fig	2.39	7	6.3543700408	iets op poten zetten	31	4	3.38
+Lit	2.55	6	6.280395839	iets uit de losse pols doen	31	2.27	3.13
+Fig	2.53	6	6.2324480166	iets uit de losse pols doen	31	2.27	3.13
+Fig	2.81	7	6.3969296552	iets uit je duim zuigen	31	1.95	3.21
+Lit	2.4	7	6.2324480166	iets uit je duim zuigen	31	1.95	3.21
+Fig	2.26	6	6.3403593037	iets van tafel vegen	31	4.73	3.38
+Lit	2.15	6	6.3699009828	iets van tafel vegen	31	4.73	3.38
+Fig	3.28	7	6.3403593037	met de rug tegen de muur staan	31	4.81818	3.24
+Lit	2.65	7	6.3403593037	met de rug tegen de muur staan	31	4.81818	3.24
+Lit	1.95	6	6.3969296552	op het puntje van de tong liggen	31	3.05	3.52
+Fig	3.51	6	6.163314804	op het puntje van de tong liggen	31	3.05	3.52
+Lit	2.07	5	6.3835066349	op zijn achterste benen staan	31	2.86	2.62
+Fig	2.55	5	6.3261494732	op zijn achterste benen staan	31	2.86	2.62
+Lit	3.05	7	6.2146080984	op zijn centen zitten	31	4.68	3.71
+Fig	2.23	7	6.2324480166	op zijn centen zitten	31	4.68	3.71
+Fig	3.36	7	5.9506425526	voor aap staan	31	2.045454545	3.22
+Lit	2.76	7	6.163314804	voor aap staan	31	2.045454545	3.22
+Fig	3.02	7	6.4645883037	voor iemand door het vuur gaan	31	3.91	4.18
+Lit	1.9	7	5.9914645471	voor iemand door het vuur gaan	31	3.91	4.18
+Fig	2.49	2	6.4769723629	één lijn trekken	32	4.73	2.88
+Lit	2.43	2	6.4134589572	één lijn trekken	32	4.73	2.88
+Fig	2.25	4	6.3801225369	aan een zijden draadje hangen	32	3.73	3.14
+Lit	2.47	4	6.5366915976	aan een zijden draadje hangen	32	3.73	3.14
+Fig	3.45	7	6.3630281035	aan het roer staan	32	4.73	4.6
+Lit	3.7	7	6.4457198194	aan het roer staan	32	4.73	4.6
+Lit	2.96	5	6.4457198194	als paddenstoelen uit de grond schieten	32	2.27	3.29
+Fig	2.66	5	6.5930445341	als paddenstoelen uit de grond schieten	32	2.27	3.29
+Fig	2.28	2	6.5930445341	de koe bij de hoorns vatten	32	4.05	3.17
+Lit	3.04	2	6.3630281035	de koe bij de hoorns vatten	32	4.05	3.17
+Fig	2.93	5	6.4457198194	ergens mee in de maag zitten	32	2.86	2.95
+Fig	2.13	5	6.492239835	ergens zijn neus voor optrekken	32	4.23	3.33
+Lit	2.22	5	6.579251212	ergens zijn neus voor optrekken	32	4.23	3.33
+Fig	3.58	7	6.2915691396	het niet breed hebben	32	1.95	3.24
+Lit	2.42	7	6.2728770065	het niet breed hebben	32	1.95	3.24
+Fig	3.81	6	6.3969296552	iemand aan de tand voelen	32	4.45	2.83
+Fig	2.73	7	6.492239835	iemand de wet voorschrijven	32	3.68	3.67
+Lit	2.75	7	6.5072777124	iemand de wet voorschrijven	32	3.68	3.67
+Fig	1.81	6	6.7799219075	iemand iets in de schoenen schuiven	32	4.05	3.09
+Fig	2.68	5	6.6066501862	iemand op de huid zitten	32	3.05	3.38
+Lit	2.6	5	6.4614681764	iemand op de huid zitten	32	3.05	3.38
+Lit	2.14	6	6.4457198194	iemand tegen de schenen schoppen	32	4.73	3.71
+Fig	2.7	6	6.492239835	iemand tegen de schenen schoppen	32	4.73	3.71
+Lit	2.7	4	6.3279367837	iemand wakker schudden	32	4.77	3.43
+Fig	3.81	4	6.2344107257	iemand wakker schudden	32	4.77	3.43
+Lit	2.1	6	6.4457198194	iemand/iets tot in de wolken verheffen	32	1.82	3.75
+Fig	2.68	6	6.5366915976	iemand/iets tot in de wolken verheffen	32	1.82	3.75
+Lit	1.93	7	6.4769723629	iets op poten zetten	32	4	3.38
+Fig	2.39	7	5.9401712527	iets op poten zetten	32	4	3.38
+Lit	2.55	7	6.2728770065	iets uit de losse pols doen	32	2.27	3.13
+Fig	2.53	7	6.579251212	iets uit de losse pols doen	32	2.27	3.13
+Fig	2.81	7	6.5220927982	iets uit je duim zuigen	32	1.95	3.21
+Lit	2.4	7	6.3456363608	iets uit je duim zuigen	32	1.95	3.21
+Fig	2.26	5	6.4457198194	iets van tafel vegen	32	4.73	3.38
+Lit	2.15	5	6.1737861039	iets van tafel vegen	32	4.73	3.38
+Fig	3.28	7	6.3630281035	met de rug tegen de muur staan	32	4.81818	3.24
+Lit	2.65	7	6.4614681764	met de rug tegen de muur staan	32	4.81818	3.24
+Lit	1.95	5	6.5220927982	op het puntje van de tong liggen	32	3.05	3.52
+Fig	3.51	5	6.6200732065	op het puntje van de tong liggen	32	3.05	3.52
+Lit	2.07	3	6.4457198194	op zijn achterste benen staan	32	2.86	2.62
+Fig	2.55	3	6.4769723629	op zijn achterste benen staan	32	2.86	2.62
+Lit	3.05	7	6.4769723629	op zijn centen zitten	32	4.68	3.71
+Fig	2.23	7	6.1944053911	op zijn centen zitten	32	4.68	3.71
+Fig	3.36	7	6.1527326947	voor aap staan	32	2.045454545	3.22
+Lit	2.76	7	6.3099182782	voor aap staan	32	2.045454545	3.22
+Fig	3.02	7	6.2344107257	voor iemand door het vuur gaan	32	3.91	4.18
+Lit	1.9	7	6.3630281035	voor iemand door het vuur gaan	32	3.91	4.18
+Fig	2.49	5	6.4614681764	één lijn trekken	34	4.73	2.88
+Lit	2.43	5	6.2915691396	één lijn trekken	34	4.73	2.88
+Fig	2.25	7	6.5930445341	aan een zijden draadje hangen	34	3.73	3.14
+Lit	2.47	7	6.0637852087	aan een zijden draadje hangen	34	3.73	3.14
+Fig	3.45	7	6.2915691396	aan het roer staan	34	4.73	4.6
+Lit	3.7	7	6.5220927982	aan het roer staan	34	4.73	4.6
+Lit	2.96	6	6.3969296552	als paddenstoelen uit de grond schieten	34	2.27	3.29
+Fig	2.66	6	6.3630281035	als paddenstoelen uit de grond schieten	34	2.27	3.29
+Fig	2.28	2	6.2146080984	de koe bij de hoorns vatten	34	4.05	3.17
+Lit	3.04	2	5.9914645471	de koe bij de hoorns vatten	34	4.05	3.17
+Fig	2.93	6	6.1737861039	ergens mee in de maag zitten	34	2.86	2.95
+Fig	2.13	7	6.1092475828	ergens zijn neus voor optrekken	34	4.23	3.33
+Lit	2.22	7	6.1312264895	ergens zijn neus voor optrekken	34	4.23	3.33
+Fig	3.58	7	6.5220927982	het niet breed hebben	34	1.95	3.24
+Lit	2.42	7	6.8669332845	het niet breed hebben	34	1.95	3.24
+Fig	3.81	5	6.2728770065	iemand aan de tand voelen	34	4.45	2.83
+Fig	2.73	7	6.3456363608	iemand de wet voorschrijven	34	3.68	3.67
+Lit	2.75	7	6.2146080984	iemand de wet voorschrijven	34	3.68	3.67
+Fig	1.81	4	6.2146080984	iemand iets in de schoenen schuiven	34	4.05	3.09
+Fig	2.68	6	6.3099182782	iemand op de huid zitten	34	3.05	3.38
+Lit	2.6	6	6.2538288116	iemand op de huid zitten	34	3.05	3.38
+Lit	2.14	3	6.1737861039	iemand tegen de schenen schoppen	34	4.73	3.71
+Fig	2.7	3	6.3456363608	iemand tegen de schenen schoppen	34	4.73	3.71
+Lit	2.7	3	6.4134589572	iemand wakker schudden	34	4.77	3.43
+Fig	3.81	3	6.4457198194	iemand wakker schudden	34	4.77	3.43
+Lit	2.1	4	6.4134589572	iemand/iets tot in de wolken verheffen	34	1.82	3.75
+Fig	2.68	4	6.6066501862	iemand/iets tot in de wolken verheffen	34	1.82	3.75
+Lit	1.93	7	6.1312264895	iets op poten zetten	34	4	3.38
+Fig	2.39	7	6.1944053911	iets op poten zetten	34	4	3.38
+Lit	2.55	6	6.2146080984	iets uit de losse pols doen	34	2.27	3.13
+Fig	2.53	6	6.1737861039	iets uit de losse pols doen	34	2.27	3.13
+Fig	2.81	7	6.1944053911	iets uit je duim zuigen	34	1.95	3.21
+Lit	2.4	7	6.4457198194	iets uit je duim zuigen	34	1.95	3.21
+Fig	2.26	3	6.492239835	iets van tafel vegen	34	4.73	3.38
+Lit	2.15	3	6.1312264895	iets van tafel vegen	34	4.73	3.38
+Fig	3.28	1	6.7214257008	met de rug tegen de muur staan	34	4.81818	3.24
+Lit	2.65	1	6.2344107257	met de rug tegen de muur staan	34	4.81818	3.24
+Lit	1.95	5	6.5366915976	op het puntje van de tong liggen	34	3.05	3.52
+Fig	3.51	5	6.0637852087	op het puntje van de tong liggen	34	3.05	3.52
+Lit	2.07	3	6.4457198194	op zijn achterste benen staan	34	2.86	2.62
+Fig	2.55	3	6.3099182782	op zijn achterste benen staan	34	2.86	2.62
+Lit	3.05	7	6.3456363608	op zijn centen zitten	34	4.68	3.71
+Fig	2.23	7	6.5366915976	op zijn centen zitten	34	4.68	3.71
+Fig	3.36	7	6.56526497	voor aap staan	34	2.045454545	3.22
+Lit	2.76	7	6.3456363608	voor aap staan	34	2.045454545	3.22
+Fig	3.02	7	6.1312264895	voor iemand door het vuur gaan	34	3.91	4.18
+Lit	1.9	7	6.2344107257	voor iemand door het vuur gaan	34	3.91	4.18
+Fig	2.49	5	6.492239835	één lijn trekken	35	4.73	2.88
+Lit	2.43	5	6.3630281035	één lijn trekken	35	4.73	2.88
+Fig	2.25	4	6.3456363608	aan een zijden draadje hangen	35	3.73	3.14
+Lit	2.47	4	6.3630281035	aan een zijden draadje hangen	35	3.73	3.14
+Fig	3.45	3	6.2146080984	aan het roer staan	35	4.73	4.6
+Lit	3.7	3	6.3630281035	aan het roer staan	35	4.73	4.6
+Lit	2.96	7	6.3630281035	als paddenstoelen uit de grond schieten	35	2.27	3.29
+Fig	2.66	7	6.551080335	als paddenstoelen uit de grond schieten	35	2.27	3.29
+Fig	2.28	2	6.429719478	de koe bij de hoorns vatten	35	4.05	3.17
+Lit	3.04	2	6.1312264895	de koe bij de hoorns vatten	35	4.05	3.17
+Fig	2.93	4	6.3630281035	ergens mee in de maag zitten	35	2.86	2.95
+Fig	2.13	4	6.4457198194	ergens zijn neus voor optrekken	35	4.23	3.33
+Lit	2.22	4	6.4614681764	ergens zijn neus voor optrekken	35	4.23	3.33
+Fig	3.58	7	6.3630281035	het niet breed hebben	35	1.95	3.24
+Lit	2.42	7	6.5930445341	het niet breed hebben	35	1.95	3.24
+Fig	3.81	6	6.5220927982	iemand aan de tand voelen	35	4.45	2.83
+Fig	2.73	4	6.4134589572	iemand de wet voorschrijven	35	3.68	3.67
+Lit	2.75	4	6.3630281035	iemand de wet voorschrijven	35	3.68	3.67
+Fig	1.81	6	6.492239835	iemand iets in de schoenen schuiven	35	4.05	3.09
+Fig	2.68	4	6.5072777124	iemand op de huid zitten	35	3.05	3.38
+Lit	2.6	4	6.1944053911	iemand op de huid zitten	35	3.05	3.38
+Lit	2.14	1	6.4457198194	iemand tegen de schenen schoppen	35	4.73	3.71
+Fig	2.7	1	6.4457198194	iemand tegen de schenen schoppen	35	4.73	3.71
+Lit	2.7	3	6.5930445341	iemand wakker schudden	35	4.77	3.43
+Fig	3.81	3	6.3801225369	iemand wakker schudden	35	4.77	3.43
+Lit	2.1	7	6.4457198194	iemand/iets tot in de wolken verheffen	35	1.82	3.75
+Fig	2.68	7	6.4614681764	iemand/iets tot in de wolken verheffen	35	1.82	3.75
+Lit	1.93	1	6.4457198194	iets op poten zetten	35	4	3.38
+Fig	2.39	1	6.2146080984	iets op poten zetten	35	4	3.38
+Lit	2.55	5	6.5220927982	iets uit de losse pols doen	35	2.27	3.13
+Fig	2.53	5	6.4134589572	iets uit de losse pols doen	35	2.27	3.13
+Fig	2.81	7	6.3801225369	iets uit je duim zuigen	35	1.95	3.21
+Lit	2.4	7	6.3630281035	iets uit je duim zuigen	35	1.95	3.21
+Fig	2.26	1	6.3969296552	iets van tafel vegen	35	4.73	3.38
+Lit	2.15	1	6.2728770065	iets van tafel vegen	35	4.73	3.38
+Fig	3.28	5	6.2728770065	met de rug tegen de muur staan	35	4.81818	3.24
+Lit	2.65	5	6.5072777124	met de rug tegen de muur staan	35	4.81818	3.24
+Lit	1.95	7	6.2728770065	op het puntje van de tong liggen	35	3.05	3.52
+Fig	3.51	7	6.0867747269	op het puntje van de tong liggen	35	3.05	3.52
+Lit	2.07	1	6.492239835	op zijn achterste benen staan	35	2.86	2.62
+Fig	2.55	1	6.2728770065	op zijn achterste benen staan	35	2.86	2.62
+Lit	3.05	7	6.3630281035	op zijn centen zitten	35	4.68	3.71
+Fig	2.23	7	6.4457198194	op zijn centen zitten	35	4.68	3.71
+Fig	3.36	7	6.2146080984	voor aap staan	35	2.045454545	3.22
+Lit	2.76	7	6.6463905148	voor aap staan	35	2.045454545	3.22
+Fig	3.02	6	6.4134589572	voor iemand door het vuur gaan	35	3.91	4.18
+Lit	1.9	6	6.551080335	voor iemand door het vuur gaan	35	3.91	4.18
+Fig	2.49	5	6.6200732065	één lijn trekken	36	4.73	2.88
+Lit	2.43	5	6.6592939197	één lijn trekken	36	4.73	2.88
+Fig	2.25	2	6.2344107257	aan een zijden draadje hangen	36	3.73	3.14
+Lit	2.47	2	6.0867747269	aan een zijden draadje hangen	36	3.73	3.14
+Fig	3.45	7	6.1527326947	aan het roer staan	36	4.73	4.6
+Lit	3.7	7	6.4614681764	aan het roer staan	36	4.73	4.6
+Lit	2.96	7	6.3456363608	als paddenstoelen uit de grond schieten	36	2.27	3.29
+Fig	2.66	7	6.4457198194	als paddenstoelen uit de grond schieten	36	2.27	3.29
+Fig	2.28	2	6.1527326947	de koe bij de hoorns vatten	36	4.05	3.17
+Lit	3.04	2	6.3279367837	de koe bij de hoorns vatten	36	4.05	3.17
+Fig	2.93	6	6.2344107257	ergens mee in de maag zitten	36	2.86	2.95
+Fig	2.13	6	6.2915691396	ergens zijn neus voor optrekken	36	4.23	3.33
+Lit	2.22	6	6.3456363608	ergens zijn neus voor optrekken	36	4.23	3.33
+Fig	3.58	7	6.3630281035	het niet breed hebben	36	1.95	3.24
+Lit	2.42	7	6.429719478	het niet breed hebben	36	1.95	3.24
+Fig	3.81	6	6.3099182782	iemand aan de tand voelen	36	4.45	2.83
+Fig	2.73	5	6.4457198194	iemand de wet voorschrijven	36	3.68	3.67
+Lit	2.75	5	6.1944053911	iemand de wet voorschrijven	36	3.68	3.67
+Fig	1.81	4	6.6592939197	iemand iets in de schoenen schuiven	36	4.05	3.09
+Fig	2.68	6	6.6720329455	iemand op de huid zitten	36	3.05	3.38
+Lit	2.6	6	6.1737861039	iemand op de huid zitten	36	3.05	3.38
+Lit	2.14	7	6.4134589572	iemand tegen de schenen schoppen	36	4.73	3.71
+Fig	2.7	7	6.5930445341	iemand tegen de schenen schoppen	36	4.73	3.71
+Lit	2.7	5	6.6066501862	iemand wakker schudden	36	4.77	3.43
+Fig	3.81	5	6.4134589572	iemand wakker schudden	36	4.77	3.43
+Lit	2.1	7	6.551080335	iemand/iets tot in de wolken verheffen	36	1.82	3.75
+Fig	2.68	7	6.3099182782	iemand/iets tot in de wolken verheffen	36	1.82	3.75
+Lit	1.93	6	6.5220927982	iets op poten zetten	36	4	3.38
+Fig	2.39	6	6.5220927982	iets op poten zetten	36	4	3.38
+Lit	2.55	3	6.3630281035	iets uit de losse pols doen	36	2.27	3.13
+Fig	2.53	3	6.3456363608	iets uit de losse pols doen	36	2.27	3.13
+Fig	2.81	7	6.2538288116	iets uit je duim zuigen	36	1.95	3.21
+Lit	2.4	7	6.3456363608	iets uit je duim zuigen	36	1.95	3.21
+Fig	2.26	5	6.1092475828	iets van tafel vegen	36	4.73	3.38
+Lit	2.15	5	6.579251212	iets van tafel vegen	36	4.73	3.38
+Fig	3.28	7	6.1737861039	met de rug tegen de muur staan	36	4.81818	3.24
+Lit	2.65	7	6.1944053911	met de rug tegen de muur staan	36	4.81818	3.24
+Lit	1.95	7	6.1092475828	op het puntje van de tong liggen	36	3.05	3.52
+Fig	3.51	7	6.1737861039	op het puntje van de tong liggen	36	3.05	3.52
+Lit	2.07	3	6.4457198194	op zijn achterste benen staan	36	2.86	2.62
+Fig	2.55	3	6.551080335	op zijn achterste benen staan	36	2.86	2.62
+Lit	3.05	7	6.0867747269	op zijn centen zitten	36	4.68	3.71
+Fig	2.23	7	6.4134589572	op zijn centen zitten	36	4.68	3.71
+Fig	3.36	7	6.2915691396	voor aap staan	36	2.045454545	3.22
+Lit	2.76	7	6.2146080984	voor aap staan	36	2.045454545	3.22
+Fig	3.02	7	6.4769723629	voor iemand door het vuur gaan	36	3.91	4.18
+Lit	1.9	7	6.6066501862	voor iemand door het vuur gaan	36	3.91	4.18
+Fig	2.49	2	6.4614681764	één lijn trekken	37	4.73	2.88
+Lit	2.43	2	6.9177056098	één lijn trekken	37	4.73	2.88
+Fig	2.25	6	6.6720329455	aan een zijden draadje hangen	37	3.73	3.14
+Lit	2.47	6	6.0867747269	aan een zijden draadje hangen	37	3.73	3.14
+Fig	3.45	6	6.2728770065	aan het roer staan	37	4.73	4.6
+Lit	3.7	6	6.2146080984	aan het roer staan	37	4.73	4.6
+Lit	2.96	7	6.6333184333	als paddenstoelen uit de grond schieten	37	2.27	3.29
+Fig	2.66	7	6.2728770065	als paddenstoelen uit de grond schieten	37	2.27	3.29
+Fig	2.28	7	6.3630281035	de koe bij de hoorns vatten	37	4.05	3.17
+Lit	3.04	7	6.2915691396	de koe bij de hoorns vatten	37	4.05	3.17
+Fig	2.93	6	6.3801225369	ergens mee in de maag zitten	37	2.86	2.95
+Fig	2.13	7	6.8458798753	ergens zijn neus voor optrekken	37	4.23	3.33
+Lit	2.22	7	6.1944053911	ergens zijn neus voor optrekken	37	4.23	3.33
+Fig	3.58	7	6.2728770065	het niet breed hebben	37	1.95	3.24
+Lit	2.42	7	6.2915691396	het niet breed hebben	37	1.95	3.24
+Fig	3.81	5	6.3630281035	iemand aan de tand voelen	37	4.45	2.83
+Fig	2.73	4	6.3801225369	iemand de wet voorschrijven	37	3.68	3.67
+Lit	2.75	4	6.3630281035	iemand de wet voorschrijven	37	3.68	3.67
+Fig	1.81	4	6.6463905148	iemand iets in de schoenen schuiven	37	4.05	3.09
+Fig	2.68	6	6.1737861039	iemand op de huid zitten	37	3.05	3.38
+Lit	2.6	6	6.3099182782	iemand op de huid zitten	37	3.05	3.38
+Lit	2.14	4	6.2344107257	iemand tegen de schenen schoppen	37	4.73	3.71
+Fig	2.7	4	6.3099182782	iemand tegen de schenen schoppen	37	4.73	3.71
+Lit	2.7	6	6.3456363608	iemand wakker schudden	37	4.77	3.43
+Fig	3.81	6	6.5930445341	iemand wakker schudden	37	4.77	3.43
+Lit	2.1	7	6.2538288116	iemand/iets tot in de wolken verheffen	37	1.82	3.75
+Fig	2.68	7	6.1737861039	iemand/iets tot in de wolken verheffen	37	1.82	3.75
+Lit	1.93	6	6.5366915976	iets op poten zetten	37	4	3.38
+Fig	2.39	6	6.3630281035	iets op poten zetten	37	4	3.38
+Lit	2.55	7	6.2344107257	iets uit de losse pols doen	37	2.27	3.13
+Fig	2.53	7	6.3456363608	iets uit de losse pols doen	37	2.27	3.13
+Fig	2.81	7	6.3099182782	iets uit je duim zuigen	37	1.95	3.21
+Lit	2.4	7	6.2728770065	iets uit je duim zuigen	37	1.95	3.21
+Fig	2.26	6	6.4614681764	iets van tafel vegen	37	4.73	3.38
+Lit	2.15	6	6.2728770065	iets van tafel vegen	37	4.73	3.38
+Fig	3.28	3	6.1527326947	met de rug tegen de muur staan	37	4.81818	3.24
+Lit	2.65	3	6.3630281035	met de rug tegen de muur staan	37	4.81818	3.24
+Lit	1.95	7	6.5366915976	op het puntje van de tong liggen	37	3.05	3.52
+Fig	3.51	7	5.9914645471	op het puntje van de tong liggen	37	3.05	3.52
+Lit	2.07	1	6.5072777124	op zijn achterste benen staan	37	2.86	2.62
+Fig	2.55	1	6.3801225369	op zijn achterste benen staan	37	2.86	2.62
+Lit	3.05	7	6.0637852087	op zijn centen zitten	37	4.68	3.71
+Fig	2.23	7	6.3279367837	op zijn centen zitten	37	4.68	3.71
+Fig	3.36	7	6.3801225369	voor aap staan	37	2.045454545	3.22
+Lit	2.76	7	6.6970342477	voor aap staan	37	2.045454545	3.22
+Fig	3.02	7	6.1312264895	voor iemand door het vuur gaan	37	3.91	4.18
+Lit	1.9	7	5.9135030056	voor iemand door het vuur gaan	37	3.91	4.18
+Fig	2.49	5	6.9847163201	één lijn trekken	38	4.73	2.88
+Lit	2.43	5	6.6592939197	één lijn trekken	38	4.73	2.88
+Fig	2.25	6	6.7214257008	aan een zijden draadje hangen	38	3.73	3.14
+Lit	2.47	6	6.6463905148	aan een zijden draadje hangen	38	3.73	3.14
+Fig	3.45	7	7.5806997522	aan het roer staan	38	4.73	4.6
+Lit	3.7	7	6.579251212	aan het roer staan	38	4.73	4.6
+Lit	2.96	7	6.6592939197	als paddenstoelen uit de grond schieten	38	2.27	3.29
+Fig	2.66	7	6.7569323892	als paddenstoelen uit de grond schieten	38	2.27	3.29
+Fig	2.28	6	6.5072777124	de koe bij de hoorns vatten	38	4.05	3.17
+Lit	3.04	6	6.7093043403	de koe bij de hoorns vatten	38	4.05	3.17
+Fig	2.93	6	6.551080335	ergens mee in de maag zitten	38	2.86	2.95
+Fig	2.13	6	6.7334018918	ergens zijn neus voor optrekken	38	4.23	3.33
+Lit	2.22	6	6.6463905148	ergens zijn neus voor optrekken	38	4.23	3.33
+Fig	3.58	7	6.6592939197	het niet breed hebben	38	1.95	3.24
+Lit	2.42	7	6.7093043403	het niet breed hebben	38	1.95	3.24
+Fig	3.81	6	6.56526497	iemand aan de tand voelen	38	4.45	2.83
+Fig	2.73	6	6.6970342477	iemand de wet voorschrijven	38	3.68	3.67
+Lit	2.75	6	6.7684932116	iemand de wet voorschrijven	38	3.68	3.67
+Fig	1.81	4	6.9469759921	iemand iets in de schoenen schuiven	38	4.05	3.09
+Fig	2.68	6	6.6066501862	iemand op de huid zitten	38	3.05	3.38
+Lit	2.6	6	6.492239835	iemand op de huid zitten	38	3.05	3.38
+Lit	2.14	5	6.9754139275	iemand tegen de schenen schoppen	38	4.73	3.71
+Fig	2.7	5	6.5220927982	iemand tegen de schenen schoppen	38	4.73	3.71
+Lit	2.7	5	6.6592939197	iemand wakker schudden	38	4.77	3.43
+Fig	3.81	5	6.579251212	iemand wakker schudden	38	4.77	3.43
+Lit	2.1	7	6.4769723629	iemand/iets tot in de wolken verheffen	38	1.82	3.75
+Fig	2.68	7	6.551080335	iemand/iets tot in de wolken verheffen	38	1.82	3.75
+Lit	1.93	7	6.5366915976	iets op poten zetten	38	4	3.38
+Fig	2.39	7	6.6200732065	iets op poten zetten	38	4	3.38
+Lit	2.55	6	6.4457198194	iets uit de losse pols doen	38	2.27	3.13
+Fig	2.53	6	6.5930445341	iets uit de losse pols doen	38	2.27	3.13
+Fig	2.81	7	6.5220927982	iets uit je duim zuigen	38	1.95	3.21
+Lit	2.4	7	6.6200732065	iets uit je duim zuigen	38	1.95	3.21
+Fig	2.26	4	6.6592939197	iets van tafel vegen	38	4.73	3.38
+Lit	2.15	4	6.5072777124	iets van tafel vegen	38	4.73	3.38
+Fig	3.28	7	7.0817085861	met de rug tegen de muur staan	38	4.81818	3.24
+Lit	2.65	7	6.4134589572	met de rug tegen de muur staan	38	4.81818	3.24
+Lit	1.95	7	6.56526497	op het puntje van de tong liggen	38	3.05	3.52
+Fig	3.51	7	6.6720329455	op het puntje van de tong liggen	38	3.05	3.52
+Lit	2.07	5	6.7912214627	op zijn achterste benen staan	38	2.86	2.62
+Fig	2.55	5	6.6846117277	op zijn achterste benen staan	38	2.86	2.62
+Lit	3.05	7	6.429719478	op zijn centen zitten	38	4.68	3.71
+Fig	2.23	7	6.5220927982	op zijn centen zitten	38	4.68	3.71
+Fig	3.36	7	6.579251212	voor aap staan	38	2.045454545	3.22
+Lit	2.76	7	6.7799219075	voor aap staan	38	2.045454545	3.22
+Fig	3.02	7	6.5930445341	voor iemand door het vuur gaan	38	3.91	4.18
+Lit	1.9	7	6.5930445341	voor iemand door het vuur gaan	38	3.91	4.18
+Fig	2.49	5	6.6970342477	één lijn trekken	40	4.73	2.88
+Lit	2.43	5	6.4457198194	één lijn trekken	40	4.73	2.88
+Fig	2.25	2	6.4769723629	aan een zijden draadje hangen	40	3.73	3.14
+Lit	2.47	2	6.6200732065	aan een zijden draadje hangen	40	3.73	3.14
+Fig	3.45	7	6.6200732065	aan het roer staan	40	4.73	4.6
+Lit	3.7	7	6.579251212	aan het roer staan	40	4.73	4.6
+Lit	2.96	1	6.6970342477	als paddenstoelen uit de grond schieten	40	2.27	3.29
+Fig	2.66	1	6.7799219075	als paddenstoelen uit de grond schieten	40	2.27	3.29
+Fig	2.28	1	6.1312264895	de koe bij de hoorns vatten	40	4.05	3.17
+Lit	3.04	1	6.4769723629	de koe bij de hoorns vatten	40	4.05	3.17
+Fig	2.93	6	6.3456363608	ergens mee in de maag zitten	40	2.86	2.95
+Fig	2.13	6	7.1546153569	ergens zijn neus voor optrekken	40	4.23	3.33
+Lit	2.22	6	6.9939329752	ergens zijn neus voor optrekken	40	4.23	3.33
+Fig	3.58	7	6.6066501862	het niet breed hebben	40	1.95	3.24
+Lit	2.42	7	7.3264656138	het niet breed hebben	40	1.95	3.24
+Fig	3.81	7	6.0867747269	iemand aan de tand voelen	40	4.45	2.83
+Fig	2.73	4	6.4134589572	iemand de wet voorschrijven	40	3.68	3.67
+Lit	2.75	4	6.8875525717	iemand de wet voorschrijven	40	3.68	3.67
+Fig	1.81	4	6.7214257008	iemand iets in de schoenen schuiven	40	4.05	3.09
+Fig	2.68	1	6.8669332845	iemand op de huid zitten	40	3.05	3.38
+Lit	2.6	1	6.8875525717	iemand op de huid zitten	40	3.05	3.38
+Lit	2.14	7	6.8564619846	iemand tegen de schenen schoppen	40	4.73	3.71
+Fig	2.7	7	6.6066501862	iemand tegen de schenen schoppen	40	4.73	3.71
+Lit	2.7	1	6.8134445995	iemand wakker schudden	40	4.77	3.43
+Fig	3.81	1	7.0299729117	iemand wakker schudden	40	4.77	3.43
+Lit	2.1	7	6.6970342477	iemand/iets tot in de wolken verheffen	40	1.82	3.75
+Fig	2.68	7	7.2004248929	iemand/iets tot in de wolken verheffen	40	1.82	3.75
+Lit	1.93	6	6.3801225369	iets op poten zetten	40	4	3.38
+Fig	2.39	6	6.4134589572	iets op poten zetten	40	4	3.38
+Lit	2.55	7	6.5072777124	iets uit de losse pols doen	40	2.27	3.13
+Fig	2.53	7	6.551080335	iets uit de losse pols doen	40	2.27	3.13
+Fig	2.81	7	6.7214257008	iets uit je duim zuigen	40	1.95	3.21
+Lit	2.4	7	6.6592939197	iets uit je duim zuigen	40	1.95	3.21
+Fig	2.26	4	6.8875525717	iets van tafel vegen	40	4.73	3.38
+Lit	2.15	4	6.429719478	iets van tafel vegen	40	4.73	3.38
+Fig	3.28	7	6.4134589572	met de rug tegen de muur staan	40	4.81818	3.24
+Lit	2.65	7	6.8875525717	met de rug tegen de muur staan	40	4.81818	3.24
+Lit	1.95	1	7.3460102099	op het puntje van de tong liggen	40	3.05	3.52
+Fig	3.51	1	6.3456363608	op het puntje van de tong liggen	40	3.05	3.52
+Lit	2.07	1	6.7569323892	op zijn achterste benen staan	40	2.86	2.62
+Fig	2.55	1	6.7334018918	op zijn achterste benen staan	40	2.86	2.62
+Lit	3.05	1	6.6066501862	op zijn centen zitten	40	4.68	3.71
+Fig	2.23	1	6.7093043403	op zijn centen zitten	40	4.68	3.71
+Fig	3.36	7	6.8351845861	voor aap staan	40	2.045454545	3.22
+Lit	2.76	7	6.5930445341	voor aap staan	40	2.045454545	3.22
+Fig	3.02	7	6.7799219075	voor iemand door het vuur gaan	40	3.91	4.18
+Lit	1.9	7	7.5120712458	voor iemand door het vuur gaan	40	3.91	4.18
+Fig	2.49	2	6.3630281035	één lijn trekken	41	4.73	2.88
+Lit	2.43	2	6.3969296552	één lijn trekken	41	4.73	2.88
+Fig	2.25	6	6.3801225369	aan een zijden draadje hangen	41	3.73	3.14
+Lit	2.47	6	6.429719478	aan een zijden draadje hangen	41	3.73	3.14
+Fig	3.45	6	6.5220927982	aan het roer staan	41	4.73	4.6
+Lit	3.7	6	6.2146080984	aan het roer staan	41	4.73	4.6
+Lit	2.96	6	6.5220927982	als paddenstoelen uit de grond schieten	41	2.27	3.29
+Fig	2.66	6	6.3630281035	als paddenstoelen uit de grond schieten	41	2.27	3.29
+Fig	2.28	7	6.2915691396	de koe bij de hoorns vatten	41	4.05	3.17
+Lit	3.04	7	6.0867747269	de koe bij de hoorns vatten	41	4.05	3.17
+Fig	2.93	6	6.1737861039	ergens mee in de maag zitten	41	2.86	2.95
+Fig	2.13	7	6.0867747269	ergens zijn neus voor optrekken	41	4.23	3.33
+Lit	2.22	7	6.1312264895	ergens zijn neus voor optrekken	41	4.23	3.33
+Fig	3.58	7	6.5220927982	het niet breed hebben	41	1.95	3.24
+Lit	2.42	7	6.6200732065	het niet breed hebben	41	1.95	3.24
+Fig	3.81	6	6.1737861039	iemand aan de tand voelen	41	4.45	2.83
+Fig	2.73	6	6.5072777124	iemand de wet voorschrijven	41	3.68	3.67
+Lit	2.75	6	6.3099182782	iemand de wet voorschrijven	41	3.68	3.67
+Fig	1.81	4	6.3801225369	iemand iets in de schoenen schuiven	41	4.05	3.09
+Fig	2.68	5	6.579251212	iemand op de huid zitten	41	3.05	3.38
+Lit	2.6	5	6.1737861039	iemand op de huid zitten	41	3.05	3.38
+Lit	2.14	5	6.2146080984	iemand tegen de schenen schoppen	41	4.73	3.71
+Fig	2.7	5	6.3630281035	iemand tegen de schenen schoppen	41	4.73	3.71
+Lit	2.7	6	6.1737861039	iemand wakker schudden	41	4.77	3.43
+Fig	3.81	6	6.3456363608	iemand wakker schudden	41	4.77	3.43
+Lit	2.1	7	6.2146080984	iemand/iets tot in de wolken verheffen	41	1.82	3.75
+Fig	2.68	7	6.2538288116	iemand/iets tot in de wolken verheffen	41	1.82	3.75
+Lit	1.93	7	6.1312264895	iets op poten zetten	41	4	3.38
+Fig	2.39	7	6.3630281035	iets op poten zetten	41	4	3.38
+Lit	2.55	7	6.3456363608	iets uit de losse pols doen	41	2.27	3.13
+Fig	2.53	7	6.3099182782	iets uit de losse pols doen	41	2.27	3.13
+Fig	2.81	7	6.3630281035	iets uit je duim zuigen	41	1.95	3.21
+Lit	2.4	7	6.1737861039	iets uit je duim zuigen	41	1.95	3.21
+Fig	2.26	6	6.429719478	iets van tafel vegen	41	4.73	3.38
+Lit	2.15	6	6.2728770065	iets van tafel vegen	41	4.73	3.38
+Fig	3.28	7	6.1944053911	met de rug tegen de muur staan	41	4.81818	3.24
+Lit	2.65	7	6.2915691396	met de rug tegen de muur staan	41	4.81818	3.24
+Lit	1.95	7	6.3279367837	op het puntje van de tong liggen	41	3.05	3.52
+Fig	3.51	7	6.2728770065	op het puntje van de tong liggen	41	3.05	3.52
+Lit	2.07	4	6.3630281035	op zijn achterste benen staan	41	2.86	2.62
+Fig	2.55	4	6.6720329455	op zijn achterste benen staan	41	2.86	2.62
+Lit	3.05	1	6.3456363608	op zijn centen zitten	41	4.68	3.71
+Fig	2.23	1	6.2344107257	op zijn centen zitten	41	4.68	3.71
+Fig	3.36	7	6.2915691396	voor aap staan	41	2.045454545	3.22
+Lit	2.76	7	6.3630281035	voor aap staan	41	2.045454545	3.22
+Fig	3.02	7	6.2728770065	voor iemand door het vuur gaan	41	3.91	4.18
+Lit	1.9	7	6.1092475828	voor iemand door het vuur gaan	41	3.91	4.18
+Fig	2.49	2	6.3279367837	één lijn trekken	42	4.73	2.88
+Lit	2.43	2	6.3630281035	één lijn trekken	42	4.73	2.88
+Fig	2.25	7	6.3969296552	aan een zijden draadje hangen	42	3.73	3.14
+Lit	2.47	7	6.1312264895	aan een zijden draadje hangen	42	3.73	3.14
+Fig	3.45	6	6.1737861039	aan het roer staan	42	4.73	4.6
+Lit	3.7	6	6.1092475828	aan het roer staan	42	4.73	4.6
+Lit	2.96	7	6.3630281035	als paddenstoelen uit de grond schieten	42	2.27	3.29
+Fig	2.66	7	6.1737861039	als paddenstoelen uit de grond schieten	42	2.27	3.29
+Fig	2.28	6	6.1737861039	de koe bij de hoorns vatten	42	4.05	3.17
+Lit	3.04	6	6.2146080984	de koe bij de hoorns vatten	42	4.05	3.17
+Fig	2.93	6	6.1944053911	ergens mee in de maag zitten	42	2.86	2.95
+Fig	2.13	7	6.1737861039	ergens zijn neus voor optrekken	42	4.23	3.33
+Lit	2.22	7	6.2344107257	ergens zijn neus voor optrekken	42	4.23	3.33
+Fig	3.58	7	6.2728770065	het niet breed hebben	42	1.95	3.24
+Lit	2.42	7	6.2728770065	het niet breed hebben	42	1.95	3.24
+Fig	3.81	6	6.3456363608	iemand aan de tand voelen	42	4.45	2.83
+Fig	2.73	6	6.2728770065	iemand de wet voorschrijven	42	3.68	3.67
+Lit	2.75	6	6.0161571597	iemand de wet voorschrijven	42	3.68	3.67
+Fig	1.81	6	6.0402547113	iemand iets in de schoenen schuiven	42	4.05	3.09
+Fig	2.68	6	6.4769723629	iemand op de huid zitten	42	3.05	3.38
+Lit	2.6	6	6.2538288116	iemand op de huid zitten	42	3.05	3.38
+Lit	2.14	7	6.1737861039	iemand tegen de schenen schoppen	42	4.73	3.71
+Fig	2.7	7	6.2728770065	iemand tegen de schenen schoppen	42	4.73	3.71
+Lit	2.7	6	6.2728770065	iemand wakker schudden	42	4.77	3.43
+Fig	3.81	6	6.0637852087	iemand wakker schudden	42	4.77	3.43
+Lit	2.1	6	6.1737861039	iemand/iets tot in de wolken verheffen	42	1.82	3.75
+Fig	2.68	6	6.2728770065	iemand/iets tot in de wolken verheffen	42	1.82	3.75
+Lit	1.93	7	6.3630281035	iets op poten zetten	42	4	3.38
+Fig	2.39	7	6.2728770065	iets op poten zetten	42	4	3.38
+Lit	2.55	5	6.3456363608	iets uit de losse pols doen	42	2.27	3.13
+Fig	2.53	5	6.1527326947	iets uit de losse pols doen	42	2.27	3.13
+Fig	2.81	7	6.3630281035	iets uit je duim zuigen	42	1.95	3.21
+Lit	2.4	7	5.8861040315	iets uit je duim zuigen	42	1.95	3.21
+Fig	2.26	3	6.3099182782	iets van tafel vegen	42	4.73	3.38
+Lit	2.15	3	6.2728770065	iets van tafel vegen	42	4.73	3.38
+Fig	3.28	7	6.1092475828	met de rug tegen de muur staan	42	4.81818	3.24
+Lit	2.65	7	6.2344107257	met de rug tegen de muur staan	42	4.81818	3.24
+Lit	1.95	7	6.1944053911	op het puntje van de tong liggen	42	3.05	3.52
+Fig	3.51	7	6.2915691396	op het puntje van de tong liggen	42	3.05	3.52
+Lit	2.07	1	6.1944053911	op zijn achterste benen staan	42	2.86	2.62
+Fig	2.55	1	6.2538288116	op zijn achterste benen staan	42	2.86	2.62
+Lit	3.05	7	6.0402547113	op zijn centen zitten	42	4.68	3.71
+Fig	2.23	7	6.4769723629	op zijn centen zitten	42	4.68	3.71
+Fig	3.36	7	6.0637852087	voor aap staan	42	2.045454545	3.22
+Lit	2.76	7	6.1312264895	voor aap staan	42	2.045454545	3.22
+Fig	3.02	7	6.2728770065	voor iemand door het vuur gaan	42	3.91	4.18
+Lit	1.9	7	6.4769723629	voor iemand door het vuur gaan	42	3.91	4.18
+Fig	2.49	2	6.6592939197	één lijn trekken	43	4.73	2.88
+Lit	2.43	2	6.7799219075	één lijn trekken	43	4.73	2.88
+Fig	2.25	6	6.7214257008	aan een zijden draadje hangen	43	3.73	3.14
+Lit	2.47	6	6.3630281035	aan een zijden draadje hangen	43	3.73	3.14
+Fig	3.45	7	6.429719478	aan het roer staan	43	4.73	4.6
+Lit	3.7	7	6.56526497	aan het roer staan	43	4.73	4.6
+Lit	2.96	5	7.3198649298	als paddenstoelen uit de grond schieten	43	2.27	3.29
+Fig	2.66	5	6.6592939197	als paddenstoelen uit de grond schieten	43	2.27	3.29
+Fig	2.28	6	6.6846117277	de koe bij de hoorns vatten	43	4.05	3.17
+Lit	3.04	6	6.3456363608	de koe bij de hoorns vatten	43	4.05	3.17
+Fig	2.93	6	6.5072777124	ergens mee in de maag zitten	43	2.86	2.95
+Fig	2.13	4	6.6066501862	ergens zijn neus voor optrekken	43	4.23	3.33
+Lit	2.22	4	6.5220927982	ergens zijn neus voor optrekken	43	4.23	3.33
+Fig	3.58	7	6.4457198194	het niet breed hebben	43	1.95	3.24
+Lit	2.42	7	6.4457198194	het niet breed hebben	43	1.95	3.24
+Fig	3.81	5	6.4134589572	iemand aan de tand voelen	43	4.45	2.83
+Fig	2.73	4	6.6970342477	iemand de wet voorschrijven	43	3.68	3.67
+Lit	2.75	4	6.3456363608	iemand de wet voorschrijven	43	3.68	3.67
+Fig	1.81	6	7.1308988303	iemand iets in de schoenen schuiven	43	4.05	3.09
+Fig	2.68	6	6.8875525717	iemand op de huid zitten	43	3.05	3.38
+Lit	2.6	6	6.3969296552	iemand op de huid zitten	43	3.05	3.38
+Lit	2.14	1	6.907755279	iemand tegen de schenen schoppen	43	4.73	3.71
+Fig	2.7	1	6.8772960715	iemand tegen de schenen schoppen	43	4.73	3.71
+Lit	2.7	6	6.5930445341	iemand wakker schudden	43	4.77	3.43
+Fig	3.81	6	6.4769723629	iemand wakker schudden	43	4.77	3.43
+Lit	2.1	6	6.9754139275	iemand/iets tot in de wolken verheffen	43	1.82	3.75
+Fig	2.68	6	6.4134589572	iemand/iets tot in de wolken verheffen	43	1.82	3.75
+Lit	1.93	7	6.3630281035	iets op poten zetten	43	4	3.38
+Fig	2.39	7	6.5220927982	iets op poten zetten	43	4	3.38
+Lit	2.55	4	6.579251212	iets uit de losse pols doen	43	2.27	3.13
+Fig	2.53	4	6.5220927982	iets uit de losse pols doen	43	2.27	3.13
+Fig	2.81	7	6.6200732065	iets uit je duim zuigen	43	1.95	3.21
+Lit	2.4	7	6.6066501862	iets uit je duim zuigen	43	1.95	3.21
+Fig	2.26	5	6.7214257008	iets van tafel vegen	43	4.73	3.38
+Lit	2.15	5	6.56526497	iets van tafel vegen	43	4.73	3.38
+Fig	3.28	1	6.4457198194	met de rug tegen de muur staan	43	4.81818	3.24
+Lit	2.65	1	6.6333184333	met de rug tegen de muur staan	43	4.81818	3.24
+Lit	1.95	7	7.4265490724	op het puntje van de tong liggen	43	3.05	3.52
+Fig	3.51	7	6.551080335	op het puntje van de tong liggen	43	3.05	3.52
+Lit	2.07	1	6.6333184333	op zijn achterste benen staan	43	2.86	2.62
+Fig	2.55	1	6.8023947633	op zijn achterste benen staan	43	2.86	2.62
+Lit	3.05	7	6.5366915976	op zijn centen zitten	43	4.68	3.71
+Fig	2.23	7	6.3630281035	op zijn centen zitten	43	4.68	3.71
+Fig	3.36	7	6.7799219075	voor aap staan	43	2.045454545	3.22
+Lit	2.76	7	6.492239835	voor aap staan	43	2.045454545	3.22
+Fig	3.02	7	6.2344107257	voor iemand door het vuur gaan	43	3.91	4.18
+Lit	1.9	7	6.907755279	voor iemand door het vuur gaan	43	3.91	4.18
+Fig	2.49	7	6.2728770065	één lijn trekken	44	4.73	2.88
+Lit	2.43	7	6.3279367837	één lijn trekken	44	4.73	2.88
+Fig	2.25	6	6.1527326947	aan een zijden draadje hangen	44	3.73	3.14
+Lit	2.47	6	6.1944053911	aan een zijden draadje hangen	44	3.73	3.14
+Fig	3.45	3	6.579251212	aan het roer staan	44	4.73	4.6
+Lit	3.7	3	5.8289456176	aan het roer staan	44	4.73	4.6
+Lit	2.96	5	6.2915691396	als paddenstoelen uit de grond schieten	44	2.27	3.29
+Fig	2.66	5	6.0867747269	als paddenstoelen uit de grond schieten	44	2.27	3.29
+Fig	2.28	6	6.0637852087	de koe bij de hoorns vatten	44	4.05	3.17
+Lit	3.04	6	6.1527326947	de koe bij de hoorns vatten	44	4.05	3.17
+Fig	2.93	6	5.9661467391	ergens mee in de maag zitten	44	2.86	2.95
+Fig	2.13	4	6.2344107257	ergens zijn neus voor optrekken	44	4.23	3.33
+Lit	2.22	4	5.9914645471	ergens zijn neus voor optrekken	44	4.23	3.33
+Fig	3.58	7	6.0161571597	het niet breed hebben	44	1.95	3.24
+Lit	2.42	7	6.2728770065	het niet breed hebben	44	1.95	3.24
+Fig	3.81	6	6.2146080984	iemand aan de tand voelen	44	4.45	2.83
+Fig	2.73	6	6.0402547113	iemand de wet voorschrijven	44	3.68	3.67
+Lit	2.75	6	6.0867747269	iemand de wet voorschrijven	44	3.68	3.67
+Fig	1.81	6	6.3630281035	iemand iets in de schoenen schuiven	44	4.05	3.09
+Fig	2.68	6	6.1092475828	iemand op de huid zitten	44	3.05	3.38
+Lit	2.6	6	6.1737861039	iemand op de huid zitten	44	3.05	3.38
+Lit	2.14	5	5.9914645471	iemand tegen de schenen schoppen	44	4.73	3.71
+Fig	2.7	5	6.3279367837	iemand tegen de schenen schoppen	44	4.73	3.71
+Lit	2.7	6	6.5220927982	iemand wakker schudden	44	4.77	3.43
+Fig	3.81	6	6.3279367837	iemand wakker schudden	44	4.77	3.43
+Lit	2.1	7	6.0161571597	iemand/iets tot in de wolken verheffen	44	1.82	3.75
+Fig	2.68	7	6.0637852087	iemand/iets tot in de wolken verheffen	44	1.82	3.75
+Lit	1.93	7	6.3801225369	iets op poten zetten	44	4	3.38
+Fig	2.39	7	5.9661467391	iets op poten zetten	44	4	3.38
+Lit	2.55	4	6.1737861039	iets uit de losse pols doen	44	2.27	3.13
+Fig	2.53	4	6.2344107257	iets uit de losse pols doen	44	2.27	3.13
+Fig	2.81	7	6.2146080984	iets uit je duim zuigen	44	1.95	3.21
+Lit	2.4	7	5.9914645471	iets uit je duim zuigen	44	1.95	3.21
+Fig	2.26	6	5.8579331545	iets van tafel vegen	44	4.73	3.38
+Lit	2.15	6	6.1527326947	iets van tafel vegen	44	4.73	3.38
+Fig	3.28	7	6.3456363608	met de rug tegen de muur staan	44	4.81818	3.24
+Lit	2.65	7	6.2728770065	met de rug tegen de muur staan	44	4.81818	3.24
+Lit	1.95	7	6.1737861039	op het puntje van de tong liggen	44	3.05	3.52
+Fig	3.51	7	5.9135030056	op het puntje van de tong liggen	44	3.05	3.52
+Lit	2.07	1	6.3630281035	op zijn achterste benen staan	44	2.86	2.62
+Fig	2.55	1	6.4457198194	op zijn achterste benen staan	44	2.86	2.62
+Lit	3.05	7	6.0637852087	op zijn centen zitten	44	4.68	3.71
+Fig	2.23	7	6.0637852087	op zijn centen zitten	44	4.68	3.71
+Fig	3.36	7	6.1092475828	voor aap staan	44	2.045454545	3.22
+Lit	2.76	7	6.1312264895	voor aap staan	44	2.045454545	3.22
+Fig	3.02	7	6.1092475828	voor iemand door het vuur gaan	44	3.91	4.18
+Lit	1.9	7	6.2728770065	voor iemand door het vuur gaan	44	3.91	4.18
+Fig	2.49	3	6.3630281035	één lijn trekken	45	4.73	2.88
+Lit	2.43	3	6.3456363608	één lijn trekken	45	4.73	2.88
+Fig	2.25	3	6.5220927982	aan een zijden draadje hangen	45	3.73	3.14
+Lit	2.47	3	6.0637852087	aan een zijden draadje hangen	45	3.73	3.14
+Fig	3.45	7	6.2146080984	aan het roer staan	45	4.73	4.6
+Lit	3.7	7	6.2344107257	aan het roer staan	45	4.73	4.6
+Lit	2.96	5	6.3279367837	als paddenstoelen uit de grond schieten	45	2.27	3.29
+Fig	2.66	5	6.1527326947	als paddenstoelen uit de grond schieten	45	2.27	3.29
+Fig	2.28	7	6.1737861039	de koe bij de hoorns vatten	45	4.05	3.17
+Lit	3.04	7	6.0161571597	de koe bij de hoorns vatten	45	4.05	3.17
+Fig	2.93	6	6.2538288116	ergens mee in de maag zitten	45	2.86	2.95
+Fig	2.13	7	6.4457198194	ergens zijn neus voor optrekken	45	4.23	3.33
+Lit	2.22	7	6.1944053911	ergens zijn neus voor optrekken	45	4.23	3.33
+Fig	3.58	7	6.2538288116	het niet breed hebben	45	1.95	3.24
+Lit	2.42	7	6.4614681764	het niet breed hebben	45	1.95	3.24
+Fig	3.81	7	6.1737861039	iemand aan de tand voelen	45	4.45	2.83
+Fig	2.73	6	6.2344107257	iemand de wet voorschrijven	45	3.68	3.67
+Lit	2.75	6	6.2344107257	iemand de wet voorschrijven	45	3.68	3.67
+Fig	1.81	4	6.3099182782	iemand iets in de schoenen schuiven	45	4.05	3.09
+Fig	2.68	1	6.82437367	iemand op de huid zitten	45	3.05	3.38
+Lit	2.6	1	6.0637852087	iemand op de huid zitten	45	3.05	3.38
+Lit	2.14	7	6.3630281035	iemand tegen de schenen schoppen	45	4.73	3.71
+Fig	2.7	7	6.2146080984	iemand tegen de schenen schoppen	45	4.73	3.71
+Lit	2.7	5	6.2728770065	iemand wakker schudden	45	4.77	3.43
+Fig	3.81	5	6.3630281035	iemand wakker schudden	45	4.77	3.43
+Lit	2.1	7	6.1312264895	iemand/iets tot in de wolken verheffen	45	1.82	3.75
+Fig	2.68	7	6.1737861039	iemand/iets tot in de wolken verheffen	45	1.82	3.75
+Lit	1.93	6	6.1312264895	iets op poten zetten	45	4	3.38
+Fig	2.39	6	6.2538288116	iets op poten zetten	45	4	3.38
+Lit	2.55	4	6.1312264895	iets uit de losse pols doen	45	2.27	3.13
+Fig	2.53	4	6.2146080984	iets uit de losse pols doen	45	2.27	3.13
+Fig	2.81	7	6.1527326947	iets uit je duim zuigen	45	1.95	3.21
+Lit	2.4	7	6.0637852087	iets uit je duim zuigen	45	1.95	3.21
+Fig	2.26	5	6.1737861039	iets van tafel vegen	45	4.73	3.38
+Lit	2.15	5	6.1527326947	iets van tafel vegen	45	4.73	3.38
+Fig	3.28	6	5.9914645471	met de rug tegen de muur staan	45	4.81818	3.24
+Lit	2.65	6	6.2538288116	met de rug tegen de muur staan	45	4.81818	3.24
+Lit	1.95	7	6.4134589572	op het puntje van de tong liggen	45	3.05	3.52
+Fig	3.51	7	6.2344107257	op het puntje van de tong liggen	45	3.05	3.52
+Lit	2.07	3	6.3969296552	op zijn achterste benen staan	45	2.86	2.62
+Fig	2.55	3	6.2538288116	op zijn achterste benen staan	45	2.86	2.62
+Lit	3.05	7	6.0161571597	op zijn centen zitten	45	4.68	3.71
+Fig	2.23	7	6.1737861039	op zijn centen zitten	45	4.68	3.71
+Fig	3.36	7	6.2728770065	voor aap staan	45	2.045454545	3.22
+Lit	2.76	7	6.1312264895	voor aap staan	45	2.045454545	3.22
+Fig	3.02	4	6.2915691396	voor iemand door het vuur gaan	45	3.91	4.18
+Lit	1.9	4	6.5220927982	voor iemand door het vuur gaan	45	3.91	4.18
+Fig	2.49	6	6.429719478	één lijn trekken	46	4.73	2.88
+Lit	2.43	6	6.2728770065	één lijn trekken	46	4.73	2.88
+Fig	2.25	7	6.3969296552	aan een zijden draadje hangen	46	3.73	3.14
+Lit	2.47	7	6.2538288116	aan een zijden draadje hangen	46	3.73	3.14
+Fig	3.45	7	6.4457198194	aan het roer staan	46	4.73	4.6
+Lit	3.7	7	6.4614681764	aan het roer staan	46	4.73	4.6
+Lit	2.96	7	6.7214257008	als paddenstoelen uit de grond schieten	46	2.27	3.29
+Fig	2.66	7	6.4134589572	als paddenstoelen uit de grond schieten	46	2.27	3.29
+Fig	2.28	6	6.5220927982	de koe bij de hoorns vatten	46	4.05	3.17
+Lit	3.04	6	6.3456363608	de koe bij de hoorns vatten	46	4.05	3.17
+Fig	2.93	6	6.1944053911	ergens mee in de maag zitten	46	2.86	2.95
+Fig	2.13	7	6.579251212	ergens zijn neus voor optrekken	46	4.23	3.33
+Lit	2.22	7	6.4769723629	ergens zijn neus voor optrekken	46	4.23	3.33
+Fig	3.58	7	6.3630281035	het niet breed hebben	46	1.95	3.24
+Lit	2.42	7	6.551080335	het niet breed hebben	46	1.95	3.24
+Fig	3.81	6	6.3801225369	iemand aan de tand voelen	46	4.45	2.83
+Fig	2.73	6	6.3630281035	iemand de wet voorschrijven	46	3.68	3.67
+Lit	2.75	6	6.2538288116	iemand de wet voorschrijven	46	3.68	3.67
+Fig	1.81	6	6.2915691396	iemand iets in de schoenen schuiven	46	4.05	3.09
+Fig	2.68	6	6.5072777124	iemand op de huid zitten	46	3.05	3.38
+Lit	2.6	6	6.3099182782	iemand op de huid zitten	46	3.05	3.38
+Lit	2.14	6	6.4457198194	iemand tegen de schenen schoppen	46	4.73	3.71
+Fig	2.7	6	6.2538288116	iemand tegen de schenen schoppen	46	4.73	3.71
+Lit	2.7	4	6.3969296552	iemand wakker schudden	46	4.77	3.43
+Fig	3.81	4	6.2344107257	iemand wakker schudden	46	4.77	3.43
+Lit	2.1	7	6.3630281035	iemand/iets tot in de wolken verheffen	46	1.82	3.75
+Fig	2.68	7	6.3099182782	iemand/iets tot in de wolken verheffen	46	1.82	3.75
+Lit	1.93	7	6.5930445341	iets op poten zetten	46	4	3.38
+Fig	2.39	7	6.1737861039	iets op poten zetten	46	4	3.38
+Lit	2.55	7	6.4457198194	iets uit de losse pols doen	46	2.27	3.13
+Fig	2.53	7	6.3279367837	iets uit de losse pols doen	46	2.27	3.13
+Fig	2.81	7	6.4769723629	iets uit je duim zuigen	46	1.95	3.21
+Lit	2.4	7	6.2728770065	iets uit je duim zuigen	46	1.95	3.21
+Fig	2.26	5	6.492239835	iets van tafel vegen	46	4.73	3.38
+Lit	2.15	5	6.3279367837	iets van tafel vegen	46	4.73	3.38
+Fig	3.28	5	6.3969296552	met de rug tegen de muur staan	46	4.81818	3.24
+Lit	2.65	5	6.4134589572	met de rug tegen de muur staan	46	4.81818	3.24
+Lit	1.95	5	6.5366915976	op het puntje van de tong liggen	46	3.05	3.52
+Fig	3.51	5	6.4457198194	op het puntje van de tong liggen	46	3.05	3.52
+Lit	2.07	6	6.4134589572	op zijn achterste benen staan	46	2.86	2.62
+Fig	2.55	6	6.3456363608	op zijn achterste benen staan	46	2.86	2.62
+Lit	3.05	7	6.3630281035	op zijn centen zitten	46	4.68	3.71
+Fig	2.23	7	6.4457198194	op zijn centen zitten	46	4.68	3.71
+Fig	3.36	7	6.2538288116	voor aap staan	46	2.045454545	3.22
+Lit	2.76	7	6.3279367837	voor aap staan	46	2.045454545	3.22
+Fig	3.02	7	6.3099182782	voor iemand door het vuur gaan	46	3.91	4.18
+Lit	1.9	7	6.551080335	voor iemand door het vuur gaan	46	3.91	4.18
+Fig	2.49	2	6.1944053911	één lijn trekken	47	4.73	2.88
+Lit	2.43	2	6.3279367837	één lijn trekken	47	4.73	2.88
+Fig	2.25	6	6.2146080984	aan een zijden draadje hangen	47	3.73	3.14
+Lit	2.47	6	6.4134589572	aan een zijden draadje hangen	47	3.73	3.14
+Fig	3.45	6	5.9914645471	aan het roer staan	47	4.73	4.6
+Lit	3.7	6	6.1527326947	aan het roer staan	47	4.73	4.6
+Lit	2.96	5	6.4457198194	als paddenstoelen uit de grond schieten	47	2.27	3.29
+Fig	2.66	5	6.2538288116	als paddenstoelen uit de grond schieten	47	2.27	3.29
+Fig	2.28	6	6.1737861039	de koe bij de hoorns vatten	47	4.05	3.17
+Lit	3.04	6	6.2915691396	de koe bij de hoorns vatten	47	4.05	3.17
+Fig	2.93	5	6.0637852087	ergens mee in de maag zitten	47	2.86	2.95
+Fig	2.13	4	6.2728770065	ergens zijn neus voor optrekken	47	4.23	3.33
+Lit	2.22	4	6.0867747269	ergens zijn neus voor optrekken	47	4.23	3.33
+Fig	3.58	7	6.0867747269	het niet breed hebben	47	1.95	3.24
+Lit	2.42	7	6.2728770065	het niet breed hebben	47	1.95	3.24
+Fig	3.81	5	6.0637852087	iemand aan de tand voelen	47	4.45	2.83
+Fig	2.73	6	6.0637852087	iemand de wet voorschrijven	47	3.68	3.67
+Lit	2.75	6	6.1944053911	iemand de wet voorschrijven	47	3.68	3.67
+Fig	1.81	6	6.0637852087	iemand iets in de schoenen schuiven	47	4.05	3.09
+Fig	2.68	5	6.1737861039	iemand op de huid zitten	47	3.05	3.38
+Lit	2.6	5	5.8579331545	iemand op de huid zitten	47	3.05	3.38
+Lit	2.14	1	6.1737861039	iemand tegen de schenen schoppen	47	4.73	3.71
+Fig	2.7	1	6.2915691396	iemand tegen de schenen schoppen	47	4.73	3.71
+Lit	2.7	5	6.6066501862	iemand wakker schudden	47	4.77	3.43
+Fig	3.81	5	6.1312264895	iemand wakker schudden	47	4.77	3.43
+Lit	2.1	7	6.0637852087	iemand/iets tot in de wolken verheffen	47	1.82	3.75
+Fig	2.68	7	6.0867747269	iemand/iets tot in de wolken verheffen	47	1.82	3.75
+Lit	1.93	1	6.5366915976	iets op poten zetten	47	4	3.38
+Fig	2.39	1	6.0637852087	iets op poten zetten	47	4	3.38
+Lit	2.55	6	6.0637852087	iets uit de losse pols doen	47	2.27	3.13
+Fig	2.53	6	6.0637852087	iets uit de losse pols doen	47	2.27	3.13
+Fig	2.81	7	6.4457198194	iets uit je duim zuigen	47	1.95	3.21
+Lit	2.4	7	6.0637852087	iets uit je duim zuigen	47	1.95	3.21
+Fig	2.26	4	6.1092475828	iets van tafel vegen	47	4.73	3.38
+Lit	2.15	4	6.1944053911	iets van tafel vegen	47	4.73	3.38
+Fig	3.28	7	6.2344107257	met de rug tegen de muur staan	47	4.81818	3.24
+Lit	2.65	7	6.1527326947	met de rug tegen de muur staan	47	4.81818	3.24
+Lit	1.95	6	6.2344107257	op het puntje van de tong liggen	47	3.05	3.52
+Fig	3.51	6	6.579251212	op het puntje van de tong liggen	47	3.05	3.52
+Lit	2.07	4	6.2728770065	op zijn achterste benen staan	47	2.86	2.62
+Fig	2.55	4	6.2915691396	op zijn achterste benen staan	47	2.86	2.62
+Lit	3.05	7	6.1092475828	op zijn centen zitten	47	4.68	3.71
+Fig	2.23	7	6.3630281035	op zijn centen zitten	47	4.68	3.71
+Fig	3.36	7	6.1092475828	voor aap staan	47	2.045454545	3.22
+Lit	2.76	7	6.3279367837	voor aap staan	47	2.045454545	3.22
+Fig	3.02	7	6.0402547113	voor iemand door het vuur gaan	47	3.91	4.18
+Lit	1.9	7	6.4134589572	voor iemand door het vuur gaan	47	3.91	4.18
