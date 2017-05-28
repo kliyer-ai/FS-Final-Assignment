@@ -79,10 +79,12 @@ sm7 = lm(Time ~ Shirt + Goggles + Flippers + Goggles:Flippers, data = swim); sum
 #Assumptions
 par(mfrow = c(2,2))
 plot(sm6)
-#there seems to be homogenity of variance between predictors and the error of residuals is normally distributed as well --> no violations
+vif(sm6)
+durbinWatsonTest(sm6)
+#there seems to be homogenity of variance between predictors and the error of residuals is normally distributed as well. There is no servere multicollinearity and not autocorrelation --> no violations
 
 
-#CHECK ASSUMPTIONS?
+
 #Reporting: our final model is Time ~ Shirt + Goggels + Flippers + Goggels:Flippers + Shirt:Flippers. The main effects were all significant (p<0.05) and the interaction between Goggles and Flippers was significant as well. However the interaction between Shirt and Flippers was not (p= 0.086). If we would drop this interaction, our model would have less variance explained so we decided to keep it in the model. Specifically, when someone wears no flippers but does wear goggles, that person has a faster time than wearing no goggles. But when someone wears flippers and also wears goggels, this person is actually slower than a person who does wear flippers but no goggels. We see that when someone wears a shirt but no flippers this person is slower than someone not wearing a shirt. When someone wears flippers and a shirt, this person is slower than someone just wearing flippers. The model itself is significant (F(65)=14.11, p<0.05) with a high explained variance (mult. R2=0.4891, adj. R2=0.4491). Checking of model assumptions revealed no problems.
 
 #Interactions: When we first saw the predictors we expected the interaction between Goggles and Flippers to give us the best results, but in the end someone wearing both actually made them slower. This seems weird. Since a shirt makes you slower and flippers make you faster, it wasn't a surprise when we saw that combining them made you slower than just wearing flippers.
@@ -182,8 +184,69 @@ plot(rm7)
 #12. MEDV     Median value of owner-occupied homes in $1000's
 
 crime = read.delim(file = "housing_data.csv", header = T)
-cm1 = lm(CRIM ~ B*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + LSTAT*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm1)
 
+cm1 = lm(CRIM ~ B*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + LSTAT*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm1)
+#Multiple R-squared:  0.6064,	Adjusted R-squared:  0.5816 
+drop1(cm1, test="F")
+
+#dropping interaction between chas:lstat
+cm2 = lm(CRIM ~ B*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + LSTAT*(INDUS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm2)
+#Multiple R-squared:  0.6064,	Adjusted R-squared:  0.5825 
+drop1(cm2, test = "F")
+
+#dropping the interaction between RM and LSTAT
+cm3 = lm(CRIM ~ B*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + LSTAT*(INDUS + NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm3)
+#Multiple R-squared:  0.6051,	Adjusted R-squared:  0.5819 
+drop1(cm3, test = "F")
+
+#dropping the interaction between B and CHAS
+cm4 = lm(CRIM ~ B*(INDUS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + LSTAT*(INDUS + NOX + AGE + DIS + RAD + PTRATIO + MEDV)+ CHAS + B:LSTAT, data = crime);summary(cm4)
+#Multiple R-squared:  0.6036,	Adjusted R-squared:  0.5812
+drop1(cm4, test = "F")
+
+#dropping CHAS
+cm4.5 = lm(CRIM ~ B*(INDUS + RM + AGE + DIS + RAD + PTRATIO + MEDV + NOX) + LSTAT*(INDUS + NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm5)
+#Multiple R-squared:  0.6024,	Adjusted R-squared:  0.5808 
+drop1(cm4.5, test = "F")
+
+#dropping the interaction between B and NOX
+cm5 = lm(CRIM ~ B*(INDUS + RM + AGE + DIS + RAD + PTRATIO + MEDV) + LSTAT*(INDUS + NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm5)
+#Multiple R-squared:  0.6023,	Adjusted R-squared:  0.5815
+drop1(cm5, test = "F")
+
+#dropping the interaction between B and PTRATIO
+cm6 = lm(CRIM ~ B*(INDUS + RM + AGE + DIS + RAD + MEDV) + LSTAT*(INDUS + NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm6)
+#Multiple R-squared:  0.6009,	Adjusted R-squared:  0.581 
+drop1(cm6, test = "F")
+
+#dropping the interaction between B and MEDV
+cm7 = lm(CRIM ~ B*(INDUS + RM + AGE + DIS + RAD) + LSTAT*(INDUS + NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm7)
+#Multiple R-squared:  0.5991,	Adjusted R-squared:   0.58
+#because AIC value went up, adj R2 went down
+drop1(cm7, test = "F")
+
+#dropping the interaction between INDUS and LSTAT
+cm8 = lm(CRIM ~ B*(INDUS + RM + AGE + DIS + RAD) + LSTAT*(NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm8)
+#Multiple R-squared:  0.5968,	Adjusted R-squared:  0.5784 
+drop1(cm8, test = "F")
+#now all predictors are significant
+
+#ASSUMPTIONS
+plot(cm8)
+#the residuals vs fitted graph is fanning out which indicates heteroscedasticity --> violation
+#the qq plot isnt a straight line so it indicated that our data is not normally distributed
+#some outliers but no highly influenctial point nor high leverage points
+vif(cm8)
+#all the predictors have very high values but they are all involved in an interaction. Especially the predictors that are involved in multiple interactions (B and LSTAT) have thus very high values. Howeverm it is not a violation
+durbinWatsonTest(cm8)
+# p value is significant --> auto correlation --> violation of assumption
+plot(Effect(c("B","LSTAT"), cm8))
+
+#REPORT
+#The final model is CRIM ~ B*(INDUS + RM + AGE + DIS + RAD) + LSTAT*(NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT. All interactions are significant (p<0.05) but some of the main effects (NOX, PTRATIO, MEDV) are not (p>0.05). The rest of the main effects are significant.  The model is significant (F(22, 483)=32.49, p<0.001) and it explains a high amount of variance (Multiple R-squared:  0.5968,	Adjusted R-squared:  0.5784). There were severe violations of assumptions. We were especially interested in the interaction between B and LSTAT. We see that when B goes up (a higher amount of ethnic diversity) the crime rate actually goes down. However, when LSTAT goes up (more people have a lower economic status) the crime rate goes up. We see that in the interaction B:LSTAT these effects cancel eachother out and give a minor positive effect on crime rate. Minor negative effects: LSTAT:MEDV, LSTAT:PTRATIO, LSTAT:DIS, LSTAT:AGE, B:RAD, B:AGE. minor positive effects: B:LSTAT, RAD:LSTAT, B:DIS, B:RM, B:INDUS. LSTAT:NOX is a negative effect of 1.7 which seems more important.
+
+#SPECULATIONS
+plot(Effect(c("LSTAT","NOX"),cm8))
 
 
 ###############################
@@ -289,11 +352,13 @@ plot(allEffects(im12))
 
 #ASSUMPTIONS
 plot(im12)
-plot(residuals(im2))
+plot(residuals(im12))
 #no violation of assumptions
 
+
+
 #REPORT
-#our final model is log_RTs ~ Condition + Freqs + Knowledge + Condition:Knowledge + (1|Subject) + (1|Idiom). Freqs and Knowledge are significant (p<0.05), Condition isn't (p>0.05). Also the interaction between Condition and Knowledge is not significant but if we would drop this, there would be less variance explained so we decided to keep it in the model. 
+#our final model is log_RTs ~ Condition + Freqs + Knowledge + Condition:Knowledge + (1|Subject) + (1|Idiom). Freqs and Knowledge are significant (p<0.05), Condition isn't (p>0.05). Also the interaction between Condition and Knowledge is not significant but if we would drop this, there would be less variance explained so we decided to keep it in the model. R2 = 0.02397234
 
 #SPECULATIONS
 #we would not expect to drop LP since the meaning of the idiom seems to influence the reaction time to decide whether it is Lit or Fig if you think about it. The Condition is of course important since that is what the experiment is about, the frequency also seems important because of learning the meaning of the idiom, if you know the idiom (knowledge) it is expected that you recognise its condition faster so this makes sense. The interaction between Condition=Lit and Knowledge seems reasonable, when you know the idiom and you see the idiom with a literal meaning you are probably faster.
@@ -310,5 +375,49 @@ plot(residuals(im2))
 #Analyze the data to try to determine which of the variables discussed (and their interactions) predict participants' favorability ratings of the people in the stories. In addition, we are also interested in age and gender, although you don't need to include these as interactions with other variables.
 
 #Note: the data in columns "situation" and "person" were used to determine whether the participant was paying attention. If they were, there should be a value of "burglary" or "PSA" in the "situation" column, and "WJ" in the person column. All other data is not valid and should be excluded.
-att = read.delim(file = "clause_order_data.csv", header = T)
+att = read.delim(file = "clause_order_data_CORRECTED.csv", header = T)
+att = subset(att, (situation == "burglary" | situation == "PSA") & person=="WJ")
+#check factors
+levels(att$Exp)
+levels(att$bias)
+levels(att$storyType)
+
+am1 = lm(normV ~ (Exp + storyType + bias)^3  + age + sex,data=att); summary(am1)
+#Multiple R-squared:  0.4881,	Adjusted R-squared:  0.4721 
+drop1(am1, test = "F")
+
+#drop three way intercations
+am2 = lm(normV ~ (Exp + storyType + bias)^2  + age + sex,data=att); summary(am2)
+#Multiple R-squared:  0.4881,	Adjusted R-squared:  0.4739 
+drop1(am2, test = "F")
+
+#drop interaction between expectation and bias
+am3 = lm(normV ~ Exp:storyType + bias:storyType + bias + storyType + Exp + age + sex,data=att); summary(am3)
+#Multiple R-squared:  0.4881,	Adjusted R-squared:  0.4757
+drop1(am3, test = "F")
+
+#dropping storyType:bias
+am4 = lm(normV ~ Exp:storyType + bias + storyType + Exp + age + sex,data=att); summary(am4)
+#Multiple R-squared:  0.4871,	Adjusted R-squared:  0.4765
+drop1(am4, test = "F")
+#FINAL MODEL
+
+plot(allEffects(am4))
+
+#ASSUMPTIONS
+plot(am4)
+#no homoscedasticity
+#no servere violaton of normality of residual error.
+# there are outliers but no highly influentual points
+vif(am4)
+# no multicollinearity
+durbinWatsonTest(am4)
+#no autocorrelation
+
+#REPORT
+#The final model is normV ~ Exp:storyType + bias + storyType + Exp + age + sex. all the main effects are significant (p<0.05) except for age (p=0.052), but dropping this predictor would cause our variance explained to go down so we keep it in the model. Futhermore, the interaction was also significant. The overall model is also significant (F(6, 290)=45.91, p<.001). No severe violations of assumptions and our model explains a high amount of variance(Multiple R-squared:  0.4871,	Adjusted R-squared:  0.4765). If we look at age, we can see that the older one gets, the less favourable they feel about the people. Also, we can see that Females are more likely to be favourable of the person than Males. For the bias effect, we see that if the bias is positive, someone is more likely to be more favourable of the people. If we look at the interaction, we see that when the storytype is accordant, Exp is negative, people are less favourable of the people than when the storytype is mixed. When the Exp is positive, people are more favourable of the people with a accordant storytype than with a mixed storytype.
+
+#SPECULATIONS
+#So when we look at the interaction, our expectations matters way more in the accordant storyType than when it is mixed. 
+
 
