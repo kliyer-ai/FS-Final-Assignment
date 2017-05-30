@@ -23,6 +23,9 @@
 library(ggplot2)
 library(effects)
 library(car)
+library(lme4)
+library(lmerTest)
+library(MuMIn)
 
 ###################
 #####Swimming Data
@@ -35,7 +38,7 @@ swim = read.delim(file = "swimming.csv", header = T)
 
 swim_model1 = lm(Time ~ (Shirt + Goggles + Flippers + End)^2, data=swim); summary(swim_model1)
 #Multiple R-squared:  0.5044,	Adjusted R-squared:  0.4205 
-#overall model significant but alot of insignificant predictors
+#overall model significant but some insignificant predictors
 plot(allEffects(swim_model1))
 #goggles and flippers seems interesting
 
@@ -46,27 +49,27 @@ drop1(swim_model1, test = "F")
 sm2 = lm(Time ~ Shirt + Goggles + Flippers + End + Goggles:Flippers + Shirt:Goggles + Shirt:Flippers + Goggles:End + Flippers:End, data = swim); summary(sm2)
 #Multiple R-squared:  0.5013,	Adjusted R-squared:  0.4265 
 drop1(sm2, test = "F")
-# drop interactions between shirt and goggles
+# drop interactions between shirt and goggles because insignificant and AIC value drops the most
 
 sm3 = lm(Time ~ Shirt + Goggles + Flippers + End + Goggles:Flippers + Shirt:Flippers + Goggles:End + Flippers:End, data = swim); summary(sm3)
 #Multiple R-squared:  0.4993,	Adjusted R-squared:  0.4337 
 drop1(sm3, test = "F")
-#drop interaction goggles and end
+#drop interaction goggles and end because insignificant and AIC value drops the most
 
 sm4 = lm(Time ~ Shirt + Goggles + Flippers + End + Goggles:Flippers + Shirt:Flippers + Flippers:End, data = swim); summary(sm4)
 #Multiple R-squared:  0.4955,	Adjusted R-squared:  0.4385 
 drop1(sm4, test = "F")
-#drop interaction flippers and end
+#drop interaction flippers and end because insignificant and AIC value drops the most
 
 sm5=lm(Time ~ Shirt + Goggles + Flippers + End + Goggles:Flippers + Shirt:Flippers, data = swim);summary(sm5)
 #Multiple R-squared:  0.4912,	Adjusted R-squared:  0.4428 
 drop1(sm5, test = "F")
-#drop end
+#drop end because insignificant and AIC value drops the most
 
 sm6 = lm(Time ~ Shirt + Goggles + Flippers + Goggles:Flippers + Shirt:Flippers, data = swim);summary(sm6)
 #Multiple R-squared:  0.4891,	Adjusted R-squared:  0.4491 
 drop1(sm6, test = "F")
-# the interaction between shirt and flippers is not significant, p= 0.086 > 0.05. However, dropping the interaction would actually increase the AIC value and lead to a lower amount of variance explained.
+# the interaction between shirt and flippers is insignificant, p= 0.086 > 0.05. However, dropping the interaction would actually increase the AIC value and lead to a lower amount of variance explained.
 plot(allEffects(sm6))
 #interaction between shirt and flippers changes the slope quite a bit and the y intercept is lower.
 
@@ -76,18 +79,20 @@ sm7 = lm(Time ~ Shirt + Goggles + Flippers + Goggles:Flippers, data = swim); sum
 #Multiple R-squared:  0.4648,	Adjusted R-squared:  0.4319 
 # both values of R^2 are lower so it might be useful to inlcude the interactions.
 
+#Final model is sm6
+
 #Assumptions
 par(mfrow = c(2,2))
 plot(sm6)
 vif(sm6)
 durbinWatsonTest(sm6)
-#there seems to be homogenity of variance between predictors and the error of residuals is normally distributed as well. There is no servere multicollinearity and not autocorrelation --> no violations
+#there seems to be homogenity of variance between predictors and the error of residuals is normally distributed as well. There is no servere multicollinearity and not autocorrelation --> no violations of assumptions
 
+#REPORTING
+#Our final model is Time ~ Shirt + Goggels + Flippers + Goggels:Flippers + Shirt:Flippers. The main effects were all significant (p<0.05) and the interaction between Goggles and Flippers was significant as well. However the interaction between Shirt and Flippers was not (p= 0.086). If we would drop this interaction, our model would have less variance explained so we decided to keep it in the model. Specifically, when someone wears no flippers but does wear goggles, that person has a faster time than wearing no goggles. But when someone wears flippers and also wears goggels, this person is actually slower than a person who does wear flippers but no goggels. We see that when someone wears a shirt but no flippers this person is slower than someone not wearing a shirt. When someone wears flippers and a shirt, this person is slower than someone just wearing flippers. The model itself is significant (F(65)=14.11, p<0.001) with a high explained variance (mult. R2=0.4891, adj. R2=0.4491). Checking of model assumptions revealed no problems.
 
-
-#Reporting: our final model is Time ~ Shirt + Goggels + Flippers + Goggels:Flippers + Shirt:Flippers. The main effects were all significant (p<0.05) and the interaction between Goggles and Flippers was significant as well. However the interaction between Shirt and Flippers was not (p= 0.086). If we would drop this interaction, our model would have less variance explained so we decided to keep it in the model. Specifically, when someone wears no flippers but does wear goggles, that person has a faster time than wearing no goggles. But when someone wears flippers and also wears goggels, this person is actually slower than a person who does wear flippers but no goggels. We see that when someone wears a shirt but no flippers this person is slower than someone not wearing a shirt. When someone wears flippers and a shirt, this person is slower than someone just wearing flippers. The model itself is significant (F(65)=14.11, p<0.05) with a high explained variance (mult. R2=0.4891, adj. R2=0.4491). Checking of model assumptions revealed no problems.
-
-#Interactions: When we first saw the predictors we expected the interaction between Goggles and Flippers to give us the best results, but in the end someone wearing both actually made them slower. This seems weird. Since a shirt makes you slower and flippers make you faster, it wasn't a surprise when we saw that combining them made you slower than just wearing flippers.
+#SPECULATIONS
+#When we first saw the predictors we expected the interaction between Goggles and Flippers to give us the best results, but in the end someone wearing both actually made them slower. This seems weird. Since a shirt makes you slower and flippers make you faster, it wasn't a surprise when we saw that combining them made you slower than just wearing flippers.
 
 ##########################
 ##########Reaction Times
@@ -96,6 +101,7 @@ durbinWatsonTest(sm6)
 #datafile: reaction_times.csv
 
 #In this study, participants had to make a decision on whether a sequence of letters presented to them on a computer screen was a word or not. How long it took for them to make this decision was recorded (their reaction time). This is called a lexical decision task. In this kind of task, many different factors can influence reaction times, including how frequent the word is, how familiar the work is, and how "imageable" it is--that is, how easy it is to imagine a picture of the word's meaning. Investigate whether, for this data set, this is true. Consider up to the 3-way interaction. Note that reaction times are averages from across participants, so although this was originally a within-subject experiment, participant-level variance is not shared across data points.
+
 reaction = read.delim(file = "reaction_times.csv", header = T, row.names = 1)
 reaction$FAMILIARITY = relevel(reaction$FAMILIARITY, "lo"); levels(reaction$FAMILIARITY)
 reaction$IMAGEABILITY = relevel(reaction$IMAGEABILITY, "lo")
@@ -104,19 +110,17 @@ reaction$IMAGEABILITY = relevel(reaction$IMAGEABILITY, "lo")
 reaction = subset(reaction, FREQUENCY != 0)
 
 rm1=lm(RT~ (FREQUENCY + IMAGEABILITY + FAMILIARITY)^3, data=reaction); summary(rm1)
+#Model is not significant
 #Multiple R-squared:  0.2433,	Adjusted R-squared:  0.0875 
 plot(allEffects(rm1))
 #3 way interaction does not seems significant
-
-#model is not significant
 drop1(rm1, test='F')
 
-#we drop the interaction betrween frequency, imageability and familiarity
+#we drop the interaction betrween frequency, imageability and familiarity because it is insignificant and AIC value drops
 rm2=lm(RT~ (FREQUENCY + IMAGEABILITY + FAMILIARITY)^2, data=reaction); summary(rm2)
 #Multiple R-squared:  0.2418,	Adjusted R-squared:  0.1119 
 plot(allEffects(rm2))
 #none of the interaction seems significant. there are large confidence intervalls
-
 #model not significant
 drop1(rm2, test='F')
 
@@ -159,7 +163,10 @@ plot(rm7)
 #no violations of assumptions here
 
 #REPORT
-#The final Model is RT ~ FREQUENCY. The main effects were significant: p< 0.01. There was apostive relationship between frequency and reactiontime. The model was highly significant(F(1, 40)=8.307, p = 0.0063) and achieved a low level of variance explained (Multiple R-squared:  0.172,	Adjusted R-squared:  0.1513).
+#The final Model is RT ~ FREQUENCY. The main effects were significant: p< 0.01. There is a negative relationship between frequency and reactiontime. This means that when the frequency gets bigger, the reaction time becomes smaller. The model was highly significant (F(1, 40)=8.307, p = 0.0063) and achieved a low level of variance explained (Multiple R-squared:  0.172,	Adjusted R-squared:  0.1513). There seems to be no problems with checking the model assumptions.
+
+#SPECULATIONS
+#We see that when the frequency of a word gets smaller, the reaction time gets less. This makes perfect sense, when you see a word more often you will recognize it quickly which reduces the reaction time.
 
 #########################
 #########Housing Data
@@ -187,6 +194,7 @@ crime = read.delim(file = "housing_data.csv", header = T)
 
 cm1 = lm(CRIM ~ B*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + LSTAT*(INDUS + CHAS + NOX + RM + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT, data = crime);summary(cm1)
 #Multiple R-squared:  0.6064,	Adjusted R-squared:  0.5816 
+#Model is significant
 drop1(cm1, test="F")
 
 #dropping interaction between chas:lstat
@@ -246,8 +254,8 @@ plot(Effect(c("B","LSTAT"), cm8))
 #The final model is CRIM ~ B*(INDUS + RM + AGE + DIS + RAD) + LSTAT*(NOX + AGE + DIS + RAD + PTRATIO + MEDV) + B:LSTAT. All interactions are significant (p<0.05) but some of the main effects (NOX, PTRATIO, MEDV) are not (p>0.05). The rest of the main effects are significant.  The model is significant (F(22, 483)=32.49, p<0.001) and it explains a high amount of variance (Multiple R-squared:  0.5968,	Adjusted R-squared:  0.5784). There were severe violations of assumptions. We were especially interested in the interaction between B and LSTAT. We see that when B goes up (a higher amount of ethnic diversity) the crime rate actually goes down. However, when LSTAT goes up (more people have a lower economic status) the crime rate goes up. We see that in the interaction B:LSTAT these effects cancel eachother out and give a minor positive effect on crime rate. Minor negative effects: LSTAT:MEDV, LSTAT:PTRATIO, LSTAT:DIS, LSTAT:AGE, B:RAD, B:AGE. minor positive effects: B:LSTAT, RAD:LSTAT, B:DIS, B:RM, B:INDUS. LSTAT:NOX is a negative effect of 1.7 which seems more important.
 
 #SPECULATIONS
-plot(Effect(c("LSTAT","NOX"),cm8))
-
+#As mentioned in the exercise, we're particularly interested in the interaction between B and LSTAT. In short: when there is a high amount of ethnic diversity and more people have a low economic status, the crime rate slightly rises. This is because when there is a high amount of ethnic diversity, the crime rate goes down but when people have a low economic status the crime rate goes up (which makes sense because people still need money so they try to earn money illegaly). So what we see is that these effects almost cancel eacher out. What would be the best for a lower crime rate is a area with a high amount of ethnic diversity and people having a high economic status. Another interaction that stands out is the interaction between LSTAT and NOX, from all the interactions this is actually the strongest one. Together they have a negative effect on the crime rate, so if the nitric oxides concentration rises and the economic status lowers, this influences the crime rate in a negative way and it becomes less. 
+plot(Effect(c("NOX","LSTAT"), cm8))
 
 ###############################
 #########Idiom Experiment
@@ -271,11 +279,8 @@ plot(Effect(c("LSTAT","NOX"),cm8))
 
 idiom = read.delim(file = "idiom_lexical_decision.csv", header = T)
 apply(idiom, 2, function(x) any(is.na(x)))
-#so no missintg data
+#so no missing data
 
-library(lme4)
-library(lmerTest)
-library(MuMIn)
 
 im1 = lmer(log_RTs ~ (Condition + Freqs + Knowledge + LP + Transparency)^2 + (1|Subject) + (1|Idiom), data = idiom); summary(im1)
 r.squaredGLMM(im1)
@@ -344,11 +349,11 @@ drop1(im11, test = 'Chisq')
 
 #drop lp
 im12=lmer(log_RTs ~ Condition + Freqs + Knowledge + Condition:Knowledge + (1|Subject) + (1|Idiom), data = idiom); summary(im12)
-r.squaredGLMM(im12)
-#0.02397234
 drop1(im12, test = 'Chisq')
 #FINAL MODEL
 plot(allEffects(im12))
+r.squaredGLMM(im12)
+#marginal R^2: 0.02397234
 
 #ASSUMPTIONS
 plot(im12)
@@ -356,12 +361,12 @@ plot(residuals(im12))
 #no violation of assumptions
 
 
-
 #REPORT
-#our final model is log_RTs ~ Condition + Freqs + Knowledge + Condition:Knowledge + (1|Subject) + (1|Idiom). Freqs and Knowledge are significant (p<0.05), Condition isn't (p>0.05). Also the interaction between Condition and Knowledge is not significant but if we would drop this, there would be less variance explained so we decided to keep it in the model. R2 = 0.02397234
+#our final model is log_RTs ~ Condition + Freqs + Knowledge + Condition:Knowledge + (1|Subject) + (1|Idiom). Freqs and Knowledge are significant (p<0.05), Condition isn't (p>0.05). Also the interaction between Condition and Knowledge is not significant but if we would drop this, there would be less variance explained so we decided to keep it in the model. We see that when the Condition is Figurative (in the interaction between Condition and Knowledge) the slope of the plot is way steeper than when the Condition is Literal.  R2 = 0.02397234
 
 #SPECULATIONS
 #we would not expect to drop LP since the meaning of the idiom seems to influence the reaction time to decide whether it is Lit or Fig if you think about it. The Condition is of course important since that is what the experiment is about, the frequency also seems important because of learning the meaning of the idiom, if you know the idiom (knowledge) it is expected that you recognise its condition faster so this makes sense. The interaction between Condition=Lit and Knowledge seems reasonable, when you know the idiom and you see the idiom with a literal meaning you are probably faster.
+
 
 
 #########################
