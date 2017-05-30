@@ -1,6 +1,6 @@
 ###FINAL ASSIGNMENT
 
-
+#test
 #Some general tips:
 
 #remember you need plots of your effects. If you have many predictors, there can be too many graphs for use of the allEffects() function. In this case, it is better to plot the effects individually. 
