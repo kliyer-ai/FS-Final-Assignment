@@ -1,6 +1,5 @@
 ###FINAL ASSIGNMENT
 
-#test
 #Some general tips:
 
 #remember you need plots of your effects. If you have many predictors, there can be too many graphs for use of the allEffects() function. In this case, it is better to plot the effects individually. 
@@ -40,7 +39,7 @@ swim_model1 = lm(Time ~ (Shirt + Goggles + Flippers + End)^2, data=swim); summar
 #Multiple R-squared:  0.5044,	Adjusted R-squared:  0.4205 
 #overall model significant but some insignificant predictors
 plot(allEffects(swim_model1))
-#goggles and flippers seems interesting
+#goggles and flippers seems interesting, because there is a negative correlation for flippers = no but a positive one for flippers = yes
 
 #start dropping
 drop1(swim_model1, test = "F")
@@ -79,7 +78,7 @@ sm7 = lm(Time ~ Shirt + Goggles + Flippers + Goggles:Flippers, data = swim); sum
 #Multiple R-squared:  0.4648,	Adjusted R-squared:  0.4319 
 # both values of R^2 are lower so it might be useful to inlcude the interactions.
 
-#Final model is sm6
+#We chose sm6 as our final model. The interaction between Shirt:Flippers is slightly insignificant but leads to an higher amount of variance explained. Furthermore,looking at the graphs, the interaction seems interesting.
 
 #Assumptions
 par(mfrow = c(2,2))
@@ -89,10 +88,13 @@ durbinWatsonTest(sm6)
 #there seems to be homogenity of variance between predictors and the error of residuals is normally distributed as well. There is no servere multicollinearity and not autocorrelation --> no violations of assumptions
 
 #REPORTING
-#Our final model is Time ~ Shirt + Goggels + Flippers + Goggels:Flippers + Shirt:Flippers. The main effects were all significant (p<0.05) and the interaction between Goggles and Flippers was significant as well. However the interaction between Shirt and Flippers was not (p= 0.086). If we would drop this interaction, our model would have less variance explained so we decided to keep it in the model. Specifically, when someone wears no flippers but does wear goggles, that person has a faster time than wearing no goggles. But when someone wears flippers and also wears goggels, this person is actually slower than a person who does wear flippers but no goggels. We see that when someone wears a shirt but no flippers this person is slower than someone not wearing a shirt. When someone wears flippers and a shirt, this person is slower than someone just wearing flippers. The model itself is significant (F(65)=14.11, p<0.001) with a high explained variance (mult. R2=0.4891, adj. R2=0.4491). Checking of model assumptions revealed no problems.
+#Our final model is Time ~ Shirt + Goggels + Flippers + Goggels:Flippers + Shirt:Flippers. The main effects were all significant (p<0.05) and the interaction between Goggles and Flippers was significant as well. However the interaction between Shirt and Flippers was not (p= 0.086). If we would drop this interaction, our model would have less variance explained so we decided to keep it in the model. Specifically, when someone wears no flippers but does wear goggles, that person has a faster time than wearing no goggles. But when someone wears flippers and also wears goggels, this person is actually slower than a person who does wear flippers but no goggels. We see that when someone wears a shirt but no flippers this person is slower than someone not wearing a shirt. When someone wears flippers and a shirt, this person is slower than someone just wearing flippers. The model itself is highly significant (F(65)=14.11, p<0.001) with a high explained variance (mult. R2=0.4891, adj. R2=0.4491). Checking of model assumptions revealed no problems.
 
 #SPECULATIONS
 #When we first saw the predictors we expected the interaction between Goggles and Flippers to give us the best results, but in the end someone wearing both actually made them slower. This seems weird. Since a shirt makes you slower and flippers make you faster, it wasn't a surprise when we saw that combining them made you slower than just wearing flippers.
+
+
+
 
 ##########################
 ##########Reaction Times
@@ -108,47 +110,51 @@ reaction$IMAGEABILITY = relevel(reaction$IMAGEABILITY, "lo")
 
 #remove rows with missing data
 reaction = subset(reaction, FREQUENCY != 0)
+#Every remaing row refers to an actual word. This is weird considering the description of the task because we would expect non words to be in the data.
 
 rm1=lm(RT~ (FREQUENCY + IMAGEABILITY + FAMILIARITY)^3, data=reaction); summary(rm1)
-#Model is not significant
+#Model is not significant --> p-value: 0.1805
 #Multiple R-squared:  0.2433,	Adjusted R-squared:  0.0875 
 plot(allEffects(rm1))
-#3 way interaction does not seems significant
+#3 way interaction does not seems significant, since the slope of the line barely changes. Furthermore, the confidence intervals are large.
 drop1(rm1, test='F')
 
 #we drop the interaction betrween frequency, imageability and familiarity because it is insignificant and AIC value drops
 rm2=lm(RT~ (FREQUENCY + IMAGEABILITY + FAMILIARITY)^2, data=reaction); summary(rm2)
 #Multiple R-squared:  0.2418,	Adjusted R-squared:  0.1119 
+#model not significant --> p-value: 0.1156
 plot(allEffects(rm2))
 #none of the interaction seems significant. there are large confidence intervalls
-#model not significant
 drop1(rm2, test='F')
 
 #dropping the interaction between frequency and imageability
 rm3=lm(RT~ FREQUENCY + IMAGEABILITY + FAMILIARITY + FREQUENCY:FAMILIARITY + IMAGEABILITY:FAMILIARITY, data=reaction); summary(rm3)
 #Multiple R-squared:  0.2416,	Adjusted R-squared:  0.1363 
-#model still not significant
+#model still not significant --> p-value: 0.1156
 drop1(rm3, test = 'F')
 
 #we are dropping the interaction between imageability and familiarity
 rm4=lm(RT~ FREQUENCY + IMAGEABILITY + FAMILIARITY + FREQUENCY:FAMILIARITY, data=reaction); summary(rm4)
 #Multiple R-squared:  0.2395,	Adjusted R-squared:  0.1572 
-#Model is significant
+#Model is finally significant --> p-value: 0.03432
 drop1(rm4, test = 'F')
 
 #dropping imageability
 rm5=lm(RT~ FREQUENCY + FAMILIARITY + FREQUENCY:FAMILIARITY, data=reaction); summary(rm5)
 #Multiple R-squared:  0.2393,	Adjusted R-squared:  0.1793 
+#Model is significant --> p-value: 0.01458
 drop1(rm5, test = 'F')
 
 #dropping the interaction between frequency and familiarity
 rm6=lm(RT~ FREQUENCY + FAMILIARITY, data=reaction); summary(rm6)
 #Multiple R-squared:  0.2273,	Adjusted R-squared:  0.1877
 drop1(rm6, test = 'F')
+plot(allEffects(rm6))
 
-#dropping Familiarity
+#We decided to drop Familiarity even though the AIC rises by almost 1. This is because the p value is higher than 0.10 so the predictor is really not that significant and the confidence intervals are huge. However, we understand that maybe? a case could be made to keep Familiarity as a predictor.
 rm7=lm(RT~ FREQUENCY, data=reaction); summary(rm7)
 #Multiple R-squared:  0.172,	Adjusted R-squared:  0.1513 
+#p-value: 0.006324
 drop1(rm7, test = 'F')
 #FINAL MODEL
 plot(allEffects(rm7))
@@ -160,13 +166,14 @@ durbinWatsonTest(rm7)
 #p value not significant so no auto correlation
 plot(rm7)
 #there might be some homoscedasticity but nothing severe
+#residuals are normally distributed
 #no violations of assumptions here
 
 #REPORT
 #The final Model is RT ~ FREQUENCY. The main effects were significant: p< 0.01. There is a negative relationship between frequency and reactiontime. This means that when the frequency gets bigger, the reaction time becomes smaller. The model was highly significant (F(1, 40)=8.307, p = 0.0063) and achieved a low level of variance explained (Multiple R-squared:  0.172,	Adjusted R-squared:  0.1513). There seems to be no problems with checking the model assumptions.
 
 #SPECULATIONS
-#We see that when the frequency of a word gets smaller, the reaction time gets less. This makes perfect sense, when you see a word more often you will recognize it quickly which reduces the reaction time.
+#We see that when the frequency of a word gets smaller, the reaction time gets less. This makes perfect sense, when you see a word more often you will recognize it quickly which reduces the reaction time. All the other predictors and interactions were insignificant which makes it hard to reason about it. Getting back to the research question, only the frequency of a word determins how fast you recognize a string of letters as a work or not.
 
 #########################
 #########Housing Data
@@ -285,6 +292,8 @@ apply(idiom, 2, function(x) any(is.na(x)))
 im1 = lmer(log_RTs ~ (Condition + Freqs + Knowledge + LP + Transparency)^2 + (1|Subject) + (1|Idiom), data = idiom); summary(im1)
 r.squaredGLMM(im1)
 # marginal R^2: 0.02637807
+plot(allEffects(im1))
+#no interaction seems especially interesting and some of them even have large confidence intervals.
 drop1(im1, test = "Chisq")
 #drop interaction between freqs and lp
 
@@ -357,8 +366,9 @@ r.squaredGLMM(im12)
 
 #ASSUMPTIONS
 plot(im12)
+#there seems to be no homoscedasticity
 plot(residuals(im12))
-#no violation of assumptions
+#no violation of normality assumptions
 
 
 #REPORT
@@ -389,11 +399,16 @@ levels(att$storyType)
 
 am1 = lm(normV ~ (Exp + storyType + bias)^3  + age + sex,data=att); summary(am1)
 #Multiple R-squared:  0.4881,	Adjusted R-squared:  0.4721 
+#model is already significant --> p-value: < 2.2e-16
+plot(allEffects(am1))
+#the three way interactin does not seem interessing 
 drop1(am1, test = "F")
 
 #drop three way intercations
 am2 = lm(normV ~ (Exp + storyType + bias)^2  + age + sex,data=att); summary(am2)
 #Multiple R-squared:  0.4881,	Adjusted R-squared:  0.4739 
+plot(allEffects(am2))
+#the expectation*story type interaction is the only one that seems interesting and could be significant. the other interactions all have overlapping confidence intervals and don't really cahnge the slope of the line.
 drop1(am2, test = "F")
 
 #drop interaction between expectation and bias
@@ -405,6 +420,7 @@ drop1(am3, test = "F")
 am4 = lm(normV ~ Exp:storyType + bias + storyType + Exp + age + sex,data=att); summary(am4)
 #Multiple R-squared:  0.4871,	Adjusted R-squared:  0.4765
 drop1(am4, test = "F")
+#we decided to not drop the age predictor since dropping it would raise the AIC value by 2 and it is liturally almost significant p=0.051687
 #FINAL MODEL
 
 plot(allEffects(am4))
@@ -412,7 +428,7 @@ plot(allEffects(am4))
 #ASSUMPTIONS
 plot(am4)
 #no homoscedasticity
-#no servere violaton of normality of residual error.
+#no servere violaton of normality of residual error. Most of the points are close to the line. Only a few points at the beginning and at the end are off by a lot.
 # there are outliers but no highly influentual points
 vif(am4)
 # no multicollinearity
